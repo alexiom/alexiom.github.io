@@ -2,7 +2,7 @@
 title: "Fall 2021 - Econ 390: Data Science for Economics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2021-fall-Econ390
 venue: "UNC, Economics"
 date: 2021-08-18
 location: "Chapel Hill, North Carolina"
