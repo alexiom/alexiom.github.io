@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Economics, University of North Carolina - Chapel Hill, 2024 (expected)
+* Ph.D in Economics, University of North Carolina - Chapel Hill, 2024 (Expected)
 * M.A. in Economics, Duke University, 2019
 * B.S. in Economics, Belmont University, 2016
 
