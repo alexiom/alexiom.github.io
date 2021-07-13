@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-Test
+My current research interests include...
+
+Publications
 ---
 
 {% if author.googlescholar %}
