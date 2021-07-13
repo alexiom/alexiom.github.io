@@ -17,15 +17,20 @@ Education
 
 Work experience
 ======
+* Summer 2021: User Behavior and Economics Research Intern
+  * CableLabs
+  * Duties included: Merging pull requests
+  * Supervisor: Jacob Malone
+* Summer 2020 - Present: Research Assistant
+  * University of North Carolina - Chapel Hill
+  * Duties included: Merging pull requests
+  * Supervisor: Jon Williams
 * Summer 2020 - Fall 2020: Research Assistant
   * University of North Carolina - Chapel Hill
   * Duties included: Tagging issues
   * Supervisor: Luca Maini and Andres Hincapie
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
   
 Skills
 ======
