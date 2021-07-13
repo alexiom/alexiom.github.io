@@ -3,6 +3,10 @@ title: "Fall 2021 - ECON 390: Economic Applications of Data Science"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-econ390
+redirect_from:
+  - /teaching/2021-fall-ECON390
+  - /teaching/2021-Fall-ECON390
+  - /teaching/2021-FALL-ECON390
 venue: "UNC Economics"
 date: 2021-08-18
 location: "Chapel Hill, North Carolina"
