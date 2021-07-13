@@ -20,7 +20,7 @@ Work experience
 * Summer 2020 - Fall 2020: Research Assistant
   * University of North Carolina - Chapel Hill
   * Duties included: Tagging issues
-  * Supervisor: Luca Maini and Andrés Hincapie
+  * Supervisor: Luca Maini and Andres Hincapie
 
 * Fall 2015: Research Assistant
   * Github University
