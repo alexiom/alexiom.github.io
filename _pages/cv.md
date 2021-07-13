@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Economics, University of North Carolina - Chapel Hill, 2024 (expected)
+* M.A. in Economics, Duke University, 2019
+* B.S. in Economics, Belmont University, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2020 - Fall 2020: Research Assistant
+  * University of North Carolina - Chapel Hill
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Luca Maini and Andrés Hincapie
 
 * Fall 2015: Research Assistant
   * Github University
