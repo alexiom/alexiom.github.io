@@ -7,7 +7,10 @@ author_profile: true
 
 My current research interests include...
 
-Publications
+Current Projects
+---
+
+(Publications)
 ---
 
 {% if author.googlescholar %}
