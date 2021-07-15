@@ -60,6 +60,12 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Awards
+======
+* Gallman Scholar Fellowship, \textit{Spring 2022}
+* Center for Regulatory and Industrial Studies Summer Fellowship, \textit{Summer 2021}
+* Duke Economics Tuition Waiver, \textit{Fall 2017 0 Spring 2019}
   
 Service and leadership
 ======
