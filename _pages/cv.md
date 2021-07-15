@@ -15,7 +15,7 @@ Education
 * M.A. in Economics, Duke University, 2019
 * B.S. in Economics, Belmont University, 2016
 
-Work experience
+Research experience
 ======
 * Summer 2021: User Behavior and Economics Research Intern
   * CableLabs
@@ -30,8 +30,6 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Luca Maini and Andres Hincapie
 
-
-  
 Skills
 ======
 * Skill 1
