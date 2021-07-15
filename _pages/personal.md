@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Personal"
+title: "About Me"
 permalink: /personal/
 author_profile: true
 redirect_from:
@@ -8,7 +8,9 @@ redirect_from:
 
 {% include base_path %}
 
-Personal Interests
+When I am not working, I enjoy LIST. I am an avid Nashville Predators' hockey fan, 
+
+Blog
 ======
 
-Testing
+[My personal blog can be found here.](https://alexiom.github.io/year-archive/)
