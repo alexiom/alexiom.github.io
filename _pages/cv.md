@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Economics, University of North Carolina - Chapel Hill, 2024 (Expected)
 * M.A. in Economics, Duke University, 2019
-* B.S. in Economics, Belmont University, 2016
+* B.S. in Economics, Belmont University (*Summa Cum Laude*), 2016
 
 Research experience
 ======
@@ -50,10 +50,10 @@ Teaching
 
 Awards
 ======
-* Gallman Scholar Fellowship, *Spring 2022*
-* Center for Regulatory and Industrial Studies Summer Fellowship, *Summer 2021*
-* Duke Economics Tuition Waiver, *Fall 2017 - Spring 2019*
+* Gallman Scholar Fellowship, Spring 2022
+* Center for Regulatory and Industrial Studies Summer Fellowship, Summer 2021
+* Duke Economics Tuition Waiver, Fall 2017 - Spring 2019
   
 Service and leadership
 ======
-* UNC Economics Graduate Student Association President, *Fall 2021 - Spring 2022*
+* UNC Economics Graduate Student Association President, Fall 2021 - Spring 2022
