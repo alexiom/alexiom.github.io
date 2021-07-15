@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here.](http://alexiom.github.io/files/Alex_Marsh_CV.pdf)
+
 Education
 ======
 * Ph.D in Economics, University of North Carolina - Chapel Hill, 2024 (Expected)
