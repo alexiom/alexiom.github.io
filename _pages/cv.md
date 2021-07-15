@@ -19,16 +19,21 @@ Research experience
 ======
 * Summer 2021: User Behavior and Economics Research Intern
   * CableLabs
-  * Duties included: Merging pull requests
+  * Duties included: Developing a time-use model of consumer demand for internet usage 
   * Supervisor: Jacob Malone
 * Summer 2020 - Present: Research Assistant
   * University of North Carolina - Chapel Hill
-  * Duties included: Merging pull requests
+  * Duties included: Working on research topics around forecasting intermittent, demand with integer-valued outcomes, airline upgrade auction design, and market definitions.
   * Supervisor: Jon Williams
 * Summer 2020 - Fall 2020: Research Assistant
   * University of North Carolina - Chapel Hill
-  * Duties included: Tagging issues
-  * Supervisor: Luca Maini and Andres Hincapie
+  * Duties included: 
+  * Supervisor: Cleaned and managed data from Pharmaprojects and IMS in Stata
+* Fall 2017 - Spring 2019: Research Assistant
+  * Duke University
+  * Duties included: Identified acquisitions in raw data, managed data in SAS, and ran regressions in Stata.
+  * Resulting paper: [How Acquisitions Affect Firm Behavior and Performance: Evidence from the Dialysis Industry](https://academic.oup.com/qje/article-abstract/135/1/221/5607794?redirectedFrom=fulltext)
+  * Supervisor: James Roberts
 
 <!--- Publications --->
 <!--- ====== --->
@@ -51,7 +56,7 @@ Teaching
 Awards
 ======
 * Gallman Scholar Fellowship, Spring 2022
-* Center for Regulatory and Industrial Studies Summer Fellowship, Summer 2021
+* Center for Regulatory and Industrial Studies Collaborative Summer Fellowship, Summer 2021
 * Duke Economics Tuition Waiver, Fall 2017 - Spring 2019
   
 Service and leadership
