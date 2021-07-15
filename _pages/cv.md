@@ -41,9 +41,9 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Test
-[]: # (Publications)
-[]: # (======)
+<!--- Test --->
+Publications
+======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
