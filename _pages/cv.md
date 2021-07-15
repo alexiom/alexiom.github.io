@@ -61,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* UNC Economics Graduate Student Association President, *Fall 2021 - Spring 2022*
