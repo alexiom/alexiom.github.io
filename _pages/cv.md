@@ -63,7 +63,7 @@ Awards
 ======
 * Gallman Scholar Fellowship, *Spring 2022*
 * Center for Regulatory and Industrial Studies Summer Fellowship, *Summer 2021*
-* Duke Economics Tuition Waiver, *Fall 2017 0 Spring 2019*
+* Duke Economics Tuition Waiver, *Fall 2017 - Spring 2019*
   
 Service and leadership
 ======
