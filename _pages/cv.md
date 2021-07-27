@@ -29,8 +29,8 @@ Research experience
   * Supervisor: Jon Williams
 * Summer 2020 - Fall 2020: Research Assistant
   * University of North Carolina - Chapel Hill
-  * Duties included: 
-  * Supervisor: Cleaned and managed data from Pharmaprojects and IMS in Stata
+  * Duties included: Cleaned and managed data from Pharmaprojects and IMS in Stata
+  * Supervisor: Luca Maini and Andres Hincapie
 * Fall 2017 - Spring 2019: Research Assistant
   * Duke University
   * Duties included: Identified acquisitions in raw data, managed data in SAS, and ran regressions in Stata.
