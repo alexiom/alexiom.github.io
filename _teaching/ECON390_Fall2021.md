@@ -2,7 +2,7 @@
 title: "Fall 2021 - ECON 390: Economic Applications of Data Science"
 collection: teaching
 type: "Undergraduate course"
-permalink: https://alexmarsh.io/teaching/ECON390_Fall2021
+permalink: /teaching/ECON390_Fall2021
 redirect_from:
   - /teaching/Econ390_Fall2021
   - /teaching/Econ390_fall2021
