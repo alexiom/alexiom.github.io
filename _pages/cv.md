@@ -19,6 +19,10 @@ Education
 
 Research experience
 ======
+* Summer 2022: Research Assistant  
+  * CableLabs
+  * Duties included: Formatting, cleaning, and combining electricity auction data using Microsoft Excel.  
+  * Supervisor: Chantale LaCasse
 * Summer 2021: User Behavior and Economics Research Intern
   * CableLabs
   * Duties included: Developing a time-use model of consumer demand for internet usage 
@@ -58,7 +62,7 @@ Teaching
 Awards
 ======
 * Gallman Scholar Fellowship, Spring 2022
-* Center for Regulatory and Industrial Studies Collaborative Summer Fellowship, Summer 2021, 2022
+* [Center for Regulatory and Industrial Studies](https://cris.web.unc.edu) Collaborative Summer Fellowship, Summer 2021, 2022
 * Duke Economics Tuition Waiver, Fall 2017 - Spring 2019
   
 Service and leadership
