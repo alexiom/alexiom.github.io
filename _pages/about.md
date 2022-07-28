@@ -16,6 +16,7 @@ My site is still under construction, so please forgive missing items such as pic
 Interests
 ---
 - Empirical Industrial Organization
+- Empirical Auctions
 - Applied Econometrics
 
 Education
