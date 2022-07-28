@@ -11,7 +11,7 @@ redirect_from:
 When I am not working, I enjoy running, playing guitar, and tabletop roleplaying games. I am an avid Nashville Predators hockey fan even if it ultimately results in heartbreak. 
 
 Dungeons and Dragons
-======
+------
 Code that I have written for various purposes in Dungeons and Dragons can be found [here.](https://github.com/alexiom/DND_Code) This includes simulations for determining when to use sharpshooter with various characters of mine and creating a hoard following the random tables in *Fizban's Treasury of Dragons*.
 
 Blog
