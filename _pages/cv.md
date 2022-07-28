@@ -19,8 +19,8 @@ Education
 
 Research experience
 ======
-* Summer 2022: Research Assistant  
-  * CableLabs
+* Summer 2022: Research Assistant 
+  * Personal RA for NERA Affiliated Consultant
   * Duties included: Formatting, cleaning, and combining electricity auction data using Microsoft Excel.  
   * Supervisor: Chantale LaCasse
 * Summer 2021: User Behavior and Economics Research Intern
