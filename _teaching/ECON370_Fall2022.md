@@ -20,5 +20,3 @@ Designed and taught ECON 370, the first course in UNC Econ's DATA credential.
 [Syllabus](http://alexmarsh.io/files/ECON370_Syllabus_Fall2022.pdf)
 
 [Course Website](https://github.com/alexiom/ECON370)
-
-[Teaching Evaluations](http://alexmarsh.io/files/ECON390_Fall2021_Evals.pdf)
