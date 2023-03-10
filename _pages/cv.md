@@ -13,13 +13,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Economics, University of North Carolina - Chapel Hill, 2024 (Expected)
+* Ph.D in Economics, University of North Carolina - Chapel Hill, 2025 (Expected)
 * M.A. in Economics, Duke University, 2019
 * B.S. in Economics and Mathematics, Belmont University, 2016 (*Summa Cum Laude*)
 
 Research experience
 ======
-* Summer 2022: Research Assistant 
+* Summer-Fall 2022: Research Assistant 
   * Personal RA for NERA Affiliated Consultant
   * Duties included: Formatting, cleaning, and combining electricity auction data using Microsoft Excel.  
   * Supervisor: Chantale LaCasse
