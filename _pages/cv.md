@@ -19,6 +19,10 @@ Education
 
 Research experience
 ======
+* Summer 2020 - Present: Research Assistant
+  * University of North Carolina - Chapel Hill
+  * Duties included: Working on research topics around forecasting intermittent, demand with integer-valued outcomes, airline upgrade auction design, and market definitions.
+  * Supervisor: Jon Williams
 * Summer-Fall 2022: Research Assistant 
   * Personal RA for NERA Affiliated Consultant
   * Duties included: Formatting, cleaning, and combining electricity auction data using Microsoft Excel.  
@@ -27,10 +31,6 @@ Research experience
   * CableLabs
   * Duties included: Developing a time-use model of consumer demand for internet usage 
   * Supervisor: Jacob Malone
-* Summer 2020 - Present: Research Assistant
-  * University of North Carolina - Chapel Hill
-  * Duties included: Working on research topics around forecasting intermittent, demand with integer-valued outcomes, airline upgrade auction design, and market definitions.
-  * Supervisor: Jon Williams
 * Summer 2020 - Fall 2020: Research Assistant
   * University of North Carolina - Chapel Hill
   * Duties included: Cleaned and managed data from Pharmaprojects and IMS in Stata
