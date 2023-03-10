@@ -23,7 +23,7 @@ Research experience
   * University of North Carolina - Chapel Hill
   * Duties included: Working on research topics around forecasting intermittent, demand with integer-valued outcomes, airline upgrade auction design, and market definitions.
   * Supervisor: Jon Williams
-* Summer-Fall 2022: Research Assistant 
+* Summer - Fall 2022: Research Assistant 
   * Personal RA for NERA Affiliated Consultant
   * Duties included: Formatting, cleaning, and combining electricity auction data using Microsoft Excel.  
   * Supervisor: Chantale LaCasse
