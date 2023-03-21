@@ -8,6 +8,10 @@ redirect_from:
   - /teaching/Econ370_fall2022
   - /teaching/econ370_Fall2022
   - /teaching/econ370_fall2022
+  - /teaching/Econ370Fall2022
+  - /teaching/Econ370fall2022
+  - /teaching/econ370Fall2022
+  - /teaching/econ370fall2022
 venue: "UNC Economics"
 date: 2022-08-14
 location: "Chapel Hill, North Carolina"

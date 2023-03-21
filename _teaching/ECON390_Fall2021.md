@@ -8,6 +8,10 @@ redirect_from:
   - /teaching/Econ390_fall2021
   - /teaching/econ390_Fall2021
   - /teaching/econ390_fall2021
+  - /teaching/Econ390Fall2021
+  - /teaching/Econ390fall2021
+  - /teaching/econ390Fall2021
+  - /teaching/econ390fall2021
 venue: "UNC Economics"
 date: 2021-08-18
 location: "Chapel Hill, North Carolina"
