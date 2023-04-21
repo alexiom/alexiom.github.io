@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-When I am not working, I enjoy running, playing guitar, and tabletop roleplaying games. I am an avid Nashville Predators hockey fan even if it ultimately results in heartbreak. 
+When I am not working, I enjoy running and lifting weights, playing guitar, tabletop roleplaying games, and reading, particularly fantasy and horror. I am an avid Nashville Predators hockey fan even if it ultimately results in heartbreak. 
 
 Dungeons and Dragons
 ------
