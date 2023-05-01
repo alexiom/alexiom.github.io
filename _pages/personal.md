@@ -14,6 +14,10 @@ Dungeons and Dragons
 ------
 Code that I have written for various purposes in Dungeons and Dragons can be found [here.](https://github.com/alexiom/DND_Code) This includes simulations for determining when to use sharpshooter with various characters of mine and creating a hoard following the random tables in *Fizban's Treasury of Dragons*.
 
+Goodreads
+------
+My Goodreads account can be found [here.](https://www.goodreads.com/user/show/164916455-alex-marsh)
+
 Blog
 ======
 
