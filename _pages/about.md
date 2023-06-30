@@ -18,6 +18,6 @@ Interests
 
 Education
 ---
-- Ph.D. in Economics, University of North Carolina - Chapel Hill, 2024 (Expected)
+- Ph.D. in Economics, University of North Carolina - Chapel Hill, 2025 (Expected)
 - M.A in Economics, Duke University, 2019
 - B.S in Economics and Mathematics, Belmont University, 2016 (*Summa Cum Laude*)
