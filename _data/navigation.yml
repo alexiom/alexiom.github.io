@@ -14,3 +14,6 @@ main:
     
   - title: "Personal"
     url: /personal/
+    
+  - title: "Test"
+    url: /test/
