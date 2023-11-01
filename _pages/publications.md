@@ -3,6 +3,7 @@ layout: archive
 title: "Research"
 permalink: /publications/
 author_profile: true
+redirect_from: /research/
 ---
 
 My current research interests include forecasting intermittent demand, airline upgrade auctions, and empirically defining markets. 
