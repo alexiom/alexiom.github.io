@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Job Market"
+    url: /jobmarket/
+    
   - title: "Research"
     url: /publications/
 
@@ -14,6 +17,3 @@ main:
     
   - title: "Personal"
     url: /personal/
-    
-  - title: "Test"
-    url: /test/
