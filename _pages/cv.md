@@ -4,10 +4,8 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume/
 ---
-
-{% include base_path %}
 
 [Download CV here.](http://alexmarsh.io/files/Alex_Marsh_CV.pdf)
 
