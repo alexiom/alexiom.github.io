@@ -13,7 +13,7 @@
 
   @include clearfix();
   //padding-top: $masthead-height;
-  //margin-top: 2em;
+  margin-top: 2em;
   margin-bottom: 1em;
 
   @include breakpoint($large) {
