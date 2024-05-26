@@ -10,10 +10,9 @@ redirect_from:
 
 My name is Alex Marsh, and I am a doctoral student in economics at the University of North Carolina - Chapel Hill. My research interests include empirical industrial organization and applied econometrics.
 
-Interests
+Research Interests
 ---
 - Empirical Industrial Organization
-- Empirical Auctions
 - Applied Econometrics
 
 Education
