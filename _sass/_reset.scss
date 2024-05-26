@@ -34,9 +34,6 @@ body { margin: 0; }
   background: #000;
 }
 
-::nav{
-  background-color: #7BAFD4;
-}
 
 /* Display HTML5 elements in IE6-9 and FF3 */
 
@@ -49,7 +46,7 @@ footer,
 header,
 hgroup,
 main,
-
+nav,
 section {
   display: block;
 }
