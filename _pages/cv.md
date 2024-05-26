@@ -59,9 +59,10 @@ Teaching
 
 Awards
 ======
+* [Center for Regulatory and Industrial Studies](https://cris.web.unc.edu/home/fellowships/) Collaborative Summer Fellowship, Summer 2021, 2022, 2023, 2024
 * Gallman Scholar Fellowship, Spring 2022
-* [Center for Regulatory and Industrial Studies](https://cris.web.unc.edu) Collaborative Summer Fellowship, Summer 2021, 2022
 * Duke Economics Tuition Waiver, Fall 2017 - Spring 2019
+* Belmont University Summa Cum Laude, December 2016
   
 Service and leadership
 ======
