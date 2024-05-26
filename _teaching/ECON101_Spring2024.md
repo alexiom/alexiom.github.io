@@ -24,5 +24,5 @@ location: "Chapel Hill, North Carolina"
 **Course Description**: ECON 101 is an introductory course in microeconomics and macroeconomics. In this course students are introduced to the basic theory and models that economists use to analyze the world. The concepts introduced include comparative advantage and the gains from trade; supply, demand, and the market system; the theory of the firm; market failures; national income and its determination; inflation and unemployment; economic growth, and monetary and fiscal policy. 
 
 **Teaching Evaluations**
-- [Recitation Section 602](https://alexmarsh.io/files/ECON101-602_Spring2024_Evals.pdf)
-- [Recitation Section 601](https://alexmarsh.io/files/ECON101-601_Spring2024_Evals.pdf)
+- [**Recitation Section 602**](https://alexmarsh.io/files/ECON101-602_Spring2024_Evals.pdf)
+- [**Recitation Section 601**](https://alexmarsh.io/files/ECON101-601_Spring2024_Evals.pdf)
