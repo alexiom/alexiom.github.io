@@ -45,7 +45,9 @@ footer,
 header,
 hgroup,
 main,
-nav,
+nav{
+  background-color: #7BAFD4;
+}
 section {
   display: block;
 }
