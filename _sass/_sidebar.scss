@@ -9,9 +9,9 @@
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
-  padding-top: 5em 0 0;
 
   @include clearfix();
+  padding-top: $masthead-height;
   margin-bottom: 1em;
 
   @include breakpoint($large) {
