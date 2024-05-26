@@ -9,7 +9,7 @@ redirect_from: /Teaching/
 
 Instructor
 ---
-1. [ECON 370: Economic Applications of Data Science - Fall 2023](https://alexmarsh.io/teaching/ECON370_Fall2023)
+1. [**ECON 370: Economic Applications of Data Science - Fall 2023**](https://alexmarsh.io/teaching/ECON370_Fall2023)
 2. [ECON 370: Economic Applications of Data Science - Fall 2022](https://alexmarsh.io/teaching/ECON370_Fall2022)
 3. [ECON 390: Economic Applications of Data Science - Fall 2021](https://alexmarsh.io/teaching/ECON370_Fall2023)
 
