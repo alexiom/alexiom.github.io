@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .masthead {
-  position: relative;
+  position: fixed;
   top: 0;
   width: 100%;
   background-color: white;
@@ -13,6 +13,7 @@
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
+  height: 3em;
 
   &__inner-wrap {
     @include container;
