@@ -22,7 +22,7 @@ Research experience
   * Duties included: Working on research topics around forecasting intermittent, demand with integer-valued outcomes, airline upgrade auction design, and market definitions.
   * Supervisor: Jon Williams
 * Summer - Fall 2022: Research Assistant 
-  * Personal RA for NERA Affiliated Consultant
+  * Personal RA Chantale LaCasse
   * Duties included: Formatting, cleaning, and combining electricity auction data using Microsoft Excel.  
   * Supervisor: Chantale LaCasse
 * Summer 2021: User Behavior and Economics Research Intern
