@@ -1,5 +1,5 @@
 ---
-title: "Fall 2022 - ECON 370: Economic Applications of Data Science"
+title: "ECON 370: Economic Applications of Data Science - Fall 2022"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ECON370_Fall2022

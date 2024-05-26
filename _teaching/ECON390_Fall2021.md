@@ -1,5 +1,5 @@
 ---
-title: "Fall 2021 - ECON 390: Economic Applications of Data Science"
+title: "ECON 390: Economic Applications of Data Science - Fall 2021"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ECON390_Fall2021
