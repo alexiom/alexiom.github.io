@@ -19,4 +19,4 @@ Education
 ---
 - Ph.D. in Economics, University of North Carolina - Chapel Hill, May 2025 (Expected)
 - M.A in Economics, Duke University, May 2019
-- B.S in Economics and Mathematics, Belmont University, December 2016 (*Summa Cum Laude*)
+- B.S in Economics, Belmont University, December 2016 (*Summa Cum Laude*)
