@@ -6,6 +6,10 @@ author_profile: true
 header:
   overlay_image: /images/unc_test.jpg
   actions:
+    - label: "Research"
+      url: "https://alexmarsh.io/research/"
+    - label: "Teaching"
+      url: "https://alexmarsh.io/teaching/"
     - label: "CV"
       url: "https://alexmarsh.io/files/AlexMarshCV.pdf"    
 tagline: "Job Market Candidate: 2024-2025"
