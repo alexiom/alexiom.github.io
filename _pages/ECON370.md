@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "ECON 370: Economic Applications of Data Science"
+title: "ECON 370"
 permalink: /teaching/ECON370
 author_profile: true
 header:
   overlay_image: /images/unc_test.jpg
-tagline: ""
+tagline: " Economic Applications of Data Science"
 redirect_from:
   - /teaching/Econ370
   - /teaching/econ370
