@@ -1,9 +1,13 @@
 ---
-layout: archive
-title: "Research"
+layout: single
 permalink: /research/
+title: "Research"
 author_profile: true
+header:
+  overlay_image: /images/unc_test.jpg
+tagline: "Job Market Candidate: 2024-2025"
 redirect_from: /publications/
+
 ---
 
 
