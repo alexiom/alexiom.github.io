@@ -166,7 +166,7 @@ footer:
 include:
   - .htaccess
   - _pages
-  _ _teaching
+  - _teaching
   - files
   - images
 exclude:
