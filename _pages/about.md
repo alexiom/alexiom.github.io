@@ -21,6 +21,6 @@ I am on the 2024-2025 job market.
 - Applied Econometrics
 
 ## Education
-- Ph.D. in Economics, University of North Carolina - Chapel Hill, May 2025 (Expected)
+- Ph.D. in Economics, UNC - Chapel Hill, May 2025 (Expected)
 - M.A in Economics, Duke University, May 2019
 - B.S in Economics, Belmont University, December 2016 (*Summa Cum Laude*)
