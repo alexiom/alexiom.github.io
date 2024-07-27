@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "ECON 370"
+title: "ECON 370 at UNC"
 permalink: /teaching/ECON370
 author_profile: true
 header:
@@ -14,7 +14,9 @@ redirect_from:
   - /Teaching/econ370
 ---
 
-# Course Information
+## Course Information
+
+**Institution & Date**: University of North Carolina at Chapel Hill, Fall 2021, Fall 2022, Fall 2023
 
 **Instructor**: Alex Marsh
 

@@ -1,20 +1,16 @@
 ---
 layout: single
-title: "ECON 101"
-permalink: /teaching/ECON101
+title: "ECON 101 at UNC"
+permalink: /teaching/UNC_ECON101
 author_profile: true
 header:
   overlay_image: /images/unc_test.jpg
 tagline: "Introduction to Economics"
-redirect_from:
-  - /teaching/Econ101
-  - /teaching/econ101
-  - /Teaching/ECON101
-  - /Teaching/Econ101
-  - /Teaching/econ101
 ---
 
 # Course Information
+
+**Institution & Date**: University of North Carolina at Chapel Hill, Spring 2024
 
 **Instructor**: Robert McDonough
 
