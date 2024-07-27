@@ -1,8 +1,11 @@
 ---
-layout: archive
-title: "Teaching Experience"
+layout: single
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
+header:
+  overlay_image: /images/unc_test.jpg
+tagline: "Job Market Candidate: 2024-2025"
 redirect_from: /Teaching/
 ---
 
