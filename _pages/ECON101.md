@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "ECON 101: Introduction to Economics"
+title: "ECON 101"
 permalink: /teaching/ECON101
 author_profile: true
 header:
   overlay_image: /images/unc_test.jpg
-tagline: ""
+tagline: "Introduction to Economics"
 redirect_from:
   - /teaching/Econ101
   - /teaching/econ101
