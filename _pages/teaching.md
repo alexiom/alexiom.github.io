@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Teaching"
+title: "Teaching Experience"
 permalink: /teaching/
 author_profile: true
 header:
