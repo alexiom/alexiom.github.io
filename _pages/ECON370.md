@@ -11,7 +11,7 @@ redirect_from:
   - /teaching/econ370
   - /Teaching/ECON370
   - /Teaching/Econ370
-  - /Teaching/ccon370
+  - /Teaching/econ370
 ---
 
 
