@@ -12,7 +12,7 @@ header:
 tagline: "Current Job Market Candidate"
 ---
 
-My name is Alex Marsh, and I am a doctoral student in economics at the University of North Carolina - Chapel Hill. I am on the 2024-2025 job market.
+My name is Alex Marsh, and I am a doctoral student in economics at the University of North Carolina - Chapel Hill. I am on currently job market. Please see my CV, research, and teaching experience.
 
 ## Research Interests
 - Empirical Industrial Organization
