@@ -7,10 +7,6 @@ header:
   overlay_image: /images/unc_test.jpg
   overlay_filter: 0.75
   actions:
-    - label: "Research"
-      url: "https://alexmarsh.io/research/"
-    - label: "Teaching"
-      url: "https://alexmarsh.io/teaching/"
     - label: "CV"
       url: "https://alexmarsh.io/files/AlexMarshCV.pdf"    
 tagline: "Job Market Candidate: 2024-2025"
