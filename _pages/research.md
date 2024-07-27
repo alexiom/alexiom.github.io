@@ -5,7 +5,7 @@ title: "Research"
 author_profile: true
 header:
   overlay_image: /images/unc_test.jpg
-  overlay_filter: 0.35
+  overlay_filter: 0.30
 redirect_from: /publications/
 
 ---
