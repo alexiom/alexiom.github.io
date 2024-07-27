@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 header:
   overlay_image: /images/unc_test.jpg
+  overlay_filter: 0.35
 tagline: "Job Market Candidate: 2024-2025"
 redirect_from: /Teaching/
 ---
