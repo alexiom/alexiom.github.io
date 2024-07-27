@@ -7,8 +7,7 @@ header:
   overlay_image: /images/unc_test.jpg
   actions:
     - label: "CV"
-      url: "https://alexmarsh.io/files/AlexMarshCV.pdf"
-      
+      url: "https://alexmarsh.io/files/AlexMarshCV.pdf"    
 tagline: "Job Market Candidate: 2024-2025"
 ---
 
