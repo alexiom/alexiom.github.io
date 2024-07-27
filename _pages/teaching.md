@@ -10,11 +10,11 @@ redirect_from: /Teaching/
 ---
 
 
-# Instructor
+## Instructor
 - [**ECON 370: Economic Applications of Data Science**](https://alexmarsh.io/teaching/ECON370)
     - UNC: Fall 2021, Fall 2022, Fall 2023
 
-# Teaching Assistant
+## Teaching Assistant
 - [**ECON 101: Introduction to Economics**](https://alexmarsh.io/teaching/ECON101)
     - UNC: Spring 2024
 - ECON 470: Econometrics
