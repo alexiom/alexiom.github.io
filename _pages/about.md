@@ -4,6 +4,7 @@ permalink: /
 author_profile: true
 header:
   overlay_image: /images/unc_test.jpg
+excerpt: "Job Market Candidate: 2024-2025"
 ---
 
 My name is Alex Marsh, and I am a doctoral student in economics at the University of North Carolina - Chapel Hill. My research interests include empirical industrial organization and applied econometrics.
