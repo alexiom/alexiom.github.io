@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Alex Marsh"
-  avatar           : "/files/casual_headshot.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/casual_headshot.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Economics PhD Student at UNC - Chapel Hill"
   location         : "Chapel Hill, NC"
   email            : "alex.marsh@unc.edu"
