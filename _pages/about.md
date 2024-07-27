@@ -3,7 +3,6 @@ layout: single
 permalink: /
 author_profile: true
 header:
-  image: /images/unc_test.jpg
   overlay_image: /images/unc_test.jpg
 ---
 
