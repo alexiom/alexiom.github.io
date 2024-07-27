@@ -2,9 +2,8 @@
 layout: single
 permalink: /
 title: "Welcome To My Personal Website"
-header:
-	image: /images/unc_test.jpg
- 	overlay_image: /images/unc_test.jpg
+excerpt: "About me"
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
