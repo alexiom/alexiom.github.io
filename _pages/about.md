@@ -5,7 +5,7 @@ title: "Alex Marsh"
 author_profile: true
 header:
   overlay_image: /images/unc_test.jpg
-  overlay_filter: 0.20
+  overlay_filter: 0.25
   actions:
     - label: "CV"
       url: "https://alexmarsh.io/files/AlexMarshCV.pdf"    
