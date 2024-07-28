@@ -221,15 +221,14 @@ blockquote {
 }
 
 .student__quote {
-    margin-block: -1em;
-    margin-inline-end: 0em;
-    padding-left: 2em;
+    margin-block: 0em;
+    padding-block: 0em;
+    margin-inline: 0em;
+    padding-left: 3em;
     padding-right: 0em;
     font-style: italic;
     border-inline-start: 0.25em solid $primary-color;
-        
-    margin-left: 0em;
-    margin-right: 0em;
+
     font-size: $type-size-7;
 }
 
