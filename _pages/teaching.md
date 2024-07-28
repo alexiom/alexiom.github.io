@@ -9,7 +9,7 @@ header:
 redirect_from: /Teaching/
 ---
 
-> Testing, but but yet again!
+> Testing, for the last time?
 
 # Instructor
 
