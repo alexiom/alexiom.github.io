@@ -19,10 +19,10 @@ redirect_from: /Teaching/
 Designed and taught ECON 370, the first course in the [**DATA credential**](https://econ.unc.edu/undergraduate/data-science-credential/) for undergraduate UNC economics majors.  &nbsp; <a href="http://alexmarsh.io/files/ECON370_Syllabus_Fall2023.pdf" class="btn btn--primary btn--x-small btn--half">Syallbus</a> 
 
 #### Student Evaluations
-<div class="student__quote__container">
+<div class="quote__container">
   
   <!-- First Quote -->
-  <div class="student__quote__minipage">
+  <div class="quote__minipage">
     <blockquote>
     	<center style="margin-bottom: 0.25em;"> <a href="http://alexmarsh.io/files/ECON390_Fall2021_Evals.pdf" class="btn btn--primary btn--half">Fall 2021</a> </center>
     	
@@ -31,7 +31,7 @@ Designed and taught ECON 370, the first course in the [**DATA credential**](http
     <cite> Fall 2021 Student</cite>
     </blockquote>
   </div>
-  <div class="student__quote__minipage">
+  <div class="quote__minipage">
     <blockquote>
     	<center style="margin-bottom: 0.25em;"> <a href="http://alexmarsh.io/files/ECON370_Fall2022_Evals.pdf" class="btn btn--primary btn--half">Fall 2022</a> </center>
     	
@@ -40,7 +40,7 @@ Designed and taught ECON 370, the first course in the [**DATA credential**](http
     <cite> Fall 2022 Student</cite>
     </blockquote>
   </div>
-  <div class="student__quote__minipage">
+  <div class="quote__minipage">
     <blockquote>
     	<center style="margin-bottom: 0.25em;"><a href="http://alexmarsh.io/files/ECON370_Fall2023_Evals.pdf" class="btn btn--primary btn--half">Fall 2023</a></center>
     	
@@ -68,10 +68,10 @@ ECON 370 is intended to provide a broad-based introduction to numerical and data
 #### Student Evaluations
 
 
-<div class="student__quote__container">
+<div class="quote__container">
   
   <!-- First Quote -->
-  <div class="student__quote__minipage">
+  <div class="quote__minipage">
     <blockquote>
     	<center style="margin-bottom: 0.25em;"> <a href="https://alexmarsh.io/files/ECON101-602_Spring2024_Evals.pdf" class="btn btn--primary btn--half"> Spring 2024: Recitation 602 </a> </center>
     	
@@ -79,7 +79,7 @@ ECON 370 is intended to provide a broad-based introduction to numerical and data
     <cite> Spring 2024: Recitation 602 Student</cite>
     </blockquote>
   </div>
-  <div class="student__quote__minipage">
+  <div class="quote__minipage">
     <blockquote>
     	<center style="margin-bottom: 0.25em;"> <a href="https://alexmarsh.io/files/ECON101-601_Spring2024_Evals.pdf" class="btn btn--primary btn--half"> Spring 2024: Recitation 601 </a>  </center>
     	
