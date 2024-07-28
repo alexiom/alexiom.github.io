@@ -1,5 +1,5 @@
 ---
-layout: single_teach
+layout: teaching
 title: "Teaching Experience"
 permalink: /teaching/
 author_profile: true
@@ -14,7 +14,7 @@ redirect_from: /Teaching/
 
 ## ECON 370: Economic Applications of Data Science
 
-> Testing
+> Testing, again!
 
 Designed and taught ECON 370, the first course in the DATA credential for undergraduate UNC economics majors.
 
