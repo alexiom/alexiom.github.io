@@ -244,8 +244,7 @@ blockquote {
 .student__quote__minipage {
   flex: 1; /* Each minipage takes up equal space */
   margin: 0; /* Adjust the margin as needed */
-  padding: 10px; /* Adjust the padding as needed */
-  border: 1px solid #ddd; /* Optional border */
+  padding: 0; /* Adjust the padding as needed */
   background-color: #f9f9f9; /* Optional background color for visibility */
 }
 
@@ -256,7 +255,7 @@ blockquote {
   padding-left: 3em;
   padding-right: 0em;
   background-color: #f0f0f0; /* Background color */
-  border-left: 0.25em solid $primary-color;
+  border-left: 0.5em solid $primary-color;
   font-style: italic; /* Italic text */
   font-size: $type-size-7;
 }
