@@ -18,7 +18,10 @@ redirect_from: /Teaching/
 
 Designed and taught ECON 370, the first course in the DATA credential for undergraduate UNC economics majors.
 
-<center>**Student Evaluations**</center>
+<div style="text-align: center;">
+  <strong>Student Evaluations</strong>
+</div>
+
 <center>
 <a href="http://alexmarsh.io/files/ECON370_Fall2021_Evals.pdf" class="btn btn--primary btn--large">Fall 2021</a> &nbsp; &nbsp; &nbsp; <a href="http://alexmarsh.io/files/ECON370_Fall2022_Evals.pdf" class="btn btn--primary btn--large">Fall 2022</a> &nbsp; &nbsp; &nbsp; <a href="http://alexmarsh.io/files/ECON370_Fall2023_Evals.pdf" class="btn btn--primary btn--large">Fall 2023</a>
 </center>
