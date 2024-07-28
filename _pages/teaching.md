@@ -21,11 +21,11 @@ Designed and taught ECON 370, the first course in the DATA credential for underg
 
 <strong>Student Evaluations</strong> &nbsp; <a href="http://alexmarsh.io/files/ECON390_Fall2021_Evals.pdf" class="btn btn--primary btn--large">Fall 2021</a> &nbsp; &nbsp; &nbsp; <a href="http://alexmarsh.io/files/ECON370_Fall2022_Evals.pdf" class="btn btn--primary btn--large">Fall 2022</a> &nbsp; &nbsp; &nbsp; <a href="http://alexmarsh.io/files/ECON370_Fall2023_Evals.pdf" class="btn btn--primary btn--large">Fall 2023</a>
 
-<div style="display: flex; flex-direction: row; gap: 10px;">
-  <div style="flex: 1; padding: 2px; border: 1px solid #ddd;">
+<div class="student__quote__minipage">
   
-    <!-- First Quote -->
-    <blockquote class="student__quote">
+  <!-- First Quote -->
+  <div class="student__quote">
+    <blockquote>
     Alex did a great job of teaching coding and the assignments were manageable and informative. It was much faster paced than other coding classes other students and I have taken, but Alex was super understanding and that was helpful.
     
     <cite> Student, Fall 2021</cite>
@@ -33,14 +33,22 @@ Designed and taught ECON 370, the first course in the DATA credential for underg
     </blockquote>
   </div>
   
-  <div style="flex: 1; padding: 2px; border: 1px solid #ddd;">
-    <!-- Content for the second "minipage" -->
-    This is the content of the second "minipage".
+  <div class="student__quote">
+    <blockquote>
+    Alex did a great job of teaching coding and the assignments were manageable and informative. It was much faster paced than other coding classes other students and I have taken, but Alex was super understanding and that was helpful.
+    
+    <cite> Student, Fall 2021</cite>
+    
+    </blockquote>
   </div>
   
-   <div style="flex: 1; padding: 2px; border: 1px solid #ddd;">
-    <!-- Content for the second "minipage" -->
-    This is the content of the third "minipage".
+  <div class="student__quote">
+    <blockquote>
+    Alex did a great job of teaching coding and the assignments were manageable and informative. It was much faster paced than other coding classes other students and I have taken, but Alex was super understanding and that was helpful.
+    
+    <cite> Student, Fall 2021</cite>
+    
+    </blockquote>
   </div>
 </div>
 
