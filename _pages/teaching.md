@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: single_teach
 title: "Teaching Experience"
 permalink: /teaching/
 author_profile: true

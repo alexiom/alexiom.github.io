@@ -172,6 +172,13 @@ body {
   }
 }
 
+.page__content__teach {
+    
+    @extend .page__content;
+    padding-left: 2em;
+    
+}
+
 .page__hero {
   position: relative;
   margin-bottom: 2em;
