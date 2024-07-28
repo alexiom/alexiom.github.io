@@ -24,8 +24,10 @@ Designed and taught ECON 370, the first course in the DATA credential for underg
 <div style="display: flex; flex-direction: row; gap: 20px;">
   <div style="flex: 1; padding: 2px; border: 1px solid #ddd;">
     <!-- Content for the first "minipage" -->
-    <blockquote style="padding: 2px">
+    <blockquote>
+    <p style="margin-left: 2px">
     Alex did a great job of teaching coding and the assignments were manageable and informative. It was much faster paced than other coding classes other students and I have taken, but Alex was super understanding and that was helpful.
+    </p>
     </blockquote>
   </div>
   <div style="flex: 1; padding: 2px; border: 1px solid #ddd;">
