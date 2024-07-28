@@ -220,6 +220,19 @@ blockquote {
     
 }
 
+.student__quote {
+    margin-block: 0em;
+    margin-inline-end: 0em;
+    padding-left: 1em;
+    padding-right: 0em;
+    font-style: italic;
+    border-inline-start: 0.25em solid $primary-color;
+        
+    margin-left: 0em;
+    margin-right: 0em;
+    font-size: $type-size-7;
+}
+
 .page__hero {
   position: relative;
   margin-bottom: 2em;
