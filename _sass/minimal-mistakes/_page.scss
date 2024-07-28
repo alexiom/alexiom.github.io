@@ -245,7 +245,7 @@ blockquote {
   flex: 1; /* Each minipage takes up equal space */
   margin: 0; /* Adjust the margin as needed */
   padding: 0; /* Adjust the padding as needed */
-  background-color: #f9f9f9; /* Optional background color for visibility */
+  border: 1px solid #000000;
 }
 
 /* Block quote styles inside .minipage */
