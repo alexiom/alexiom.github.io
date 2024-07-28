@@ -23,6 +23,6 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
   color: inherit;
 }
 
-.greedy-nav a:before {
-  background: $masthead-link-color;
+.greedy-nav .visible-links a:before {
+  background-color: $masthead-link-color;
 }
