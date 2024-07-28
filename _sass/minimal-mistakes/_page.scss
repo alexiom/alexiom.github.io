@@ -238,6 +238,7 @@ blockquote {
   display: flex;
   flex-wrap: nowrap; /* Allows items to wrap onto the next line if needed */
   flex-direction: row;
+  maring-left: 2em;
   gap: 5px; /* Space between items */
 }
 
@@ -254,7 +255,6 @@ blockquote {
   padding-block: 0em;
   padding-left: 1em;
   padding-right: 0em;
-  background-color: #f0f0f0; /* Background color */
   border-left: 0.5em solid $primary-color;
   font-style: italic; /* Italic text */
   font-size: $type-size-7;
