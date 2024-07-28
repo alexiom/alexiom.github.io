@@ -175,7 +175,19 @@ body {
 .page__content__teach {
     
     @extend .page__content;
-    padding-left: 2em;
+    
+    p,
+    li,
+    dl,
+    blockquote,
+    pre,
+    code,
+    dt,
+    dd,
+    .small,
+    :not(pre) > code {
+        margin-left: 2em; /* Adjust the value as needed */
+    }
     
 }
 
