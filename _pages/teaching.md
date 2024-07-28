@@ -21,33 +21,28 @@ Designed and taught ECON 370, the first course in the DATA credential for underg
 
 <strong>Student Evaluations</strong> &nbsp; <a href="http://alexmarsh.io/files/ECON390_Fall2021_Evals.pdf" class="btn btn--primary btn--large">Fall 2021</a> &nbsp; &nbsp; &nbsp; <a href="http://alexmarsh.io/files/ECON370_Fall2022_Evals.pdf" class="btn btn--primary btn--large">Fall 2022</a> &nbsp; &nbsp; &nbsp; <a href="http://alexmarsh.io/files/ECON370_Fall2023_Evals.pdf" class="btn btn--primary btn--large">Fall 2023</a>
 
-<div class="student__quote__minipage">
+<div class="student__quote__container">
   
   <!-- First Quote -->
-  <div class="student__quote">
+  <div class="student__quote__minipage">
     <blockquote>
-    Alex did a great job of teaching coding and the assignments were manageable and informative. It was much faster paced than other coding classes other students and I have taken, but Alex was super understanding and that was helpful.
-    
+    	Alex did a great job of teaching coding and the assignments were manageable and informative. It was much faster paced than other coding classes other students and I have taken, but Alex was super understanding and that was helpful.
+  
     <cite> Student, Fall 2021</cite>
-    
     </blockquote>
   </div>
-  
-  <div class="student__quote">
+  <div class="student__quote__minipage">
     <blockquote>
-    Alex did a great job of teaching coding and the assignments were manageable and informative. It was much faster paced than other coding classes other students and I have taken, but Alex was super understanding and that was helpful.
-    
+    	Alex did a great job of teaching coding and the assignments were manageable and informative. It was much faster paced than other coding classes other students and I have taken, but Alex was super understanding and that was helpful.
+  
     <cite> Student, Fall 2021</cite>
-    
     </blockquote>
   </div>
-  
-  <div class="student__quote">
+  <div class="student__quote__minipage">
     <blockquote>
-    Alex did a great job of teaching coding and the assignments were manageable and informative. It was much faster paced than other coding classes other students and I have taken, but Alex was super understanding and that was helpful.
-    
+    	Alex did a great job of teaching coding and the assignments were manageable and informative. It was much faster paced than other coding classes other students and I have taken, but Alex was super understanding and that was helpful.
+  
     <cite> Student, Fall 2021</cite>
-    
     </blockquote>
   </div>
 </div>

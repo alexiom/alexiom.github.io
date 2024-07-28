@@ -233,40 +233,47 @@ blockquote {
 }
 */
 
-.student__quote_minipage{
-    display: flex;
-    flex-direction: row;
-    gap: 10px
+
+.student__quote__container {
+  display: flex;
+  flex-wrap: wrap; /* Allows items to wrap onto the next line if needed */
+  gap: 10px; /* Space between items */
 }
 
-.student__quote {
-    
-    @extend .page__content;
-    
-    flex: 1; 
-    padding: 2px; 
-    border: 1px solid #ddd;
-    
-    blockquote {
-        margin-block: 2em;
-        margin-inline-end: 1em;
-        padding-inline: 1em;
-        font-style: italic;
-        border-inline-start: 0.25em solid $primary-color;
-
-        cite {
-            font-style: italic;
-
-            &::before {
-                content: "\2014";
-                padding-inline-end: 5px;
-            }
-        }
-
-        font-size: $type-size-7;
-    }
-
+.student__quote__minipage {
+  flex: 1; /* Each minipage takes up equal space */
+  min-width: 45%; /* Minimum width to prevent too small columns */
+  margin: 10px; /* Adjust the margin as needed */
+  padding: 10px; /* Adjust the padding as needed */
+  border: 1px solid #ddd; /* Optional border */
+  box-sizing: border-box; /* Ensure padding and border are included in the width */
+  background-color: #f9f9f9; /* Optional background color for visibility */
 }
+
+/* Block quote styles inside .minipage */
+.student__quote__minipage blockquote {
+  margin: 0 0; /* Vertical margin */
+  padding-block: 0em;
+  padding-left: 3em;
+  padding-right: 0em;
+  background-color: #f0f0f0; /* Background color */
+  border-left: 0.25em solid $primary-color;
+  font-style: italic; /* Italic text */
+  font-size: $type-size-7;
+}
+
+.student__quote__minipage blockquote cite {
+  display: block;
+  margin-top: 10px; /* Margin above the cite */
+  font-style: normal; /* Normal font style for the cite */
+  text-align: right; /* Align cite to the right */
+  color: #333; /* Color of the cite */
+}
+
+.student__quote__minipage blockquote cite::before {
+  content: "\2014 \00A0"; /* Em dash with a non-breaking space */
+}
+
 
 .page__hero {
   position: relative;
