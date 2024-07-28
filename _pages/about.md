@@ -14,6 +14,8 @@ tagline: "Economics Job Market Candidate"
 
 My name is Alex Marsh, and I am a doctoral student in economics at the University of North Carolina - Chapel Hill. I am on currently job market. Please see my CV, research, and teaching experience.
 
+<center>[CV](https://alexmarsh.io/files/AlexMarshCV.pdf){: .btn .btn--primary}</center>
+
 ## Research Interests
 - Empirical Industrial Organization
 - Applied Econometrics
