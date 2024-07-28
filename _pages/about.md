@@ -9,7 +9,7 @@ header:
 tagline: "Economics Job Market Candidate"
 ---
 
-My name is Alex Marsh, and I am a doctoral student in economics at the University of North Carolina - Chapel Hill. I am on currently job market. Please see my CV, research, and teaching experience.
+My name is Alex Marsh, and I am a doctoral student in economics at the University of North Carolina - Chapel Hill. I am on currently job market, so feel free to see my CV below and my website.
 
 <center><a href="https://alexmarsh.io/files/AlexMarshCV.pdf" class="btn btn--primary btn--large">CV</a></center>
 
