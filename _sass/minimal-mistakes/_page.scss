@@ -172,6 +172,24 @@ body {
   }
 }
 
+blockquote {
+  margin-block: 2em;
+  margin-inline-end: 1em;
+  padding-inline: 1em;
+  font-style: italic;
+  border-inline-start: 0.25em solid $primary-color;
+
+  cite {
+    font-style: italic;
+
+    &::before {
+      content: "\2014";
+      padding-inline-end: 5px;
+    }
+  }
+}
+
+
 .page__content__teach {
     
     @extend .page__content;
@@ -179,7 +197,6 @@ body {
     p,
     li,
     dl,
-    blockquote,
     pre,
     code,
     dt,
@@ -187,6 +204,12 @@ body {
     .small,
     :not(pre) > code {
         margin-left: 2em; /* Adjust the value as needed */
+    }
+    
+    blockquote {
+        margin-block: 1em;
+        font-size: $type-size-7;
+        padding-inline: 0.5em;
     }
     
 }
