@@ -250,7 +250,7 @@ blockquote {
     content: "\2014 \00A0"; /* Em dash with a non-breaking space */
 }
 
-.page__content .student__quote__container {
+.page__content .quote__container {
   display: flex;
   flex-wrap: nowrap; /* Allows items to wrap onto the next line if needed */
   flex-direction: row;
@@ -262,7 +262,7 @@ blockquote {
 
 
 
-.page__content .student__quote__minipage {
+.page__content .quote__minipage {
   flex: 1; /* Each minipage takes up equal space */
   margin-left: 0; 
   margin-right: 0; 
@@ -273,12 +273,12 @@ blockquote {
   /* justify-content: center; */
 }
 
-.page__content .flex-student__quote__container .student__quote__minipage:first-child {
+.page__content .quote__container .quote__minipage:first-child {
   margin-left: var(--leftmarg); /* Custom margin for the leftmost minipage */
 }
 
 /* Block quote styles inside .minipage */
-.page__content .student__quote__minipage blockquote {
+.page__content .quote__minipage blockquote {
   margin: 0 0; /* Vertical margin */
   padding-block: 0em;
   padding-left: 1em;
@@ -288,7 +288,7 @@ blockquote {
   font-size: $type-size-7;
 }
 
-.page__content .student__quote__minipage blockquote cite {
+.page__content .quote__minipage blockquote cite {
   display: block;
   margin-top: 10px; /* Margin above the cite */
   font-style: normal; /* Normal font style for the cite */
@@ -296,7 +296,7 @@ blockquote {
   color: #333; /* Color of the cite */
 }
 
-.page__content .student__quote__minipage blockquote cite::before {
+.page__content .quote__minipage blockquote cite::before {
   content: "\2014 \00A0"; /* Em dash with a non-breaking space */
 }
 
