@@ -254,6 +254,7 @@ blockquote {
   flex-direction: row;
   gap: 0px; /* Space between items */
   margin-left: 1em;
+  align-items: center;
 }
 
 .student__quote__minipage {
@@ -262,6 +263,9 @@ blockquote {
   margin-right: 0; 
   margin-block: 0.5em; 
   padding: 0; /* Adjust the padding as needed */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .flex-student__quote__container .student__quote__minipage:first-child {
