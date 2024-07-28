@@ -26,12 +26,12 @@ sidebar-teaching:
   - title: "Instructor"
     url: "/teaching/#instructor"
     children:
-      - title: "ECON 370: Econ and Data Science"
+      - title: "ECON 370: Econ & Data Science"
         url: "/teaching/#econ-370-economic-applications-of-data-science"
   - title: "Teaching Assistant"
     url: "/teaching/#teaching-assistant"
     children:
-      - title: "ECON 101: Intro to Econ"
+      - title: "ECON 101: Intro to Economics"
         url: "/teaching/#econ-101-introduction-to-economics"
       - title: "ECON 470: Econometrics"
         url: "/teaching/#econ-470-econometrics"
