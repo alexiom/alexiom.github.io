@@ -219,7 +219,7 @@ blockquote {
 .page__content__teach blockquote {
     margin-left: 2em;
     padding-block: 0em;
-    padding-left: 1em;
+    padding-left: 0em;
     padding-right: 0em;
     border-left: 0.5em solid $primary-color;
     font-style: italic; /* Italic text */
@@ -255,7 +255,7 @@ blockquote {
 }
 
 .flex-student__quote__container .student__quote__minipage:first-child {
-  margin-left: 2em; /* Custom margin for the leftmost minipage */
+   @extend .page__content;
 }
 
 /* Block quote styles inside .minipage */
