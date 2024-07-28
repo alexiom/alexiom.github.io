@@ -242,11 +242,9 @@ blockquote {
 
 .student__quote__minipage {
   flex: 1; /* Each minipage takes up equal space */
-  min-width: 45%; /* Minimum width to prevent too small columns */
   margin: 10px; /* Adjust the margin as needed */
   padding: 10px; /* Adjust the padding as needed */
   border: 1px solid #ddd; /* Optional border */
-  box-sizing: border-box; /* Ensure padding and border are included in the width */
   background-color: #f9f9f9; /* Optional background color for visibility */
 }
 
