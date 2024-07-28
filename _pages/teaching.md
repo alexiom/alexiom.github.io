@@ -18,14 +18,12 @@ redirect_from: /Teaching/
 Designed and taught ECON 370, the first course in the DATA credential for undergraduate UNC economics majors.  &nbsp; <a href="http://alexmarsh.io/files/ECON370_Syllabus_Fall2023.pdf" class="btn btn--primary btn--x-small btn--half">Syallbus</a> 
 
 #### Student Evaluations
-
- &nbsp; <a href="http://alexmarsh.io/files/ECON370_Fall2022_Evals.pdf" class="btn btn--primary btn--x-small btn--half">Fall 2022</a> &nbsp; <a href="http://alexmarsh.io/files/ECON370_Fall2023_Evals.pdf" class="btn btn--primary btn--x-small btn--half">Fall 2023</a>
 <div class="student__quote__container">
   
   <!-- First Quote -->
   <div class="student__quote__minipage">
     <blockquote>
-    	<center> <a href="http://alexmarsh.io/files/ECON390_Fall2021_Evals.pdf" class="btn btn--primary btn--x-small btn--half">Fall 2021</a> </center>
+    	<center> <a href="http://alexmarsh.io/files/ECON390_Fall2021_Evals.pdf" class="btn btn--primary btn--small btn--half">Fall 2021</a> </center>
     	
     	Alex did a great job of teaching coding and the assignments were manageable and informative. 
   
@@ -34,6 +32,8 @@ Designed and taught ECON 370, the first course in the DATA credential for underg
   </div>
   <div class="student__quote__minipage">
     <blockquote>
+    	<center> <a href="http://alexmarsh.io/files/ECON370_Fall2022_Evals.pdf" class="btn btn--primary btn--small btn--half">Fall 2022</a> </center>
+    	
     	Super accessible and very kind! It was apparent that he cared a lot about the class material and went out of his way to be helpful to students.
   
     <cite> Fall 2022 Student</cite>
@@ -41,6 +41,8 @@ Designed and taught ECON 370, the first course in the DATA credential for underg
   </div>
   <div class="student__quote__minipage">
     <blockquote>
+    	<a href="http://alexmarsh.io/files/ECON370_Fall2023_Evals.pdf" class="btn btn--primary btn--small btn--half">Fall 2023</a>
+    	
     	He provided plenty of time in class to answer questions and consistently held office hours that were very helpful. Showing us real time in R what he was doing was also very helpful.
   
     <cite> Fall 2023 Student</cite>
