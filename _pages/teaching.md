@@ -20,9 +20,6 @@ redirect_from: /Teaching/
   ECON 370: Economic Applications of Data Science 
   <a class="header-link" href="#econ-370" title="Permalink">
   <span class="sr-only">Permalink</span>
-  <i class="fas fa-link"></i>
-  	::before
-  </i>
   </a>
 </h3>
 
