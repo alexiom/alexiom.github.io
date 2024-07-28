@@ -64,7 +64,31 @@ ECON 370 is intended to provide a broad-based introduction to numerical and data
  Served as a teaching assistant for ECON 101 which is around an 800 person class at UNC. My main responsibility was leading two recitation sections where students worked on more in-depth practice problems than those seen in lecture. Walked through solutions after students first attempted the problems with a partner. Responsible for providing clear explanations to students in hopes of them developing a deeper understanding of the material. 
  
 
-<strong> Student Evaluations </strong> &nbsp; &nbsp; &nbsp; <a href="https://alexmarsh.io/files/ECON101-602_Spring2024_Evals.pdf" class="btn btn--primary btn--x-small btn--half"> Sec 602 </a> &nbsp; &nbsp; &nbsp; <a href="https://alexmarsh.io/files/ECON101-601_Spring2024_Evals.pdf" class="btn btn--primary btn--x-small btn--half"> Sec 601 </a> 
+
+#### Student Evaluations
+
+
+<div class="student__quote__container">
+  
+  <!-- First Quote -->
+  <div class="student__quote__minipage">
+    <blockquote>
+    	<center style="margin-bottom: 0.25em;"> <a href="https://alexmarsh.io/files/ECON101-602_Spring2024_Evals.pdf" class="btn btn--primary btn--x-small btn--half"> Sec 602 </a> </center>
+    	
+  
+    <cite> Fall 2021 Student</cite>
+    </blockquote>
+  </div>
+  <div class="student__quote__minipage">
+    <blockquote>
+    	<center style="margin-bottom: 0.25em;"> <a href="https://alexmarsh.io/files/ECON101-601_Spring2024_Evals.pdf" class="btn btn--primary btn--x-small btn--half"> Sec 601 </a>  </center>
+    	
+  
+    <cite> Fall 2022 Student</cite>
+    </blockquote>
+  </div>
+</div>
+
 
 
 ## ECON 470: Econometrics
