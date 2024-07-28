@@ -20,3 +20,16 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+
+sidebar-teaching:
+  - title: "Instructor"
+    children:
+      - title: "ECON 370"
+        url: /teaching/
+  - title: "Teaching Assistant"
+    children:
+      - title: "ECON 101"
+        url: /teaching/
+      - title: "ECON 470"
+        url: /teaching/
