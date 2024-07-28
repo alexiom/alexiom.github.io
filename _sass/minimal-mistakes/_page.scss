@@ -67,8 +67,6 @@ body {
 .page__title {
   margin-top: 0;
   line-height: 1;
-  width: calc(100% - #{$right-sidebar-width-narrow});
-
   a {
     color: $text-color;
     text-decoration: none;
@@ -82,6 +80,7 @@ body {
 .page__lead {
   font-family: $global-font-family;
   font-size: $type-size-4;
+  width: calc(100% - #{$right-sidebar-width-narrow});
 }
 
 .page__content {
