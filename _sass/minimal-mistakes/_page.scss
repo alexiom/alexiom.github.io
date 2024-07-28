@@ -219,8 +219,7 @@ blockquote {
 
 .page__content__teach blockquote {
     margin-left: 1em;
-    margin-top: -1em;
-    margin-bottom: 1em;
+    margin-block: 1em;
     padding-left: 0.5em;
     padding-block: 0;
     padding-right: 0;
@@ -257,7 +256,8 @@ blockquote {
   flex-direction: row;
   gap: 0px; /* Space between items */
   margin-left: 1em;
-  margin-block: 0.5em;
+  margin-bottom: 0.5em;
+  margin-top: -1em;
   align-items: center;
 }
 
