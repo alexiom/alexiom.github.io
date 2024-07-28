@@ -219,7 +219,7 @@ blockquote {
     }
     
 }
-
+/*
 .student__quote {
     margin-block: 0em;
     padding-block: 0em;
@@ -228,6 +228,27 @@ blockquote {
     padding-right: 0em;
     font-style: italic;
     border-inline-start: 0.25em solid $primary-color;
+
+    font-size: $type-size-7;
+}
+*/
+
+.student__quote {
+
+    margin-block: 2em;
+    margin-inline-end: 1em;
+    padding-inline: 1em;
+    font-style: italic;
+    border-inline-start: 0.25em solid $primary-color;
+
+    cite {
+        font-style: italic;
+
+        &::before {
+            content: "\2014";
+            padding-inline-end: 5px;
+        }
+    }
 
     font-size: $type-size-7;
 }
