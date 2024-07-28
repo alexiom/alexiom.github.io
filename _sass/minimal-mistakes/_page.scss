@@ -259,9 +259,6 @@ body {
   /* justify-content: center; */
 }
 
-.page__content .quote__container .quote__minipage:first-child {
-  margin-left: var(--leftmarg); /* Custom margin for the leftmost minipage */
-}
 
 /* Block quote styles inside .minipage */
 .page__content .quote__container .quote__minipage blockquote {
