@@ -19,7 +19,7 @@ redirect_from: /Teaching/
 
 Designed and taught ECON 370, the first course in the DATA credential for undergraduate UNC economics majors.
 
-<strong> Student Evaluations </strong> &nbsp; &nbsp; <a href="http://alexmarsh.io/files/ECON390_Fall2021_Evals.pdf" class="btn btn--primary btn--x-small btn--half">Fall 2021</a> &nbsp; &nbsp; &nbsp; <a href="http://alexmarsh.io/files/ECON370_Fall2022_Evals.pdf" class="btn btn--primary btn--x-small btn--half">Fall 2022</a> &nbsp; &nbsp; &nbsp; <a href="http://alexmarsh.io/files/ECON370_Fall2023_Evals.pdf" class="btn btn--primary btn--x-small btn--half">Fall 2023</a>
+<strong> Student Evaluations </strong> &nbsp; <a href="http://alexmarsh.io/files/ECON390_Fall2021_Evals.pdf" class="btn btn--primary btn--x-small btn--half">Fall 2021</a> &nbsp; &nbsp; &nbsp; <a href="http://alexmarsh.io/files/ECON370_Fall2022_Evals.pdf" class="btn btn--primary btn--x-small btn--half">Fall 2022</a> &nbsp; &nbsp; &nbsp; <a href="http://alexmarsh.io/files/ECON370_Fall2023_Evals.pdf" class="btn btn--primary btn--x-small btn--half">Fall 2023</a>
 
 <div class="student__quote__container">
   
@@ -33,24 +33,25 @@ Designed and taught ECON 370, the first course in the DATA credential for underg
   </div>
   <div class="student__quote__minipage">
     <blockquote>
-    	He provided plenty of time in class to answer questions and consistently held office hours that were very helpful. Showing us real time in R what he was doing was also very helpful.
+    	Super accessible and very kind! It was apparent that he cared a lot about the class material and went out of his way to be helpful to students.
   
     <cite> Fall 2022 Student</cite>
     </blockquote>
   </div>
   <div class="student__quote__minipage">
     <blockquote>
-    	Alex did a great job of teaching coding and the assignments were manageable and informative. It was much faster paced than other coding classes other students and I have taken, but Alex was super understanding and that was helpful.
+    	He provided plenty of time in class to answer questions and consistently held office hours that were very helpful. Showing us real time in R what he was doing was also very helpful.
   
-    <cite> Student, Fall 2021</cite>
+    <cite> Fall 2023 Student</cite>
     </blockquote>
   </div>
 </div>
 
+<strong> Course Description </strong>
 
-  
-> ECON 370 is intended to provide a broad-based introduction to numerical and data-science methods commonly used in economics. The course will first introduce students to the R programming language, assuming no prior experience.  Subsequent lectures will provide students an opportunity to apply this knowledge on real-world data to achieve an economic objective.  The methods used in these applications will include (but are not limited to): collecting, cleaning, merging, processing, and visualizing data, descriptive analysis, optimization, and supervised/unsupervised statistical learning. In addition, the course has an experiential component that connects students with industry leaders in economic applications of data-science through a series of on-campus events. 
-
+<blockquote>  
+ECON 370 is intended to provide a broad-based introduction to numerical and data-science methods commonly used in economics. The course will first introduce students to the R programming language, assuming no prior experience.  Subsequent lectures will provide students an opportunity to apply this knowledge on real-world data to achieve an economic objective.  The methods used in these applications will include (but are not limited to): collecting, cleaning, merging, processing, and visualizing data, descriptive analysis, optimization, and supervised/unsupervised statistical learning. In addition, the course has an experiential component that connects students with industry leaders in economic applications of data-science through a series of on-campus events. 
+</blockquote>
 
 
 # Teaching Assistant
