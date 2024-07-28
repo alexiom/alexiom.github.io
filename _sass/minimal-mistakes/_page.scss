@@ -233,24 +233,39 @@ blockquote {
 }
 */
 
+.student__quote_minipage{
+    display: flex;
+    flex-direction: row;
+    gap: 10px
+}
+
 .student__quote {
-
-    margin-block: 2em;
-    margin-inline-end: 1em;
-    padding-inline: 1em;
-    font-style: italic;
-    border-inline-start: 0.25em solid $primary-color;
-
-    cite {
+    
+    @extend .page__content;
+    
+    flex: 1; 
+    padding: 2px; 
+    border: 1px solid #ddd;
+    
+    blockquote {
+        margin-block: 2em;
+        margin-inline-end: 1em;
+        padding-inline: 1em;
         font-style: italic;
+        border-inline-start: 0.25em solid $primary-color;
 
-        &::before {
-            content: "\2014";
-            padding-inline-end: 5px;
+        cite {
+            font-style: italic;
+
+            &::before {
+                content: "\2014";
+                padding-inline-end: 5px;
+            }
         }
+
+        font-size: $type-size-7;
     }
 
-    font-size: $type-size-7;
 }
 
 .page__hero {
