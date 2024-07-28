@@ -103,11 +103,31 @@ blockquote {
 */
 
 
-.page__content, .page__content__teach {
+.page__content {
+    
+  --leftmarg: 0em;
+    
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
   }
+    
+  h1, h2, h3, h4, h5, h6 {
+		.header-link {
+			position: relative;
+			inset-inline-start: 0.5em;
+			opacity: 0;
+			font-size: 0.8em;
+			-webkit-transition: opacity 0.2s ease-in-out 0.1s;
+			-moz-transition: opacity 0.2s ease-in-out 0.1s;
+			-o-transition: opacity 0.2s ease-in-out 0.1s;
+			transition: opacity 0.2s ease-in-out 0.1s;
+		}
+
+		&:hover .header-link {
+			opacity: 1;
+		}
+	}
 
   p,
   li,
@@ -117,7 +137,9 @@ blockquote {
 
   /* paragraph indents */
   p {
-    margin: 0 0 $indent-var;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: $indent-var;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
@@ -175,28 +197,8 @@ blockquote {
     padding-inline-start: 1.25rem;
   }
     */
-	h1, h2, h3, h4, h5, h6 {
-		.header-link {
-			position: relative;
-			inset-inline-start: 0.5em;
-			opacity: 0;
-			font-size: 0.8em;
-			-webkit-transition: opacity 0.2s ease-in-out 0.1s;
-			-moz-transition: opacity 0.2s ease-in-out 0.1s;
-			-o-transition: opacity 0.2s ease-in-out 0.1s;
-			transition: opacity 0.2s ease-in-out 0.1s;
-		}
 
-		&:hover .header-link {
-			opacity: 1;
-		}
-	}
-}
-
-.page__content__teach {
-    
-    @extend .page__content;
-    
+  /* extra large button */
     p,
     li,
     dl,
@@ -206,18 +208,17 @@ blockquote {
     dd,
     .small,
     :not(pre) > code {
-        margin-left: 1em; /* Adjust the value as needed */
+        margin-left: var(--leftmarg); /* Adjust the value as needed */
     }
     
-   /* 
-    h4, h5, h6 {
-        margin: 0.5em 1em 0.25em; 
-    }
-    */
 }
 
-.page__content__teach blockquote {
-    margin-left: 1em;
+.page__content--indent {
+  --leftmarg: 1em;
+}
+
+.page__content blockquote {
+    margin-left: var(--leftmarg);;
     margin-block: 1em;
     padding-left: 0.5em;
     padding-block: 0;
@@ -235,7 +236,7 @@ blockquote {
     }
 }
 
-.page__content__teach blockquote cite {
+.page__content blockquote cite {
     display: block;
     padding-right: 1.5em;
     margin-top: 10px; /* Margin above the cite */
@@ -244,22 +245,24 @@ blockquote {
     color: #333; /* Color of the cite */
 }
 
-.page__content__teach blockquote cite::before {
+.page__content blockquote cite::before {
     padding-inline-end: 2.5px;
     content: "\2014 \00A0"; /* Em dash with a non-breaking space */
 }
 
-.student__quote__container {
+.page__content .student__quote__container {
   display: flex;
   flex-wrap: nowrap; /* Allows items to wrap onto the next line if needed */
   flex-direction: row;
   gap: 0px; /* Space between items */
-  margin-left: 1em;
+  margin-left: var(--leftmarg);
   margin-block: 0.5em;
   /* align-items: center; */
 }
 
-.student__quote__minipage {
+
+
+.page__content .student__quote__minipage {
   flex: 1; /* Each minipage takes up equal space */
   margin-left: 0; 
   margin-right: 0; 
@@ -270,12 +273,12 @@ blockquote {
   /* justify-content: center; */
 }
 
-.flex-student__quote__container .student__quote__minipage:first-child {
-  margin-left: 1em; /* Custom margin for the leftmost minipage */
+.page__content .flex-student__quote__container .student__quote__minipage:first-child {
+  margin-left: var(--leftmarg); /* Custom margin for the leftmost minipage */
 }
 
 /* Block quote styles inside .minipage */
-.student__quote__minipage blockquote {
+.page__content .student__quote__minipage blockquote {
   margin: 0 0; /* Vertical margin */
   padding-block: 0em;
   padding-left: 1em;
@@ -285,7 +288,7 @@ blockquote {
   font-size: $type-size-7;
 }
 
-.student__quote__minipage blockquote cite {
+.page__content .student__quote__minipage blockquote cite {
   display: block;
   margin-top: 10px; /* Margin above the cite */
   font-style: normal; /* Normal font style for the cite */
@@ -293,7 +296,7 @@ blockquote {
   color: #333; /* Color of the cite */
 }
 
-.student__quote__minipage blockquote cite::before {
+.page__content .student__quote__minipage blockquote cite::before {
   content: "\2014 \00A0"; /* Em dash with a non-breaking space */
 }
 
