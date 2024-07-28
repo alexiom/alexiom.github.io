@@ -94,6 +94,11 @@
   &--small {
     font-size: $type-size-7;
   }
+  
+  /* small button */
+  &--x-small {
+    font-size: $type-size-8;
+  }
 
   &--half {
     padding: 0.25em 0.5em;
