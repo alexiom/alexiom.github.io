@@ -16,7 +16,7 @@ redirect_from: /Teaching/
 
 - Designed and taught ECON 370, the first course in the DATA credential for undergraduate UNC economics majors.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ECON 370 is intended to provide a broad-based introduction to numerical and data-science methods commonly used in economics. The course will first introduce students to the R programming language, assuming no prior experience.  Subsequent lectures will provide students an opportunity to apply this knowledge on real-world data to achieve an economic objective.  The methods used in these applications will include (but are not limited to): collecting, cleaning, merging, processing, and visualizing data, descriptive analysis, optimization, and supervised/unsupervised statistical learning. In addition, the course has an experiential component that connects students with industry leaders in economic applications of data-science through a series of on-campus events.
+> ECON 370 is intended to provide a broad-based introduction to numerical and data-science methods commonly used in economics. The course will first introduce students to the R programming language, assuming no prior experience.  Subsequent lectures will provide students an opportunity to apply this knowledge on real-world data to achieve an economic objective.  The methods used in these applications will include (but are not limited to): collecting, cleaning, merging, processing, and visualizing data, descriptive analysis, optimization, and supervised/unsupervised statistical learning. In addition, the course has an experiential component that connects students with industry leaders in economic applications of data-science through a series of on-campus events.
 
 **Student Evaluations**
 <center>
