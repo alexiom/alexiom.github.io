@@ -206,15 +206,6 @@ blockquote {
         margin-left: 2em; /* Adjust the value as needed */
     }
     
-    blockquote {
-        margin: 0 0; /* Vertical margin */
-        padding-block: 0em;
-        padding-left: 1em;
-        padding-right: 0em;
-        border-left: 0.5em solid $primary-color;
-        font-style: italic; /* Italic text */
-        font-size: $type-size-7;
-    }
     
     h4, h5, h6 {
         text-align: center;
@@ -222,6 +213,29 @@ blockquote {
     }
     
 }
+
+.page__content__teach blockquote {
+    margin: 0 0; /* Vertical margin */
+    padding-block: 0em;
+    padding-left: 1em;
+    padding-right: 0em;
+    border-left: 0.5em solid $primary-color;
+    font-style: italic; /* Italic text */
+    font-size: $type-size-7;
+}
+
+.page__content__teach blockquote cite {
+    display: block;
+    margin-top: 10px; /* Margin above the cite */
+    font-style: normal; /* Normal font style for the cite */
+    text-align: right; /* Align cite to the right */
+    color: #333; /* Color of the cite */
+}
+
+.page__content__teach blockquote cite::before {
+    content: "\2014 \00A0"; /* Em dash with a non-breaking space */
+}
+
 /*
 .student__quote {
     margin-block: 0em;
@@ -246,7 +260,9 @@ blockquote {
 
 .student__quote__minipage {
   flex: 1; /* Each minipage takes up equal space */
-  margin: 0; /* Adjust the margin as needed */
+  margin-left: 0; 
+  margin-right: 0; 
+  margin-block: 1em; 
   padding: 0; /* Adjust the padding as needed */
   border: 1px solid #000000;
 }
