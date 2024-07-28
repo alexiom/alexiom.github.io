@@ -232,7 +232,7 @@ blockquote {
         padding-top: 0;
         padding-bottom: 0;
         padding-right: 0;
-        padding-left: 1em;
+        padding-left: 0.5em;
     }
 }
 
@@ -253,6 +253,7 @@ blockquote {
   flex-wrap: nowrap; /* Allows items to wrap onto the next line if needed */
   flex-direction: row;
   gap: 0px; /* Space between items */
+  margin-left: 2em;
 }
 
 .student__quote__minipage {
