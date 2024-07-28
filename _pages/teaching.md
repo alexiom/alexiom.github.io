@@ -41,7 +41,7 @@ Designed and taught ECON 370, the first course in the DATA credential for underg
   </div>
   <div class="student__quote__minipage">
     <blockquote>
-    	<center><a href="http://alexmarsh.io/files/ECON370_Fall2023_Evals.pdf" class="btn btn--primary btn--small btn--half">Fall 2023</a></center>
+    	<center style="margin-bottom: 0.25em; "><a href="http://alexmarsh.io/files/ECON370_Fall2023_Evals.pdf" class="btn btn--primary btn--small btn--half">Fall 2023</a></center>
     	
     	He provided plenty of time in class to answer questions and consistently held office hours that were very helpful. Showing us real time in R what he was doing was also very helpful.
   
