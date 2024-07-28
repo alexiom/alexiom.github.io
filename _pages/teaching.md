@@ -73,18 +73,18 @@ ECON 370 is intended to provide a broad-based introduction to numerical and data
   <!-- First Quote -->
   <div class="student__quote__minipage">
     <blockquote>
-    	<center style="margin-bottom: 0.25em;"> <a href="https://alexmarsh.io/files/ECON101-602_Spring2024_Evals.pdf" class="btn btn--primary btn--x-small btn--half"> Sec 602 </a> </center>
+    	<center style="margin-bottom: 0.25em;"> <a href="https://alexmarsh.io/files/ECON101-602_Spring2024_Evals.pdf" class="btn btn--primary btn--half"> Spring 2024: Recitation 602 </a> </center>
     	
   
-    <cite> Fall 2021 Student</cite>
+    <cite> Spring 2024: Recitation 602 Student</cite>
     </blockquote>
   </div>
   <div class="student__quote__minipage">
     <blockquote>
-    	<center style="margin-bottom: 0.25em;"> <a href="https://alexmarsh.io/files/ECON101-601_Spring2024_Evals.pdf" class="btn btn--primary btn--x-small btn--half"> Sec 601 </a>  </center>
+    	<center style="margin-bottom: 0.25em;"> <a href="https://alexmarsh.io/files/ECON101-601_Spring2024_Evals.pdf" class="btn btn--primary btn--half"> Spring 2024: Recitation 601 </a>  </center>
     	
   
-    <cite> Fall 2022 Student</cite>
+    <cite> Spring 2024: Recitation 601 Student</cite>
     </blockquote>
   </div>
 </div>
