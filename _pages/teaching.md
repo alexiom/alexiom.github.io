@@ -19,7 +19,9 @@ redirect_from: /Teaching/
 
 Designed and taught ECON 370, the first course in the DATA credential for undergraduate UNC economics majors.
 
-<strong>Student Evaluations</strong> &nbsp; <a href="http://alexmarsh.io/files/ECON390_Fall2021_Evals.pdf" class="btn btn--primary btn--small">Fall 2021</a> &nbsp; &nbsp; &nbsp; <a href="http://alexmarsh.io/files/ECON370_Fall2022_Evals.pdf" class="btn btn--primary btn--small">Fall 2022</a> &nbsp; &nbsp; &nbsp; <a href="http://alexmarsh.io/files/ECON370_Fall2023_Evals.pdf" class="btn btn--primary btn--small">Fall 2023</a>
+<strong>Student Evaluations</strong> 
+
+<a href="http://alexmarsh.io/files/ECON390_Fall2021_Evals.pdf" class="btn btn--primary btn--small">Fall 2021</a> &nbsp; &nbsp; &nbsp; <a href="http://alexmarsh.io/files/ECON370_Fall2022_Evals.pdf" class="btn btn--primary btn--small">Fall 2022</a> &nbsp; &nbsp; &nbsp; <a href="http://alexmarsh.io/files/ECON370_Fall2023_Evals.pdf" class="btn btn--primary btn--small">Fall 2023</a>
 
 <div class="student__quote__container">
   
@@ -59,7 +61,7 @@ Designed and taught ECON 370, the first course in the DATA credential for underg
  Served as a teaching assistant for ECON 101 which is around an 800 person class at UNC. My main responsibility was leading two recitation sections where students worked on more in-depth practice problems than those seen in lecture. Walked through solutions after students first attempted the problems with a partner. Responsible for providing clear explanations to students in hopes of them developing a deeper understanding of the material. 
  
 
-<strong>Student Evaluations</strong> &nbsp; <a href="https://alexmarsh.io/files/ECON101-602_Spring2024_Evals.pdf" class="btn btn--primary btn--large">Recitation Section 602</a> &nbsp; &nbsp; &nbsp; <a href="https://alexmarsh.io/files/ECON101-601_Spring2024_Evals.pdf" class="btn btn--primary btn--large">Recitation Section 601</a> 
+<strong>Student Evaluations</strong> &nbsp; <a href="https://alexmarsh.io/files/ECON101-602_Spring2024_Evals.pdf" class="btn btn--primary btn--small">Recitation Section 602</a> &nbsp; &nbsp; &nbsp; <a href="https://alexmarsh.io/files/ECON101-601_Spring2024_Evals.pdf" class="btn btn--primary btn--small">Recitation Section 601</a> 
 
 
 ## ECON 470: Econometrics
