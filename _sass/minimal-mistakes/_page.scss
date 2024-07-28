@@ -179,7 +179,14 @@ blockquote {
   font-style: italic;
   border-inline-start: 0.25em solid $primary-color;
 
+  cite {
+    font-style: italic;
 
+    &::before {
+      content: "\2014";
+      padding-inline-end: 5px;
+    }
+  }
 }
 */
 
@@ -207,16 +214,6 @@ blockquote {
         border-left: 0.5em solid $primary-color;
         font-style: italic; /* Italic text */
         font-size: $type-size-7;
-        cite {
-              display: block;
-              margin-top: 10px; /* Margin above the cite */
-              font-style: normal; /* Normal font style for the cite */
-              text-align: right; /* Align cite to the right */
-
-            &::before {
-                content: "\2014 \00A0"; 
-          }
-       }
     }
     
     h4, h5, h6 {
@@ -244,19 +241,42 @@ blockquote {
   display: flex;
   flex-wrap: nowrap; /* Allows items to wrap onto the next line if needed */
   flex-direction: row;
-  maring-left: 2em;
   gap: 5px; /* Space between items */
 }
 
 .student__quote__minipage {
-  @extend .page__content__teach
   flex: 1; /* Each minipage takes up equal space */
   margin: 0; /* Adjust the margin as needed */
   padding: 0; /* Adjust the padding as needed */
   border: 1px solid #000000;
 }
 
+.flex-student__quote__container .student__quote__minipage:first-child {
+  margin-left: 2em; /* Custom margin for the leftmost minipage */
+}
 
+/* Block quote styles inside .minipage */
+.student__quote__minipage blockquote {
+  margin: 0 0; /* Vertical margin */
+  padding-block: 0em;
+  padding-left: 1em;
+  padding-right: 0em;
+  border-left: 0.5em solid $primary-color;
+  font-style: italic; /* Italic text */
+  font-size: $type-size-7;
+}
+
+.student__quote__minipage blockquote cite {
+  display: block;
+  margin-top: 10px; /* Margin above the cite */
+  font-style: normal; /* Normal font style for the cite */
+  text-align: right; /* Align cite to the right */
+  color: #333; /* Color of the cite */
+}
+
+.student__quote__minipage blockquote cite::before {
+  content: "\2014 \00A0"; /* Em dash with a non-breaking space */
+}
 
 
 .page__hero {
