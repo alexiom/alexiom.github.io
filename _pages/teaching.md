@@ -61,7 +61,9 @@ Designed and taught ECON 370, the first course in the DATA credential for underg
  Served as a teaching assistant for ECON 101 which is around an 800 person class at UNC. My main responsibility was leading two recitation sections where students worked on more in-depth practice problems than those seen in lecture. Walked through solutions after students first attempted the problems with a partner. Responsible for providing clear explanations to students in hopes of them developing a deeper understanding of the material. 
  
 
-<strong>Student Evaluations</strong> &nbsp; <a href="https://alexmarsh.io/files/ECON101-602_Spring2024_Evals.pdf" class="btn btn--primary btn--small">Recitation Section 602</a> &nbsp; &nbsp; &nbsp; <a href="https://alexmarsh.io/files/ECON101-601_Spring2024_Evals.pdf" class="btn btn--primary btn--small">Recitation Section 601</a> 
+<strong>Student Evaluations</strong>
+
+<a href="https://alexmarsh.io/files/ECON101-602_Spring2024_Evals.pdf" class="btn btn--primary btn--small">Recitation Section 602</a> &nbsp; &nbsp; &nbsp; <a href="https://alexmarsh.io/files/ECON101-601_Spring2024_Evals.pdf" class="btn btn--primary btn--small">Recitation Section 601</a> 
 
 
 ## ECON 470: Econometrics
