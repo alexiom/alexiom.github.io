@@ -33,9 +33,9 @@ Designed and taught ECON 370, the first course in the DATA credential for underg
   </div>
   <div class="student__quote__minipage">
     <blockquote>
-    	Alex did a great job of teaching coding and the assignments were manageable and informative. It was much faster paced than other coding classes other students and I have taken, but Alex was super understanding and that was helpful.
+    	He provided plenty of time in class to answer questions and consistently held office hours that were very helpful. Showing us real time in R what he was doing was also very helpful.
   
-    <cite> Student, Fall 2021</cite>
+    <cite> Fall 2022 Student</cite>
     </blockquote>
   </div>
   <div class="student__quote__minipage">
