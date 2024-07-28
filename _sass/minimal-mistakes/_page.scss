@@ -83,6 +83,26 @@ body {
   width: calc(100% - #{$right-sidebar-width-narrow});
 }
 
+/*
+blockquote {
+  margin-block: 2em;
+  margin-inline-end: 1em;
+  padding-inline: 1em;
+  font-style: italic;
+  border-inline-start: 0.25em solid $primary-color;
+
+  cite {
+    font-style: italic;
+
+    &::before {
+      content: "\2014";
+      padding-inline-end: 5px;
+    }
+  }
+}
+*/
+
+
 .page__content {
   h2 {
     padding-bottom: 0.5em;
@@ -173,24 +193,6 @@ body {
   }
     */
 }
-/*
-blockquote {
-  margin-block: 2em;
-  margin-inline-end: 1em;
-  padding-inline: 1em;
-  font-style: italic;
-  border-inline-start: 0.25em solid $primary-color;
-
-  cite {
-    font-style: italic;
-
-    &::before {
-      content: "\2014";
-      padding-inline-end: 5px;
-    }
-  }
-}
-*/
 
 .page__content__teach {
     
@@ -218,12 +220,17 @@ blockquote {
 
 .page__content__teach blockquote {
     margin-left: 1.5em;
-    padding-block: 0em;
-    padding-left: 0em;
-    padding-right: 0em;
+    padding: 0;
+    
     border-left: 0.5em solid $primary-color;
+    
     font-style: italic; /* Italic text */
     font-size: $type-size-7;
+    
+    p {
+        margin: 0;
+        padding: 0;
+    }
 }
 
 .page__content__teach blockquote cite {
