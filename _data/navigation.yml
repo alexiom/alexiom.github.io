@@ -26,7 +26,7 @@ sidebar-teaching:
   - title: "Instructor"
     children:
       - title: "ECON 370"
-        url: /teaching/
+        url: "/teaching/#econ-370-economic-applications-of-data-science"
   - title: "Teaching Assistant"
     children:
       - title: "ECON 101"
