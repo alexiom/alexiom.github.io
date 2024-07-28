@@ -16,7 +16,7 @@ redirect_from: /Teaching/
 
 ## ECON 370: Economic Applications of Data Science 
 
-Designed and taught ECON 370, the first course in the [DATA](https://econ.unc.edu/undergraduate/data-science-credential/) credential for undergraduate UNC economics majors.  &nbsp; <a href="http://alexmarsh.io/files/ECON370_Syllabus_Fall2023.pdf" class="btn btn--primary btn--x-small btn--half">Syallbus</a> 
+Designed and taught ECON 370, the first course in the [**DATA credential**](https://econ.unc.edu/undergraduate/data-science-credential/) for undergraduate UNC economics majors.  &nbsp; <a href="http://alexmarsh.io/files/ECON370_Syllabus_Fall2023.pdf" class="btn btn--primary btn--x-small btn--half">Syallbus</a> 
 
 #### Student Evaluations
 <div class="student__quote__container">
