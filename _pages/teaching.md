@@ -2,7 +2,7 @@
 layout: teaching
 title: "Teaching Experience"
 permalink: /teaching/
-author_profile: true
+author_profile: false
 header:
   overlay_image: /images/unc_test.jpg
   overlay_filter: 0.30
@@ -12,9 +12,9 @@ sidebar:
 redirect_from: /Teaching/
 ---
 
-> Testing, still!
-
 # Instructor
+
+> Testing, still!
 
 ## ECON 370: Economic Applications of Data Science
 
