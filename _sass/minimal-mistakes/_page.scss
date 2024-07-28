@@ -92,6 +92,17 @@ body {
     border-bottom: 1px solid $border-color;
   }
     
+  h3 {
+      padding-bottom: 0.5em;
+      border-bottom: 1px solid $border-color;
+  }
+  
+  h3::after {
+  content: "";
+  border-bottom: 1px solid $background-color;
+}
+    
+    
   h1, h2, h3, h4, h5, h6 {
 		.header-link {
 			position: relative;
@@ -205,7 +216,7 @@ body {
 
 .page__content blockquote {
     margin-left: var(--leftmarg);;
-    margin-block: 1.5em;
+    margin-block: 1em;
     padding-left: 0.5em;
     padding-block: 0;
     padding-right: 0;
@@ -259,9 +270,11 @@ body {
   /* justify-content: center; */
 }
 
+/*
 .page__content .quote__container .quote__minipage:first-child {
   margin-left: var(--leftmarg); /* Custom margin for the leftmost minipage */
 }
+*/
 
 /* Block quote styles inside .minipage */
 .page__content .quote__container .quote__minipage blockquote {
