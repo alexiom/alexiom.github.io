@@ -242,12 +242,12 @@ blockquote {
   display: flex;
   flex-wrap: nowrap; /* Allows items to wrap onto the next line if needed */
   flex-direction: row;
-  gap: 5px; /* Space between items */
+  gap: 0px; /* Space between items */
 }
 
 .student__quote__minipage {
   flex: 1; /* Each minipage takes up equal space */
-  margin-left: 0em; 
+  margin-left: 0; 
   margin-right: 0; 
   margin-block: 1em; 
   padding: 0; /* Adjust the padding as needed */
