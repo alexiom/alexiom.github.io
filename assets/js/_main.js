@@ -138,6 +138,21 @@ $(document).ready(function () {
         element.appendChild(anchor);
       }
     });
+    
+    .querySelector(".page__content__teach")
+    .querySelectorAll("h1, h2, h3, h4, h5, h6")
+    .forEach(function (element) {
+      var id = element.getAttribute("id");
+      if (id) {
+        var anchor = document.createElement("a");
+        anchor.className = "header-link";
+        anchor.href = "#" + id;
+        anchor.innerHTML =
+          '<span class="sr-only">Permalink</span><i class="fas fa-link"></i>';
+        anchor.title = "Permalink";
+        element.appendChild(anchor);
+      }
+    });
 
   // Add copy button for <pre> blocks
   var copyText = function (text) {
