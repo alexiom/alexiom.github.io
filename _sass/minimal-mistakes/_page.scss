@@ -207,7 +207,7 @@ blockquote {
     dd,
     .small,
     :not(pre) > code {
-        margin-left: 2em; /* Adjust the value as needed */
+        margin-left: 1em; /* Adjust the value as needed */
     }
     
     
@@ -219,7 +219,7 @@ blockquote {
 }
 
 .page__content__teach blockquote {
-    margin-left: 1.5em;
+    margin-left: 0.5em;
     padding: 0;
     
     border-left: 0.5em solid $primary-color;
@@ -253,7 +253,7 @@ blockquote {
   flex-wrap: nowrap; /* Allows items to wrap onto the next line if needed */
   flex-direction: row;
   gap: 0px; /* Space between items */
-  margin-left: 2em;
+  margin-left: 1em;
 }
 
 .student__quote__minipage {
@@ -265,7 +265,7 @@ blockquote {
 }
 
 .flex-student__quote__container .student__quote__minipage:first-child {
-  margin-left: 2em; /* Custom margin for the leftmost minipage */
+  margin-left: 1em; /* Custom margin for the leftmost minipage */
 }
 
 /* Block quote styles inside .minipage */
