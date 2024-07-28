@@ -237,6 +237,7 @@ blockquote {
 .student__quote__container {
   display: flex;
   flex-wrap: nowrap; /* Allows items to wrap onto the next line if needed */
+  flex-direction: row;
   gap: 5px; /* Space between items */
 }
 
