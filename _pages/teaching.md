@@ -32,8 +32,20 @@ Designed and taught ECON 370, the first course in the DATA credential for underg
 
 
 
-## Teaching Assistant
-- [**ECON 101: Introduction to Economics**](https://alexmarsh.io/teaching/ECON101)
-    - UNC: Spring 2024
-- ECON 470: Econometrics
-    - UNC: Spring 2023
+# Teaching Assistant
+## ECON 101: Introduction to Economics
+ 
+ Served as a teaching assistant for ECON 101 which is around an 800 person class at UNC. My main responsibility was leading two recitation sections where students worked on more in-depth practice problems than those seen in lecture. Walked through solutions after students first attempted the problems with a partner. Responsible for providing clear explanations to students in hopes of them developing a deeper understanding of the material. 
+ 
+ <div style="text-align: center;">
+  <strong>Student Evaluations</strong>
+</div>
+
+
+<center>
+<a href="https://alexmarsh.io/files/ECON101-602_Spring2024_Evals.pdf" class="btn btn--primary btn--large">Recitation Section 602</a> &nbsp; &nbsp; &nbsp; <a href="https://alexmarsh.io/files/ECON101-601_Spring2024_Evals.pdf" class="btn btn--primary btn--large">Recitation Section 601</a> 
+</center>
+
+
+## ECON 470: Econometrics
+
