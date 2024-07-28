@@ -247,7 +247,7 @@ blockquote {
 
 .student__quote__minipage {
   flex: 1; /* Each minipage takes up equal space */
-  margin-left: 0; 
+  margin-left: 2em; 
   margin-right: 0; 
   margin-block: 1em; 
   padding: 0; /* Adjust the padding as needed */
@@ -255,7 +255,7 @@ blockquote {
 }
 
 .flex-student__quote__container .student__quote__minipage:first-child {
-   @extend .page__content;
+  margin-left: 2em; /* Custom margin for the leftmost minipage */
 }
 
 /* Block quote styles inside .minipage */
