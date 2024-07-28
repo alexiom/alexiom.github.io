@@ -26,9 +26,9 @@ Designed and taught ECON 370, the first course in the DATA credential for underg
   <!-- First Quote -->
   <div class="student__quote__minipage">
     <blockquote>
-    	Alex did a great job of teaching coding and the assignments were manageable and informative. It was much faster paced than other coding classes other students and I have taken, but Alex was super understanding and that was helpful.
+    	Alex did a great job of teaching coding and the assignments were manageable and informative. 
   
-    <cite> Student, Fall 2021</cite>
+    <cite> Fall 2021 Student</cite>
     </blockquote>
   </div>
   <div class="student__quote__minipage">
@@ -59,9 +59,7 @@ Designed and taught ECON 370, the first course in the DATA credential for underg
  Served as a teaching assistant for ECON 101 which is around an 800 person class at UNC. My main responsibility was leading two recitation sections where students worked on more in-depth practice problems than those seen in lecture. Walked through solutions after students first attempted the problems with a partner. Responsible for providing clear explanations to students in hopes of them developing a deeper understanding of the material. 
  
 
-<strong>Student Evaluations</strong>
-
-<a href="https://alexmarsh.io/files/ECON101-602_Spring2024_Evals.pdf" class="btn btn--primary btn--small">Recitation Section 602</a> &nbsp; &nbsp; &nbsp; <a href="https://alexmarsh.io/files/ECON101-601_Spring2024_Evals.pdf" class="btn btn--primary btn--small">Recitation Section 601</a> 
+<strong> Student Evaluations </strong> &nbsp; &nbsp; &nbsp; <a href="https://alexmarsh.io/files/ECON101-602_Spring2024_Evals.pdf" class="btn btn--primary btn--small btn--half">Recitation Section 602</a> &nbsp; &nbsp; &nbsp; <a href="https://alexmarsh.io/files/ECON101-601_Spring2024_Evals.pdf" class="btn btn--primary btn--small btn--half">Recitation Section 601</a> 
 
 
 ## ECON 470: Econometrics
