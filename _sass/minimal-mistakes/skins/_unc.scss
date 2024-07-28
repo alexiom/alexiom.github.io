@@ -9,7 +9,8 @@ $muted-text-color: #393e46 !default;
 $primary-color: #7BAFD4 !default;
 $border-color: mix(#fff, #393e46, 75%) !default;
 $footer-background-color: $primary-color !default;
-$link-color: #0EB28D !default;
+$link-color: $primary-color !default;
+/* i liked this color #0EB28D */
 $masthead-background-color: $primary-color !default;
 $masthead-link-color: #fff !default;
 $masthead-link-color-hover: $text-color !default;
