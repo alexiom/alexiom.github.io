@@ -67,6 +67,7 @@ body {
 .page__title {
   margin-top: 0;
   line-height: 1;
+  width: calc(100% - #{$right-sidebar-width-narrow});
 
   a {
     color: $text-color;
