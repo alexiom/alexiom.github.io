@@ -9,7 +9,7 @@ header:
   actions:
     - label: "CV"
       url: "https://alexmarsh.io/files/AlexMarshCV.pdf"    
-tagline: "Current Job Market Candidate"
+tagline: "Economics Job Market Candidate"
 ---
 
 My name is Alex Marsh, and I am a doctoral student in economics at the University of North Carolina - Chapel Hill. I am on currently job market. Please see my CV, research, and teaching experience.
