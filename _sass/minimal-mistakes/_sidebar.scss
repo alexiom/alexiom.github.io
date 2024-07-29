@@ -60,8 +60,13 @@
     font-size: $type-size-6;
     line-height: 1.5;
     margin-bottom: 10px;
-    list-style-type: "\f15b";
-    list-style-position: inside;
+    
+    &:before {
+        font-family: 'fa-solid'; /* Font Awesome version 5 */
+        font-weight: 900; /* Font Awesome solid icons */
+        content: "\f15b"; /* Unicode for the desired icon, e.g., user icon */
+        margin-right: 8px; /* Spacing between the icon and the text */
+    }
   }
 
   ul, li lu {
