@@ -60,24 +60,21 @@
     font-size: $type-size-6;
     line-height: 1.5;
     margin-bottom: 10px;
+      
+   ul{
+       li{
+         &:before {
+           font-family: "Font Awesome 6 Free"; /* Font Awesome version 5 */
+           font-weight: 900; /* Font Awesome solid icons */
+           content: "\f15b"; /* Unicode for the desired icon, e.g., user icon */
+           margin-right: 8px; /* Spacing between the icon and the text */
+         }
+       }
+   }
     
-    &:before {
-        font-family: "Font Awesome 6 Free"; /* Font Awesome version 5 */
-        font-weight: 900; /* Font Awesome solid icons */
-        content: "\f15b"; /* Unicode for the desired icon, e.g., user icon */
-        margin-right: 8px; /* Spacing between the icon and the text */
-    }
+
   }
 
-  ul, li lu {
-    list-style-type: "\f15b";
-    list-style-position: inside;
-  }
-
-  ol, li ol {
-    list-style-type: decimal;
-    list-style-position: inside;
-  }
 
   a {
    color: #007acc; /* Change link color */
