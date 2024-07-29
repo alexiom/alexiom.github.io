@@ -1,5 +1,5 @@
 ---
-layout: teaching
+layout: research
 permalink: /research/
 title: "Research"
 author_profile: false
