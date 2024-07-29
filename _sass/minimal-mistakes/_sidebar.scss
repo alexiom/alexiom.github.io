@@ -69,6 +69,33 @@
       height: 20px;
     }
   }
+
+  .sidebar__nav {
+    list-style-type: disc; /* Use disc bullets */
+    padding-left: 20px; /* Adjust padding to ensure bullets are visible */
+
+    /* Target each list item */
+    li {
+      margin-bottom: 10px; /* Adjust spacing between items if needed */
+
+      /* Ensure nested lists are also styled */
+      ul {
+        list-style-type: disc;
+        padding-left: 20px;
+      }
+    }
+
+    /* Target each link */
+    a {
+      color: #007acc; /* Change link color */
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+        color: #005f99;
+      }
+    }
+  }
 }
 
 .sidebar__right {
