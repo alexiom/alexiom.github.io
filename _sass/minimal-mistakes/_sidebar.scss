@@ -85,41 +85,44 @@
    &--research {
       p, li{
           ul{
-              li{
-                position: relative; 
-                padding-left: 25px; 
-                &:before {
-                    font-family: "Font Awesome 6 Free"; /* Font Awesome version 5 */
-                    font-weight: 900; /* Font Awesome solid icons */
-                    content: "\f15b"; /* Unicode for the desired icon, e.g., user icon */
-                    position: absolute;
-                    left: 0; /* Align icon to the left */
-                    top: 0; /* Align icon to the top */
-                    color: $primary-color;
-                }
-              }
+           list-style: none; /* Remove default bullets */
+           padding-left: 0; /* Remove default padding */
+           li{
+            position: relative; 
+            padding-left: 25px; 
+            &:before {
+                font-family: "Font Awesome 6 Free"; /* Font Awesome version 5 */
+                font-weight: 900; /* Font Awesome solid icons */
+                content: "\f15b"; /* Unicode for the desired icon, e.g., user icon */
+                position: absolute;
+                left: 0; /* Align icon to the left */
+                top: 0; /* Align icon to the top */
+                color: $primary-color;
+            }
+           }
           }
-      }
+         }
   }
 
    &--teaching {
       p, li{
           ul{
-              li{
-                  position: relative; 
-                  padding-left: 25px; 
-                  &:before {
-                      font-family: "Font Awesome 6 Free"; /* Font Awesome version 5 */
-                      font-weight: 900; /* Font Awesome solid icons */
-                      content: "\f19d"; /* Unicode for the desired icon, e.g., user icon */
-                      position: absolute;
-                      left: 0; /* Align icon to the left */
-                      top: 0; /* Align icon to the top */
-                      color: $primary-color;
-                      
-                  }
-              }
-          }
+           list-style: none; /* Remove default bullets */
+           padding-left: 0; /* Remove default padding */
+           li{
+             position: relative; 
+             padding-left: 25px; 
+             &:before {
+                 font-family: "Font Awesome 6 Free"; /* Font Awesome version 5 */
+                 font-weight: 900; /* Font Awesome solid icons */
+                 content: "\f19d"; /* Unicode for the desired icon, e.g., user icon */
+                 position: absolute;
+                 left: 0; /* Align icon to the left */
+                 top: 0; /* Align icon to the top */
+                 color: $primary-color;
+             }
+           }
+        }
       }
   }
 
