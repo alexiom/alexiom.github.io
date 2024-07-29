@@ -38,11 +38,12 @@ sidebar-research:
   - title: "Working Papers"
     url: "/research/#working-papers"
     children:
-      - title: "Revenue Management: Reallocation"
+      - title: "Revenue Management with Reallocation"
         url: "/research/#working-papers"
-      - title: "Allocating Upgrades: Airlines"
+      - title: "What Can Web Traffic Reveal about Air-Travel Demand?"
+        url: "/files/MarshScottVanKuikenWilliams2024.pdf"
+      - title: "Allocating Upgrades: Challenges and Opportunities in the Airline Industry"
         url: "/research/#working-papers"
       - title: "Targeting Offers in the Airline Industry"
         url: "/research/#working-papers"
-#      - title: "What Can Web Traffic Reveal about Air-Travel Demand?"
-#        url: "/files/MarshScottVanKuikenWilliams2024.pdf"
+
