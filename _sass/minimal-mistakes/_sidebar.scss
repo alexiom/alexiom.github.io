@@ -86,8 +86,8 @@
       p, li{
           ul{
               li{
-                position: relative; /* Position relative to place icon */
-                padding-left: 25px; /* Space for the icon */
+                position: relative; 
+                padding-left: 25px; 
                 &:before {
                     font-family: "Font Awesome 6 Free"; /* Font Awesome version 5 */
                     font-weight: 900; /* Font Awesome solid icons */
@@ -107,11 +107,18 @@
       p, li{
           ul{
               li{
+                  position: relative; 
+                  padding-left: 25px; 
                   &:before {
                       font-family: "Font Awesome 6 Free"; /* Font Awesome version 5 */
                       font-weight: 900; /* Font Awesome solid icons */
                       content: "\f19d"; /* Unicode for the desired icon, e.g., user icon */
                       margin-right: 8px; /* Spacing between the icon and the text */
+                      position: absolute;
+                      left: 0; /* Align icon to the left */
+                      top: 0; /* Align icon to the top */
+                      color: $primary-color;
+                      
                   }
               }
           }
