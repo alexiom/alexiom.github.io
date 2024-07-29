@@ -12,14 +12,9 @@ main:
   - title: "CV"
     url: /files/AlexMarshCV.pdf
     
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+#  - title: "Personal"
+#    url: /personal/
+
 
 
 sidebar-teaching:
