@@ -1,4 +1,4 @@
-# main links
+## --- Main navagation links at top of pages
 main:
   - title: "Research"
     url: /research/
@@ -16,7 +16,9 @@ main:
 #    url: /personal/
 
 
+## --- Side bar navagation
 
+# side bar for teaching page
 sidebar-teaching:
   - title: "Instructor"
     url: "/teaching/#instructor"
@@ -31,16 +33,16 @@ sidebar-teaching:
       - title: "ECON 470: Econometrics"
         url: "/teaching/#econ-470-econometrics"
         
-        
-#sidebar-research:
-#  - title: "Working Papers"
-#    url: "/research/#working-papers"
-#    children:
-#      - title: "Revenue Management with Reallocation"
-#        url: "/research/#working-papers"
-#      - title: "What Can Web Traffic Reveal about Air-Travel Demand?"
-#        url: "/files/MarshScottVanKuikenWilliams2024.pdf"
-#      - title: "Allocating Upgrades: Challenges and Opportunities in the Airline Industry"
-#        url: "/research/#working-papers"
+# side bar for research page
+sidebar-research:
+  - title: "Working Papers"
+    url: "/research/#working-papers"
+    children:
+      - title: "Revenue Management with Reallocation"
+        url: "/research/#working-papers"
+      - title: "What Can Web Traffic Reveal about Air-Travel Demand?"
+        url: "/files/MarshScottVanKuikenWilliams2024.pdf"
+      - title: "Allocating Upgrades: Challenges and Opportunities in the Airline Industry"
+        url: "/research/#working-papers"
 #      - title: "Targeting Offers in the Airline Industry"
 #        url: "/research/#working-papers"
