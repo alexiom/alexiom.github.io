@@ -10,7 +10,6 @@ sidebar:
 	title: "Research"
 	nav: sidebar-research
 redirect_from: /publications/
-
 ---
 
 ## Working Papers
