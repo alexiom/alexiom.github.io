@@ -59,20 +59,7 @@
     font-family: $sans-serif;
     font-size: $type-size-6;
     line-height: 1.5;
-    margin-bottom: 10px;
-      
-   ul{
-       li{
-         &:before {
-           font-family: "Font Awesome 6 Free"; /* Font Awesome version 5 */
-           font-weight: 900; /* Font Awesome solid icons */
-           content: "\f15b"; /* Unicode for the desired icon, e.g., user icon */
-           margin-right: 8px; /* Spacing between the icon and the text */
-         }
-       }
-   }
-    
-
+    margin-bottom: 10px;  
   }
 
 
@@ -94,6 +81,38 @@
       height: 20px;
     }
   }
+
+   &--research {
+      p, li{
+          ul{
+              li{
+                  &:before {
+                      font-family: "Font Awesome 6 Free"; /* Font Awesome version 5 */
+                      font-weight: 900; /* Font Awesome solid icons */
+                      content: "\f15b"; /* Unicode for the desired icon, e.g., user icon */
+                      margin-right: 8px; /* Spacing between the icon and the text */
+                  }
+              }
+          }
+      }
+  }
+
+   &--teaching {
+      p, li{
+          ul{
+              li{
+                  &:before {
+                      font-family: "Font Awesome 6 Free"; /* Font Awesome version 5 */
+                      font-weight: 900; /* Font Awesome solid icons */
+                      content: "\f19d"; /* Unicode for the desired icon, e.g., user icon */
+                      margin-right: 8px; /* Spacing between the icon and the text */
+                  }
+              }
+          }
+      }
+  }
+
+
 }
 
 
