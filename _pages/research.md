@@ -2,7 +2,7 @@
 layout: single
 permalink: /research/
 title: "Research"
-author_profile: true
+author_profile: false
 header:
   overlay_image: /images/unc_test.jpg
   overlay_filter: 0.30
