@@ -7,7 +7,7 @@ header:
   overlay_image: /images/unc_test.jpg
   overlay_filter: 0.30
 sidebar:
-  title: "Teaching Experience"
+  title: "Research"
   nav: sidebar-research
 redirect_from: /publications/
 ---
