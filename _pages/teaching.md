@@ -16,7 +16,7 @@ redirect_from: /Teaching/
 
 ## ECON 370: Economic Applications of Data Science 
 
-Designed and taught ECON 370, the first course in the [**DATA credential**](https://econ.unc.edu/undergraduate/data-science-credential/) for undergraduate UNC economics majors. The course was designed to teach students the fundamentals of R programming needed to work with real world data assuming no prior coding experience. To better learn how to write code in R, economic applications were used to show students the importance of programming in economics. Applications included auction simulation and solving the utility maximization problem and the ordinary least squares estimator using numerical optimization. After students gained basic competency in R, they were taught common packages for working with data in R such as [**dplyr**](https://dplyr.tidyverse.org) and [**tidyr**](https://tidyr.tidyverse.org) in the [**tidyverse**](https://www.tidyverse.org) and [**data.table**](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html). The course concluded by teaching them how to communicate their data using plots made with [**ggplot2**](https://ggplot2.tidyverse.org) and produce write-ups of their findings using [**R Markdown**](https://rmarkdown.rstudio.com) documents. Any remaining time was used to teach them basic machine learning models such as clustering with K-means and EM. &nbsp; <a href="http://alexmarsh.io/files/ECON370_Syllabus_Fall2023.pdf" class="btn btn--primary btn--small btn--half">Syallbus</a> 
+Designed and taught ECON 370, the first course in the [**DATA credential**](https://econ.unc.edu/undergraduate/data-science-credential/) for undergraduate UNC economics majors. The course was designed to teach students the fundamentals of R programming that are needed to work with real world data assuming no prior coding experience. To better learn how to write code in R, economic applications were used to show students the importance of programming in economics. Applications included auction simulation and solving the utility maximization problem and the ordinary least squares estimator using numerical optimization. After students gained basic competency in R, they were taught common packages for working with data in R such as [**dplyr**](https://dplyr.tidyverse.org) and [**tidyr**](https://tidyr.tidyverse.org) in the [**tidyverse**](https://www.tidyverse.org) and [**data.table**](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html). The course concluded by teaching them how to communicate their data using plots made with [**ggplot2**](https://ggplot2.tidyverse.org) and produce write-ups of their findings using [**R Markdown**](https://rmarkdown.rstudio.com) documents. Any remaining time was used to teach them basic machine learning models such as clustering with K-means and EM. &nbsp; <a href="http://alexmarsh.io/files/ECON370_Syllabus_Fall2023.pdf" class="btn btn--primary btn--small btn--half">Syallbus</a> 
 
 #### Student Evaluations
 <div class="quote__container">
@@ -58,9 +58,7 @@ ECON 370 is intended to provide a broad-based introduction to numerical and data
 </blockquote>
 
 
-<h1 style="margin-top: 1em;">
-Teaching Assistant
-</h1>
+# Teaching Assistant
 ## ECON 101: Introduction to Economics
  
  Served as a teaching assistant for ECON 101 which is around an 800 person class at UNC. My main responsibility was leading two recitation sections where students worked on more in-depth practice problems than those seen in lecture. Walked through solutions after students first attempted the problems with a partner. Responsible for providing clear explanations to students in hopes of them developing a deeper understanding of the material. 
