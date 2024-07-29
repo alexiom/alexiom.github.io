@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.30
 sidebar:
   title: "Teaching Experience"
-  nav: sidebar-teaching
+  nav: sidebar-research
 redirect_from: /publications/
 ---
 
