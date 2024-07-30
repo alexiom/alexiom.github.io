@@ -223,27 +223,30 @@ body {
         font-size: $type-size-7;
     }
 
-    
+    /*
     summary::-webkit-details-marker {
         color: $primary-color;
     }
+    */
     
+    /*
     details summary::-webkit-details-marker {
         color: $primary-color;
-    }
-    
-    summary::marker {
-        color: $primary-color
-    }
-    
-    details summary::marker {
-        color: $primary-color
-    }
-    
+    }*/
+
+
     details summary {
         cursor: pointer;
         position: relative;
-        display: block;
+        display: inline;
+        
+        &::marker {
+            color: $primary-color
+        }
+        
+        &::-webkit-details-marker {
+        color: $primary-color;
+        }
     }
     
     
