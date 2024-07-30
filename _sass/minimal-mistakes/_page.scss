@@ -218,6 +218,13 @@ body {
         
     }
     
+    summary::-webkit-details-marker {
+        color: $primary_color;
+    }
+    summary:focus {
+        outline-style: none;
+    }
+    
     /*
     h3 {
         padding-bottom: 0.5em;
@@ -233,6 +240,16 @@ body {
 
 .page__content--indent {
   --leftmarg: 1em;
+}
+
+.page__content--research {
+  --leftmarg: 1em;
+  
+    li {
+        ul{
+            
+        }
+    }
 }
 
 .page__content blockquote {
