@@ -16,7 +16,9 @@ redirect_from: /publications/
 
 ## Working Papers
 
-- **"Revenue Management with Reallocation"** with Garrett Scott and Jonathan W. Williams.
-- [**"What Can Web Traffic Reveal about Air-Travel Demand?"**](http://alexmarsh.io/files/MarshScottVanKuikenWilliams2024.pdf) with Garrett Scott, Drew Van Kuiken, and Jonathan W. Williams. *Submitted to Economics of Transportation*.
-- **"Allocating Upgrades: Challenges and Opportunities in the Airline Industry"** with Garrett Scott and Jonathan W. Williams.
-- **"Personalized Pricing in the Airline Industry"** with Andrii Babii, Garrett Scott, and Jonathan W. Williams.
+<ul>
+	<li><strong> "Revenue Management with Reallocation" </strong> with Garrett Scott and Jonathan W. Williams. </li>
+	<li><a href="https://alexmarsh.io/files/MarshScottVanKuikenWilliams2024.pdf"><strong>"What Can Web Traffic Reveal about Air-Travel Demand?"</strong></a> with Garrett Scott, Drew Van Kuiken, and Jonathan W. Williams. <i> Submitted to Economics of Transportation </i></li>
+	<li><strong> "Allocating Upgrades: Challenges and Opportunities in the Airline Industry" </strong> with Garrett Scott and Jonathan W. Williams.</li>
+	<li><strong>"Personalized Pricing in the Airline Industry"</strong> with Andrii Babii, Garrett Scott, and Jonathan W. Williams.</li>
+</ul>
