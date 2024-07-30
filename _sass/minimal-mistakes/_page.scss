@@ -221,6 +221,11 @@ body {
     summary::-webkit-details-marker {
         color: $primary_color;
     }
+    
+    summary {
+        color: $primary_color;
+    }
+    
     summary:focus {
         outline-style: none;
     }
@@ -238,19 +243,15 @@ body {
     */
 }
 
-.page__content--indent {
+.page__content--research {
   --leftmarg: 1em;
 }
 
-.page__content--research {
+.page__content--teaching {
   --leftmarg: 1em;
-  
-    li {
-        ul{
-            
-        }
-    }
 }
+
+
 
 .page__content blockquote {
     margin-left: var(--leftmarg);;
