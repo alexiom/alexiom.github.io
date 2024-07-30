@@ -245,6 +245,14 @@ body {
         &::marker {
         color: $primary-color
         }
+        
+    }
+    
+    details > summary:first-of-type {
+        cursor: pointer;
+        display: inline;
+        position: relative;
+        
     }
         
     
