@@ -16,6 +16,7 @@
   animation: $intro-transition;
   -webkit-animation-delay: 0.3s;
   animation-delay: 0.3s;
+  font-weight: bold;
 
   @include breakpoint($x-large) {
     max-width: $x-large;
