@@ -244,7 +244,7 @@ body {
 
   /* Rotate the triangle when the details element is open */
   details[open] summary::before {
-    transform: translateY(-50%) rotate(180deg);
+    transform: translateY(-50%) rotate(0deg);
   }
     /*
     h3 {
