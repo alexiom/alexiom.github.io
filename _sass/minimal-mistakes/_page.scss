@@ -218,34 +218,17 @@ body {
         
     }
     
+    
     summary::-webkit-details-marker {
-        display: none;
+        color: $primary-color;
     }
     
-    summary {
-        cursor: pointer;
-        position: relative;
-        padding-left: 20px; /* Adjust padding to make space for the custom triangle */
+    details summary::-webkit-details-marker {
+        color: $primary-color;
     }
     
-   summary::before {
-        content: '';
-        position: absolute;
-        left: 0;
-        top: 50%;
-        transform: translateY(-50%) rotate(-90deg);
-        width: 0;
-        height: 0;
-        border-left: 5px solid transparent;
-        border-right: 5px solid transparent;
-        border-top: 5px solid $primary_color; /* Color of the triangle */
-        transition: transform 0.3s ease; /* Smooth rotation */
-  }
-
-  /* Rotate the triangle when the details element is open */
-  details[open] summary::before {
-    transform: translateY(-50%) rotate(0deg);
-  }
+    
+    
     /*
     h3 {
         padding-bottom: 0.5em;
