@@ -241,11 +241,11 @@ body {
         display: inline;
         
         &::marker {
-            color: $primary-color
+            color: $primary-color;
         }
         
         &::-webkit-details-marker {
-        color: $primary-color;
+            color: $primary-color;
         }
     }
     
