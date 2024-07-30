@@ -6,6 +6,7 @@ author_profile: true
 header:
   overlay_image: /images/unc_test.jpg
   overlay_filter: 0.25
+  teaser: /images/casual_headshot.png
 tagline: "Economics Job Market Candidate"
 ---
 
