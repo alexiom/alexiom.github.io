@@ -6,6 +6,7 @@ author_profile: false
 header:
   overlay_image: /images/unc_test.jpg
   overlay_filter: 0.30
+  teaser: /images/casual_headshot.png
 sidebar:
   title: "Teaching Experience"
   nav: sidebar-teaching
