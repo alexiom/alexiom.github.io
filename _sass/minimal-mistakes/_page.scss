@@ -219,7 +219,7 @@ body {
     }
     
     
-    summary {
+    details[open] {
         font-size: $type-size-7;
     }
     
