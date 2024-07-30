@@ -253,6 +253,9 @@ body {
         display: inline;
         position: relative;
         
+        &::marker {
+            color: $primary-color
+        }
     }
         
     
