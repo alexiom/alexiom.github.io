@@ -219,6 +219,10 @@ body {
     }
     
     
+    summary {
+        font-size: $type-size-7;
+    }
+    
     summary::-webkit-details-marker {
         color: $primary-color;
     }
@@ -228,7 +232,11 @@ body {
     }
     
     summary::marker {
-        color: $primary-color;
+        color: $primary-color
+    }
+    
+    details summary::marker {
+        color: $primary-color
     }
     
     
