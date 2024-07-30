@@ -240,6 +240,11 @@ body {
         color: $primary-color
     }
     
+    details summary {
+        cursor: pointer;
+        position: relative;
+        display: block;
+    }
     
     
     /*
