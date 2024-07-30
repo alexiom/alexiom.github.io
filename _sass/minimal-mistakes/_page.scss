@@ -231,12 +231,20 @@ body {
         color: $primary-color;
     }
     
+    /*
     summary::marker {
         color: $primary-color
-    }
+    }*/
     
-    details summary::marker {
+    details summary{
+        
+        cursor: pointer;
+        display: inline;
+        position: relative;
+        
+        &::marker {
         color: $primary-color
+        }
     }
         
     
