@@ -227,6 +227,10 @@ body {
         color: $primary-color;
     }
     
+    summary::marker {
+        color: $primary-color;
+    }
+    
     
     
     /*
