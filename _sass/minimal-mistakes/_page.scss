@@ -292,7 +292,7 @@ summary::-webkit-details-marker {
 .page__content blockquote cite {
     display: block;
     padding-right: 1.5em;
-    margin-top: 0.5em; /* Margin above the cite */
+    margin-top: 0.25em; /* Margin above the cite */
     font-style: normal; /* Normal font style for the cite */
     text-align: right; /* Align cite to the right */
     color: #333; /* Color of the cite */
@@ -342,10 +342,8 @@ summary::-webkit-details-marker {
 
 .page__content .quote__container .quote__minipage blockquote cite {
   display: block;
-  margin-top: 10px; /* Margin above the cite */
   font-style: normal; /* Normal font style for the cite */
   text-align: right; /* Align cite to the right */
-  color: #333; /* Color of the cite */
 }
 
 .page__content .quote__container .quote__minipage blockquote cite::before {
