@@ -217,39 +217,11 @@ body {
         margin-top: 1em;
         
     }
-    
-    
-    details p{
-        font-size: $type-size-7;
-    }
 
-    summary::-webkit-details-marker {
-        color: $primary-color;
-    }
-    
-    details summary::-webkit-details-marker {
-        color: $primary-color;
-    }
-    
     /*
     summary::marker {
         color: $primary-color
     }*/
-    
-    details summary{
-        
-        cursor: pointer;
-        display: inline-block;
-        position: relative;
-        
-        &::marker {
-        color: $primary-color
-        }
-        
-    }
-    
-
-        
     
     /*
     h3 {
@@ -262,6 +234,23 @@ body {
         }
     }
     */
+}
+
+details p{
+    font-size: $type-size-7;
+}
+
+summary {
+    cursor: pointer;
+    position: relative;
+}
+
+summary::marker {
+    color: $primary-color;
+}
+
+summary::-webkit-details-marker {
+    color: $primary-color;
 }
 
 .page__content--research {
