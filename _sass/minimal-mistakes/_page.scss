@@ -218,9 +218,12 @@ body {
         
     }
     
-    details {
+    
+    li details p {
         font-size: $type-size-7;
     }
+
+    
 
     /*
     summary::marker {
@@ -239,6 +242,7 @@ body {
     }
     */
 }
+
 
 
 summary {
