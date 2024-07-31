@@ -236,10 +236,10 @@ body {
         color: $primary-color
     }*/
     
-    p details summary{
+    details summary{
         
         cursor: pointer;
-        display: inline;
+        display: inline-block;
         position: relative;
         
         &::marker {
