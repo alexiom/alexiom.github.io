@@ -76,7 +76,8 @@ ECON 370 is intended to provide a broad-based introduction to numerical and data
 </blockquote>
 </details>
  
-#### Student Evaluations
+<details>
+<summary><strong>Student Evaluations</strong></summary>
 
 <div class="quote__container">
   
@@ -98,7 +99,7 @@ ECON 370 is intended to provide a broad-based introduction to numerical and data
     </blockquote>
   </div>
 </div>
-
+</details>
 
 
 ## ECON 470: Econometrics
