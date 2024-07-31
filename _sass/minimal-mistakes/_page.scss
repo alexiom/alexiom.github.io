@@ -252,10 +252,12 @@ summary {
 
 summary::marker {
     color: $primary-color;
+    font-size: $type-size-4;
 }
 
 summary::-webkit-details-marker {
     color: $primary-color;
+    font-size: $type-size-4;
 }
 
 .page__content--research {
