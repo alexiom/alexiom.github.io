@@ -68,7 +68,7 @@ ECON 370 is intended to provide a broad-based introduction to numerical and data
 # Teaching Assistant
 ## ECON 101: Introduction to Economics
  
- Served as a teaching assistant for ECON 101 which is around an 800 person class at UNC. My main responsibility was leading two recitation sections where students worked on more in-depth practice problems than those seen in lecture. Walked through solutions after students first attempted the problems with a partner. Responsible for providing clear explanations to students in hopes of them developing a deeper understanding of the material. 
+ Served as a teaching assistant for ECON 101: Intro to Economics with Dr. Robert McDonough, which is around an 800 person class at UNC. My main responsibility was leading two recitation sections where students worked on more in-depth practice problems than those seen in lecture. Walked through solutions after students first attempted the problems with a partner. Responsible for providing clear explanations to students in hopes of them developing a deeper understanding of the material. 
  
 <details>
 <summary><strong>Course Description</strong></summary>
