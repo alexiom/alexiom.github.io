@@ -77,6 +77,8 @@ ECON 370 is intended to provide a broad-based introduction to numerical and data
  
  Served as a teaching assistant for ECON 101: Intro to Economics with Dr. Robert McDonough, which is around an 800 person class at UNC. My main responsibility was leading two recitation sections where students worked on more in-depth practice problems than those seen in lecture. After students first attempted the problems with a partner, I walked through the solutions with an eye towards providing clear explanations to students to assist them in developing a deeper understanding of the material. 
  
+**Semesters Taught**: Fall 2021, Fall 2022, Fall 2023
+ 
 <details>
 <summary><strong>Course Description</strong></summary>
 <blockquote>  
