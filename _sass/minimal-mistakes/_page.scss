@@ -217,6 +217,10 @@ body {
         margin-top: 1em;
         
     }
+    
+    details p{
+        font-size: $type-size-7;
+    }
 
     /*
     summary::marker {
@@ -236,9 +240,6 @@ body {
     */
 }
 
-details p{
-    font-size: $type-size-7;
-}
 
 summary {
     cursor: pointer;
