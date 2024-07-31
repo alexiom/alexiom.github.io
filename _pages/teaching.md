@@ -60,7 +60,7 @@ ECON 370 is intended to provide a broad-based introduction to numerical and data
   </div>
   <div class="quote__minipage">
   	<center style="margin-bottom: 0.25em;"><a href="http://alexmarsh.io/files/ECON370_Fall2023_Evals.pdf" class="btn btn--primary btn--half">Fall 2023</a></center>
-  	    <center><strong> Overall Mean: 4.44/5 </strong>    </center>
+  	    <center><strong> Overall Mean: 4.44/5 </strong></center>
     <blockquote>
     	"He provided plenty of time in class to answer questions and consistently held office hours that were very helpful. Showing us real time in R what he was doing was also very helpful."
     	
@@ -92,13 +92,17 @@ ECON 370 is intended to provide a broad-based introduction to numerical and data
   <!-- First Quote -->
   <div class="quote__minipage">
   	<center style="margin-bottom: 0.25em;"> <a href="https://alexmarsh.io/files/ECON101-602_Spring2024_Evals.pdf" class="btn btn--primary btn--half"> Spring 2024, Recitation 602 </a> </center>
+  	<center><strong> Overall Mean: 4.19/5 </strong></center>
     <blockquote>
+    
+    Alexander Marsh explained difficult concepts to students during weekly recitation. The work always pertained to what was being taught in lecture that week, and was good practice.
     	
     <cite> Spring 2024, Recitation 602 Student</cite>
     </blockquote>
   </div>
   <div class="quote__minipage">
   	<center style="margin-bottom: 0.25em;"> <a href="https://alexmarsh.io/files/ECON101-601_Spring2024_Evals.pdf" class="btn btn--primary btn--half"> Spring 2024, Recitation 601 </a>  </center>
+  	<center><strong> Overall Mean: 3.06/5 </strong></center>
     <blockquote>
   
     <cite> Spring 2024, Recitation 601 Student</cite>
