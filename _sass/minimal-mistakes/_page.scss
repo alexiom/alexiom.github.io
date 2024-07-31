@@ -236,7 +236,7 @@ body {
         color: $primary-color
     }*/
     
-    details summary{
+    a details summary{
         
         cursor: pointer;
         display: inline;
@@ -248,15 +248,7 @@ body {
         
     }
     
-    details > summary:first-of-type {
-        cursor: pointer;
-        display: inline;
-        position: relative;
-        
-        &::marker {
-            color: $primary-color
-        }
-    }
+
         
     
     /*
