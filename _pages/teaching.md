@@ -34,7 +34,7 @@ ECON 370 is intended to provide a broad-based introduction to numerical and data
   
   <!-- First Quote -->
   <div class="quote__minipage">
-    <center style="margin-bottom: 0.25em;"> <a href="http://alexmarsh.io/files/ECON390_Fall2021_Evals.pdf" class="btn btn--primary btn--large btn--half">Fall 2021</a> </center>
+    <center style="margin-bottom: 0.25em;"> <a href="http://alexmarsh.io/files/ECON390_Fall2021_Evals.pdf" class="btn btn--primary btn--half">Fall 2021</a> </center>
     <blockquote>
     	Alex did a great job of teaching coding and the assignments were manageable and informative. 
   
@@ -42,18 +42,16 @@ ECON 370 is intended to provide a broad-based introduction to numerical and data
     </blockquote>
   </div>
   <div class="quote__minipage">
+    <center style="margin-bottom: 0.25em;"> <a href="http://alexmarsh.io/files/ECON370_Fall2022_Evals.pdf" class="btn btn--primary btn--half">Fall 2022</a> </center>
     <blockquote>
-    	<center style="margin-bottom: 0.25em;"> <a style="font-style: normal;" href="http://alexmarsh.io/files/ECON370_Fall2022_Evals.pdf" class="btn btn--primary btn--large btn--half">Fall 2022</a> </center>
-    	
     	Super accessible and very kind! It was apparent that he cared a lot about the class material and went out of his way to be helpful to students.
   
     <cite> Fall 2022 Student</cite>
     </blockquote>
   </div>
   <div class="quote__minipage">
+  	<center style="margin-bottom: 0.25em;"><a href="http://alexmarsh.io/files/ECON370_Fall2023_Evals.pdf" class="btn btn--primary btn--half">Fall 2023</a></center>
     <blockquote>
-    	<center style="margin-bottom: 0.25em;"><a style="font-style: normal;" href="http://alexmarsh.io/files/ECON370_Fall2023_Evals.pdf" class="btn btn--primary btn--large btn--half">Fall 2023</a></center>
-    	
     	He provided plenty of time in class to answer questions and consistently held office hours that were very helpful. Showing us real time in R what he was doing was also very helpful.
   
     <cite> Fall 2023 Student</cite>
