@@ -20,6 +20,8 @@ redirect_from: /Teaching/
 
 Designed and taught ECON 370, the first course in the [**DATA credential**](https://econ.unc.edu/undergraduate/data-science-credential/) for undergraduate UNC economics majors. The course is intended for students to learn the R programming language to work with real world data, *assuming no prior coding experience.* Economic applications were used as examples to help students improve their base R skills and highlight the importance of programming in economics. Applications included auction simulation and solving basic optimization problems (e.g. utility maximization, OLS) numerically using [**optim**](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/optim.html). After the introduction to base R, I taught students the most common packages for working with data in R such as [**dplyr**](https://dplyr.tidyverse.org) and [**tidyr**](https://tidyr.tidyverse.org) in the [**tidyverse**](https://www.tidyverse.org) and [**data.table**](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html). I concluded the course by teaching students how to communicate their data visually using [**ggplot2**](https://ggplot2.tidyverse.org) and how to produce write-ups of their findings using [**R Markdown**](https://rmarkdown.rstudio.com). Any remaining time was used to teach them basic machine learning models such as clustering with K-means and EM. &nbsp; <a href="http://alexmarsh.io/files/ECON370_Syllabus_Fall2023.pdf" class="btn btn--primary btn--small btn--half">Syllabus</a> 
 
+**Semesters Taught**: Fall 2021, Fall 2022, Fall 2023
+
 <details>
 <summary><strong>Course Description</strong></summary>
 <blockquote>  
@@ -76,9 +78,9 @@ ECON 370 is intended to provide a broad-based introduction to numerical and data
 ## ECON 101: Introduction to Economics
  
  Served as a teaching assistant for ECON 101: Intro to Economics with Dr. Robert McDonough, which is around an 800 person class at UNC. My main responsibility was leading two recitation sections where students worked on more in-depth practice problems than those seen in lecture. After students first attempted the problems with a partner, I walked through the solutions with an eye towards providing clear explanations to students to assist them in developing a deeper understanding of the material. 
- 
-**Semesters Taught**: Fall 2021, Fall 2022, Fall 2023
- 
+  
+ **Semesters Taught**: Spring 2024
+  
 <details>
 <summary><strong>Course Description</strong></summary>
 <blockquote>  
@@ -118,6 +120,7 @@ ECON 370 is intended to provide a broad-based introduction to numerical and data
 
 Served as a teaching assistant for ECON 470: Econometrics with Dr. David Guilkey. Duties included holding office hours, grading exams, and walking students through the exam solutions in the next class meeting. Topics included linear regression estimation with ordinary least squares, instrumental variable regressions, discrete dependent variable models, and models for longitudinal data. 
 
+**Semesters Taught**: Spring 2023
 
 <details>
 <summary><strong>Course Description</strong></summary>
