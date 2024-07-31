@@ -34,8 +34,9 @@ ECON 370 is intended to provide a broad-based introduction to numerical and data
   
   <!-- First Quote -->
   <div class="quote__minipage">
-    <center style="margin-bottom: 0.25em;"> <a href="http://alexmarsh.io/files/ECON390_Fall2021_Evals.pdf" class="btn btn--primary btn--half">Fall 2021</a> </center>
-    <strong> Mean Overall Evaluation: 4/5 </strong>
+    <center style="margin-bottom: 0.25em;"> <a href="http://alexmarsh.io/files/ECON390_Fall2021_Evals.pdf" class="btn btn--primary btn--half">Fall 2021</a>
+    
+    <strong> Mean Overall Evaluation: 4/5 </strong> </center>
     <blockquote>
     	"Alex did a great job of teaching coding and the assignments were manageable and informative."
   
