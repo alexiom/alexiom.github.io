@@ -41,6 +41,13 @@ ECON 370 is intended to provide a broad-based introduction to numerical and data
   
     <cite> Fall 2021 Student</cite>
     </blockquote>
+    
+    <blockquote>
+    	"Incredibly nice human being who obviously wanted to help us in any way possible. A very good lecturer and was entertaining from the student side."
+  
+    <cite> Fall 2021 Student</cite>
+    </blockquote>
+    
   </div>
   <div class="quote__minipage">
     <center style="margin-bottom: 0.25em;"> <a href="http://alexmarsh.io/files/ECON370_Fall2022_Evals.pdf" class="btn btn--primary btn--half">Fall 2022</a> </center>
