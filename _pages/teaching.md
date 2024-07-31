@@ -21,7 +21,7 @@ redirect_from: /Teaching/
 Designed and taught ECON 370, the first course in the [**DATA credential**](https://econ.unc.edu/undergraduate/data-science-credential/) for undergraduate UNC economics majors. The course was designed to teach students the fundamentals of R programming that are needed to work with real world data assuming no prior coding experience. To better learn how to write code in R, economic applications were used to show students the importance of programming in economics. Applications included auction simulation and solving the utility maximization problem and the ordinary least squares estimator using numerical optimization. After students gained basic competency in R, they were taught common packages for working with data in R such as [**dplyr**](https://dplyr.tidyverse.org) and [**tidyr**](https://tidyr.tidyverse.org) in the [**tidyverse**](https://www.tidyverse.org) and [**data.table**](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html). The course concluded by teaching them how to communicate their data using plots made with [**ggplot2**](https://ggplot2.tidyverse.org) and produce write-ups of their findings using [**R Markdown**](https://rmarkdown.rstudio.com) documents. Any remaining time was used to teach them basic machine learning models such as clustering with K-means and EM. &nbsp; <a href="http://alexmarsh.io/files/ECON370_Syllabus_Fall2023.pdf" class="btn btn--primary btn--small btn--half">Syallbus</a> 
 
 <details>
-<summary> Course Description </summary>
+<summary style="font-style: bold;">Course Description </summary>
 <blockquote>  
 ECON 370 is intended to provide a broad-based introduction to numerical and data-science methods commonly used in economics. The course will first introduce students to the R programming language, assuming no prior experience.  Subsequent lectures will provide students an opportunity to apply this knowledge on real-world data to achieve an economic objective.  The methods used in these applications will include (but are not limited to): collecting, cleaning, merging, processing, and visualizing data, descriptive analysis, optimization, and supervised/unsupervised statistical learning. In addition, the course has an experiential component that connects students with industry leaders in economic applications of data-science through a series of on-campus events. 
 </blockquote>
@@ -97,3 +97,11 @@ ECON 370 is intended to provide a broad-based introduction to numerical and data
 ## ECON 470: Econometrics
 
 Served as a teaching assistant for ECON 470: Econometrics with Dr. David Guilkey. Duties included holding office hours, grading exams, and walking students through the exam solutions in the next class meeting. Topics included linear regression estimation with ordinary least squares, instrumental variable regressions, discrete dependent variable models, and models for longitudinal data. 
+
+
+<details>
+<summary style="font-style: bold;">Course Description </summary>
+<blockquote>  
+Econometrics is the application of statistical methods and economic theory to the problem of identifying, estimating, and testing economic models. This course covers concepts and methods used in empirical economic research. Topics include the classical single-equation regression model, multiple regression models, discrete and categorical dependent variables, instrumental variables and longitudinal data. Students will learn the theory and assumptions behind each of the estimation methods so that they can determine the appropriate method for any particular analysis. In the lectures, there will be many empirical examples using a wide variety of data sets that are either cross sectional or longitudinal.
+</blockquote>
+</details>
