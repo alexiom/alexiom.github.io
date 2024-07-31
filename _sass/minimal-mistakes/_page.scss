@@ -330,7 +330,8 @@ summary::-webkit-details-marker {
 
 /* Block quote styles inside .minipage */
 .page__content .quote__container .quote__minipage blockquote {
-  margin: 0 0; /* Vertical margin */
+  margin-top: 0.5em;
+  margin-bototm: 0;
   padding-block: 0em;
   padding-left: 1em;
   padding-right: 0em;
