@@ -4,8 +4,6 @@ permalink: /
 title: "Alex Marsh"
 author_profile: true
 header:
-  overlay_image: /images/unc_test.jpg
-  overlay_filter: 0.25
   og_image: /images/casual_headshot.png
   teaser: /images/casual_headshot.png
 tagline: "Economics Job Market Candidate"
