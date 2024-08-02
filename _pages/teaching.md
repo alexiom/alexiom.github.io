@@ -9,7 +9,11 @@ header:
 sidebar:
   title: "Teaching Experience"
   nav: sidebar-teaching
-redirect_from: /Teaching/
+redirect_from: 
+  - /Teaching/
+  - /teaching/ECON390_Fall2021
+  - /teaching/ECON370_Fall2022
+  - /teaching/ECON370_Fall2023
 ---
 
 # Instructor
