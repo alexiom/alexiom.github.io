@@ -4,9 +4,9 @@ permalink: /
 title: "Alex Marsh"
 author_profile: true
 header:
+  overlay_image: /images/unc_test.jpg
   og_image: /images/casual_headshot.png
   teaser: /images/casual_headshot.png
-tagline: "Economics Job Market Candidate"
 ---
 
 My name is Alex Marsh, and I am a doctoral candidate in economics at the University of North Carolina - Chapel Hill. I am currently on the job market.
