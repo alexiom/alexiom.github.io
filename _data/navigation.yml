@@ -10,7 +10,8 @@ main:
 #    url: /talks/
     
   - title: "CV"
-    url: /files/AlexMarshCV.pdf
+    url: /cv/
+    external: true
     
 #  - title: "Personal"
 #    url: /personal/
