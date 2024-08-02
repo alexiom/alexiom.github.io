@@ -4,7 +4,6 @@ permalink: /
 title: "Alex Marsh"
 author_profile: true
 header:
-  overlay_image: /images/unc_test.jpg
   og_image: /images/casual_headshot.png
   teaser: /images/casual_headshot.png
 ---
