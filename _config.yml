@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "unc" # "air", "aqua", "contrast", "dark", "default",
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Website"
+title                    : "Alex Marsh"
 title_separator          : "-"
 subtitle                 : ""# site tagline that appears below site title in masthead
 name                     : &name "Alex Marsh"
