@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "Alex Marsh"
+title: "Welcome To My Website"
 author_profile: true
 header:
   og_image: /images/headshot.png
