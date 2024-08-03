@@ -4,8 +4,8 @@ title: "Teaching Experience"
 permalink: /teaching/
 author_profile: false
 header:
-  og_image: /images/casual_headshot.png
-  teaser: /images/casual_headshot.png
+  og_image: /images/headshot.png
+  teaser: /images/headshot.png
 sidebar:
   title: "Teaching Experience"
   nav: sidebar-teaching
