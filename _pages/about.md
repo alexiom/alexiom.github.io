@@ -1,8 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "Home"
-tagline: "Welcome To My Website"
+title: "Welcome To My Website"
 author_profile: true
 header:
   og_image: /images/headshot.png
