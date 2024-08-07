@@ -248,6 +248,7 @@ body {
 summary {
     cursor: pointer;
     position: relative;
+    left-margin: -0.5em;
 }
 
 summary::marker {
