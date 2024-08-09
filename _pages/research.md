@@ -16,7 +16,7 @@ redirect_from: /publications/
 
 <ul>
 	<li><strong> "Revenue Management with Reallocation" </strong> with Garrett Scott and Jonathan W. Williams. </li>
-	<li><a href="https://alexmarsh.io/files/MarshScottVanKuikenWilliams2024.pdf"><strong>"What Can Web Traffic Reveal about Air-Travel Demand?"</strong></a> with Garrett Scott, Drew Van Kuiken, and Jonathan W. Williams. <i> Submitted to Economics of Transportation.</i>
+	<li><a href="https://alexmarsh.io/files/MarshScottVanKuikenWilliams2024.pdf"><strong>"What Can Web Traffic Reveal about Air-Travel Demand?"</strong></a> with Garrett Scott, Drew Van Kuiken, and Jonathan W. Williams. <i> Revise & Resubmit at Economics of Transportation.</i>
 		<ul style="list-style-type: none"> 
 			<li>
 				<details>
