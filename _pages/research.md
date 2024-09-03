@@ -30,3 +30,9 @@ redirect_from: /publications/
 	<li><strong> "Allocating Upgrades: Challenges and Opportunities in the Airline Industry" </strong> with Garrett Scott and Jonathan W. Williams.</li>
 	<li><strong>"Personalized Pricing in the Airline Industry"</strong> with Andrii Babii, Garrett Scott, and Jonathan W. Williams.</li>
 </ul>
+
+## Works in Progress
+<ul>
+	<li><strong> "Consideration Sets with Intertemporally Related Goods: Evidence from an Airline"</strong></li>
+
+</ul>
