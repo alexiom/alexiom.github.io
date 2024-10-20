@@ -16,6 +16,16 @@ redirect_from: /publications/
 
 <ul>
 	<li><strong> "Revenue Management with Reallocation" </strong> with Garrett Scott and Jonathan W. Williams. </li>
+	<ul style="list-style-type: none"> 
+			<li>
+				<details>
+				<summary><strong>Abstract</strong></summary>
+				<p> We develop a model to study the trade-offs associated with introducing re-allocative mechanisms into dynamic-pricing environments with heterogeneous goods and strategic consumers. Our focus is on airlines that sell seats in vertically-differentiated cabins and provide upgrade opportunities after an initial purchase via auctions and fixed-price sales. If consumers anticipate opportunities for an improved reallocation and reduce outright purchases of premium seats, the screening intention of dynamically-set prices can be undermined to create circumstances with a greater probability of upgrades and an ambiguous impact on profits. To study ways to adapt these mechanisms to better complement dynamic-pricing practices, we estimate the model's structural parameters using proprietary data from an airline that includes the price for each itinerary, daily cabin-specific seat inventories for each flight, bids and purchases of upgrades, and information on visits and purchases on the airlines' website. We find that the mechanisms, as implemented, transfer a modest amount of surplus from the airline to consumers. In counterfactual calculations, we explore two ways to improve integration and performance. We find that profits and total welfare increase by either introducing state-specific reserve values to provide commitment for the airline to make the auction less accommodating to strategic consumers or making pricing policies dependent on submitted bids to internalize the option value of the auction while setting prices.
+				</p>
+				</details>
+			</li>
+		</ul>
+
 	<li><a href="https://alexmarsh.io/files/MarshScottVanKuikenWilliams2024.pdf"><strong>"What Can Web Traffic Reveal about Air-Travel Demand?"</strong></a> with Garrett Scott, Drew Van Kuiken, and Jonathan W. Williams. <i> Revise & Resubmit at Economics of Transportation.</i>
 		<ul style="list-style-type: none"> 
 			<li>
