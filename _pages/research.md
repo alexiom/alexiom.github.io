@@ -15,7 +15,7 @@ redirect_from: /publications/
 ## Working Papers
 
 <ul>
-	<li><strong> "Revenue Management with Reallocation" </strong> with Garrett Scott and Jonathan W. Williams. </li>
+	<li><strong> "Revenue Management with Reallocation" </strong> with Garrett Scott and Jonathan W. Williams. 
 	<ul style="list-style-type: none"> 
 			<li>
 				<details>
@@ -25,6 +25,7 @@ redirect_from: /publications/
 				</details>
 			</li>
 		</ul>
+	</li>
 
 	<li><a href="https://alexmarsh.io/files/MarshScottVanKuikenWilliams2024.pdf"><strong>"What Can Web Traffic Reveal about Air-Travel Demand?"</strong></a> with Garrett Scott, Drew Van Kuiken, and Jonathan W. Williams. <i> Revise & Resubmit at Economics of Transportation.</i>
 		<ul style="list-style-type: none"> 
@@ -37,9 +38,25 @@ redirect_from: /publications/
 			</li>
 		</ul>
 	</li>
-	<li><strong> "Allocating Upgrades: Challenges and Opportunities in the Airline Industry" </strong> with Garrett Scott and Jonathan W. Williams.</li>
+	<li><strong> "Allocating Upgrades: Challenges and Opportunities in the Airline Industry" </strong> with Garrett Scott and Jonathan W. Williams.
+		<ul style="list-style-type: none"> 
+			<li>
+				<details>
+				<summary><strong>Abstract</strong></summary>
+				<p> We study the allocation of premium-cabin upgrades through auctions and fixed-price sales at check-in. Our data comes from a major airline and includes information on ticket sales, aircraft inventory, and upgrade purchases and bids, before and after the introduction of the upgrade mechanisms. We use a model to identify challenges and trade-offs associated with these practices and highlight factors that can impact their effectiveness. As implemented, we find that these practices lead to a minimal increase in revenue because upgrade opportunities largely cannibalize outright premium-cabin sales. We show that information dissemination and framing offer meaningful opportunities to improve performance, and discuss how to avoid cannibalization through improved integration with existing revenue-management systems.  
+				</p>
+				</details>
+			</li>
+		</ul>
+	
+	</li>
 	<li><strong>"Personalized Pricing in the Airline Industry"</strong> with Andrii Babii, Garrett Scott, and Jonathan W. Williams.</li>
 </ul>
+
+
+
+We study the allocation of premium-cabin upgrades through auctions and fixed-price sales at check-in. Our data comes from a major airline and includes information on ticket sales, aircraft inventory, and upgrade purchases and bids, before and after the introduction of the upgrade mechanisms. We use a model to identify challenges and trade-offs associated with these practices and highlight factors that can impact their effectiveness. As implemented, we find that these practices lead to a minimal increase in revenue because upgrade opportunities largely cannibalize outright premium-cabin sales. We show that information dissemination and framing offer meaningful opportunities to improve performance, and discuss how to avoid cannibalization through improved integration with existing revenue-managment systems.  
+
 
 ## Works in Progress
 <ul>
