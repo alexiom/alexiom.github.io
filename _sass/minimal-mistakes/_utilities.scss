@@ -250,7 +250,7 @@ $text-alignments: left, right, start, end, center, justify;
     inset-inline-start: 0;
     width: $navicon-width;
     height: $navicon-height;
-    background: $primary-color;
+    background: $masthead-link-color;
     -webkit-transition: 0.3s;
     transition: 0.3s;
   }
