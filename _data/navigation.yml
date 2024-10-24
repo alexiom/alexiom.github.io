@@ -40,7 +40,7 @@ sidebar-research:
     url: "/research/#working-papers"
     children:
       - title: "Revenue Management with Reallocation"
-        url: "/research/files/AlexMarshJMP.pdf"
+        url: "/files/AlexMarshJMP.pdf"
       - title: "What Can Web Traffic Reveal about Air-Travel Demand?"
         url: "/files/MarshScottVanKuikenWilliams2024.pdf"
       - title: "Allocating Upgrades: Challenges and Opportunities in the Airline Industry"
