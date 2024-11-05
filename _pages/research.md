@@ -63,13 +63,7 @@ redirect_from: /publications/
 				</details>
 			</li>
 		</ul>
-	
-	
 	</li>
-	
-	
-		
-	
 </ul>
 
 
