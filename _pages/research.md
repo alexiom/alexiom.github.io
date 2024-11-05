@@ -27,6 +27,8 @@ redirect_from: /publications/
 			</li>
 		</ul>
 	</li>
+	
+	
 
 	<li><a href="https://alexmarsh.io/files/MarshScottVanKuikenWilliams2024.pdf"><strong>"What Can Web Traffic Reveal about Air-Travel Demand?"</strong></a> with Garrett Scott, Drew Van Kuiken, and Jonathan W. Williams. <i> Revise & Resubmit at Economics of Transportation.</i>
 		<ul style="list-style-type: none"> 
@@ -51,7 +53,23 @@ redirect_from: /publications/
 		</ul>
 	
 	</li>
-	<li><strong>"Personalized Pricing in the Airline Industry"</strong> with Andrii Babii, Garrett Scott, and Jonathan W. Williams.</li>
+	<li><strong>"Personalized Pricing in the Airline Industry"</strong> with Andrii Babii, Garrett Scott, and Jonathan W. Williams.
+			<ul style="list-style-type: none"> 
+			<li>
+				<details>
+				<summary><strong>Abstract</strong></summary>
+				<p> We study personalized pricing in the airline industry. Our empirical analysis uses novel data from a six-month long experiment by a major airline that randomized discounts to customers arriving to their website. The data includes detailed information from each website query like travel-party attributes, itinerary, price, whether a discount was offered, and a passenger-specific identifier and tier status if the customer logs in. Using a variety of machine-learning methods, we find that the profit-maximizing targeting of discounts results in only a slight increase in profits for the airline with some redistribution between customers. Certain factors, like market-specific competition, mitigate the effectiveness of targeting. Collectively, our findings highlight the challenges with implementing real-time personalized pricing in practice.
+				</p>
+				</details>
+			</li>
+		</ul>
+	
+	
+	</li>
+	
+	
+		
+	
 </ul>
 
 
