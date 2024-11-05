@@ -79,7 +79,7 @@ redirect_from: /publications/
 				<details>
 				<summary><strong>Abstract</strong></summary>
 				<p> 
-					ABSTRACT HERE
+					ABSTRACT HERE!
 				</p>
 				</details>
 			</li>
