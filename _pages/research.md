@@ -12,9 +12,6 @@ sidebar:
 redirect_from: /publications/
 ---
 
-### Research Statement
-
-[Research Statement](https://alexmarsh.io/files/AlexMarshResearchStatement.pdf)
 
 ## Working Papers
 
@@ -58,10 +55,8 @@ redirect_from: /publications/
 </ul>
 
 
-
-
 ## Works in Progress
 <ul>
 	<li><strong> "Consideration Sets with Intertemporally Related Goods: Evidence from an Airline"</strong></li>
-
 </ul>
+
