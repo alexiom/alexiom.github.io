@@ -78,8 +78,8 @@ redirect_from: /publications/
 			<li>
 				<details>
 				<summary><strong>Abstract</strong></summary>
-				<p> We study personalized pricing in the airline industry. Our empirical analysis uses novel data from a six-month long experiment by a major airline that randomized discounts to customers arriving to their website. The data includes detailed information from each website query like travel-party attributes, itinerary, price, whether a discount was offered, and a passenger-specific identifier and tier status if the customer logs in. Using a variety of machine-learning methods, we find that the profit-maximizing targeting of discounts results in only a slight increase in profits for the airline with some redistribution between customers. Certain factors, like market-specific competition, mitigate the effectiveness of targeting. Collectively, our findings highlight the challenges with implementing real-time personalized pricing in practice.
-
+				<p> 
+					ABSTRACT HERE
 				</p>
 				</details>
 			</li>
