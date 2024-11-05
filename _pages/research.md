@@ -59,6 +59,7 @@ redirect_from: /publications/
 				<details>
 				<summary><strong>Abstract</strong></summary>
 				<p> We study personalized pricing in the airline industry. Our empirical analysis uses novel data from a six-month long experiment by a major airline that randomized discounts to customers arriving to their website. The data includes detailed information from each website query like travel-party attributes, itinerary, price, whether a discount was offered, and a passenger-specific identifier and tier status if the customer logs in. Using a variety of machine-learning methods, we find that the profit-maximizing targeting of discounts results in only a slight increase in profits for the airline with some redistribution between customers. Certain factors, like market-specific competition, mitigate the effectiveness of targeting. Collectively, our findings highlight the challenges with implementing real-time personalized pricing in practice.
+
 				</p>
 				</details>
 			</li>
@@ -67,8 +68,22 @@ redirect_from: /publications/
 </ul>
 
 
+
+
 ## Works in Progress
 <ul>
-	<li><strong> "Consideration Sets with Intertemporally Related Goods: Evidence from an Airline"</strong></li>
+	<li><strong> "Consideration Sets with Intertemporally Related Goods: Evidence from an Airline"</strong>
+	<!-- <ul style="list-style-type: none"> 
+			<li>
+				<details>
+				<summary><strong>Abstract</strong></summary>
+				<p> We study personalized pricing in the airline industry. Our empirical analysis uses novel data from a six-month long experiment by a major airline that randomized discounts to customers arriving to their website. The data includes detailed information from each website query like travel-party attributes, itinerary, price, whether a discount was offered, and a passenger-specific identifier and tier status if the customer logs in. Using a variety of machine-learning methods, we find that the profit-maximizing targeting of discounts results in only a slight increase in profits for the airline with some redistribution between customers. Certain factors, like market-specific competition, mitigate the effectiveness of targeting. Collectively, our findings highlight the challenges with implementing real-time personalized pricing in practice.
+
+				</p>
+				</details>
+			</li>
+		</ul>
+	-->
+	</li>
 </ul>
 
