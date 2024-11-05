@@ -73,7 +73,8 @@ redirect_from: /publications/
 ## Works in Progress
 <ul>
 	<li><strong> "Consideration Sets with Intertemporally Related Goods: Evidence from an Airline"</strong>
-	<!-- <ul style="list-style-type: none"> 
+	<!-- 
+		<ul style="list-style-type: none"> 
 			<li>
 				<details>
 				<summary><strong>Abstract</strong></summary>
