@@ -12,7 +12,7 @@ sidebar:
 redirect_from: /publications/
 ---
 
-## Research Statement
+### Research Statement
 
 [Research Statement](https://alexmarsh.io/files/AlexMarshResearchStatement.pdf)
 
