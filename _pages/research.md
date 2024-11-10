@@ -12,7 +12,7 @@ sidebar:
 redirect_from: /publications/
 ---
 
-<p style="font-size: 0.75em"> My research combines economic theory and frontier computational econometric methods to study pricing strategies and consumer responses to them. I focus on how firms can price discriminate effectively when facing dynamic and strategic consumers. Through a partnership with a North American airline, my current work examines various pricing mechanisms including dynamic pricing, upgrade auctions, and personalized discounting. I am currently exploring how consumers' flexibility across departure dates affects their price sensitivity for flights and how this affects market definitions in air travel. In the future, I aim to apply these approaches to broader questions in industrial organization and other market settings. </p>
+<p style="font-size: 0.9em"> My research combines economic theory and frontier computational econometric methods to study pricing strategies and consumer responses to them. I focus on how firms can price discriminate effectively when facing dynamic and strategic consumers. Through a partnership with a North American airline, my current work examines various pricing mechanisms including dynamic pricing, upgrade auctions, and personalized discounting. I am currently exploring how consumers' flexibility across departure dates affects their price sensitivity for flights and how this affects market definitions in air travel. In the future, I aim to apply these approaches to broader questions in industrial organization and other market settings. </p>
 
 ## Working Papers
 
