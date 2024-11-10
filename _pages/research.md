@@ -12,7 +12,7 @@ sidebar:
 redirect_from: /publications/
 ---
 
-My research combines economic theory and frontier econometric methods to study pricing strategies and consumer behavior in the airline industry. Through a partnership with a North American airline, I examine how airlines can optimize revenue through various mechanisms including dynamic pricing, upgrade auctions, and personalized discounting. While my current work focuses on airlines, analyzing aspects like strategic consumer responses to upgrade opportunities and the formation of travel consideration sets, I aim to apply these methodological approaches to broader questions in industrial organization and other market settings.
+My research combines economic theory and frontier econometric methods to study pricing strategies used by firms and how consumers respond to them. Broadly, I am interested in pricing strategies that account for dynamic or strategic consumer behavior. Through a partnership with a North American airline, I examine how airlines price discriminate to maximize profit through various mechanisms including dynamic pricing, upgrade auctions, and personalized discounting. I am currently working on a project about consumer price sensitive for flights on neighboring departure dates and how it affects market definitions. In the future, I aim to apply these methodological approaches to broader questions in industrial organization and other market settings.
 
 ## Working Papers
 
