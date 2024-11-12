@@ -55,6 +55,7 @@ redirect_from: /publications/
 	
 	</li>
 	<li><strong>"Personalized Pricing in the Airline Industry"</strong> with Andrii Babii, Garrett Scott, and Jonathan W. Williams.
+	<!--
 			<ul style="list-style-type: none"> 
 			<li>
 				<details>
@@ -65,6 +66,7 @@ redirect_from: /publications/
 				</details>
 			</li>
 		</ul>
+	-->
 	</li>
 </ul>
 
