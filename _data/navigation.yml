@@ -5,10 +5,7 @@ main:
 
   - title: "Teaching"
     url: /teaching/
-    
-#  - title: "Talks"
-#    url: /talks/
-    
+
   - title: "CV"
     url: /cv/
     external: true
