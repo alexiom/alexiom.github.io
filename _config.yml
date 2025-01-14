@@ -90,7 +90,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "AlexMarshEcon"
 facebook:
   username               :
   app_id                 :
@@ -115,20 +115,20 @@ analytics:
 author:
   name             : "Alex Marsh"
   avatar           : "/assets/images/headshot.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "UNC Econ PhD Candidate"
+  bio              : "UNC Econonomics PhD Candidate"
   location         : "Chapel Hill, NC"
   email            : "alex.marsh@unc.edu"
   orcid            : "https://orcid.org/0009-0004-9133-1813"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:alex.marsh@unc.edu"
+      url: "mailto:alex.marsh@unc.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://alexmarsh.io"
+      url: "https://alexmarsh.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/AlexMarshEcon"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
