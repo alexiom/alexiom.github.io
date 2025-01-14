@@ -6,6 +6,7 @@ author_profile: true
 header:
   og_image: /images/headshot.png
   teaser: /images/headshot.png
+  overlay_image: /images/unc_test.jpg
 redirect_from: /personal/
 ---
 
