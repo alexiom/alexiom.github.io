@@ -6,6 +6,7 @@ author_profile: false
 header:
   og_image: /images/headshot.png
   teaser: /images/headshot.png
+  image: /images/unc_test.jpg
 sidebar:
   title: "Research"
   nav: sidebar-research
