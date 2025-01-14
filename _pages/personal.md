@@ -24,7 +24,7 @@ When I am not working, I enjoy running, lifting weights, playing guitar, tableto
   <p><em>Post Tar Heel 10 Miler (2024)</em></p>
 </div>
 
-I do enjoy following specific sports teams. At the professional level, I follow the Cincinnati Bengals, Cincinnati Reds, and Nashville Predators even if though doing so ultimately results in heartbreak. At the collegiate level, my loyalty for UNC and Duke athletics is complicated. I will root for both teams except for when they play each other, at which time, my doctoral funding and time at UNC beats out my introduction to the rivalry from attending Duke first.
+I do enjoy sports; however, I only follow specific teams. At the professional level, those teams are the Cincinnati Bengals, Cincinnati Reds, and Nashville Predators even if my support has only ever been rewarded in heartbreak. At the collegiate level, my loyalty to UNC and Duke is, admittedly, complicated. I cheer for both teams-except when they face each other. In those moments, my six years of funded doctoral education at UNC tips the scales, despite having first experienced the rivalry as a Duke student. However, my loyalty to Belmont Basketball trumps both programs. Belmont Men's Basketball has given both [UNC](https://belmontbruins.com/sports/mens-basketball/opponent-history/university-of-north-carolina/12) and (Duke)[https://belmontbruins.com/sports/mens-basketball/opponent-history/duke-university/6] competitive games in the past, with Belmont beating UNC on November 17, 2013. 
 
 ### Dungeons and Dragons
 
