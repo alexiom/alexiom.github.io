@@ -129,7 +129,7 @@ author:
     - label: "ORCID iD"
       icon: "fa-brands fa-orcid"
       url: "https://orcid.org/0009-0004-9133-1813"
-    - label: "X (Twitter)"
+    - label: "Twitter"
       icon: "fa-brands fa-x-twitter"
       url: "https://twitter.com/AlexMarshEcon"
     - label: "Goodreads"
