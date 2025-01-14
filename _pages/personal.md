@@ -22,7 +22,7 @@ Hobbies
 When I am not working, I enjoy running and lifting weights, playing guitar, tabletop roleplaying games, and reading, particularly fantasy and horror. I am an avid Nashville Predators hockey fan even if it ultimately results in heartbreak.
 
 <div style="text-align: center;">
-  ![Alt text](assets/images/your-image.jpg)
+  ![Post Tar Heel 10 Miler, 2024](/assets/images/tarheel10miler.jpeg)
 </div>
 
 
