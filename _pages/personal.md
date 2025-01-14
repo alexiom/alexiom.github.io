@@ -32,6 +32,8 @@ I do enjoy sports; however, I only follow specific teams. At the professional le
 
 ### Dungeons and Dragons
 
-I enjoy tabletop roleplaying games with Dungeons and Dragons 5th edition being the one I have the most familiarity. I am currently working on developing a Greek Mythology/Ancient Greece inspired campaign. Code that I have written for various purposes in D\&D 5e can be found [here.](https://github.com/alexiom/DND_Code) This includes simulations for determining when to use sharpshooter with various characters of mine and creating a hoard following the random tables in *Fizban's Treasury of Dragons*.
+I enjoy tabletop roleplaying games with Dungeons and Dragons 5th edition being the one I have the most familiarity. I am currently developing a Greek Mythology/Ancient Greece inspired campaign loosely based on the official Theros book. It will only rely on the Open Game License, and I plan to make it publicly available when it is ready.
+
+Code that I have written for various purposes in D\&D 5e can be found [here.](https://github.com/alexiom/DND_Code) This includes simulations for determining when to use sharpshooter with various characters of mine and creating a hoard following the random tables in *Fizban's Treasury of Dragons*.
 
 
