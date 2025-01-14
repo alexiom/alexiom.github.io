@@ -26,11 +26,13 @@ When I am not working, I enjoy running, lifting weights, playing guitar, tableto
 
 I do enjoy sports; however, I only follow specific teams. At the professional level, those teams are the Cincinnati Bengals, Cincinnati Reds, and Nashville Predators even if my support has only ever been rewarded with heartbreak in my lifetime. At the collegiate level, my loyalty to UNC and Duke is, admittedly, complicated. I cheer for both teams-except when they face each other. In those moments, my six years of funded doctoral education at UNC tips the scales, despite having first experienced the rivalry as a Duke student. However, both programs is trumped by my loyalty to Belmont Men's Basketball, who has given both <a href="https://belmontbruins.com/sports/mens-basketball/opponent-history/university-of-north-carolina/12">UNC</a> and <a href="https://belmontbruins.com/sports/mens-basketball/opponent-history/duke-university/6">Duke</a> competitive games in the past, with Belmont beating UNC on November 17, 2013. 
 
-### Dungeons and Dragons
-
-Code that I have written for various purposes in Dungeons and Dragons can be found [here.](https://github.com/alexiom/DND_Code) This includes simulations for determining when to use sharpshooter with various characters of mine and creating a hoard following the random tables in *Fizban's Treasury of Dragons*.
-
 ### Goodreads
 
 [This is a link to my Goodreads account.](https://www.goodreads.com/user/show/164916455-alex-marsh) While I have many reading interests, I am particularly interested in fantasy and horror.
+
+
+### Dungeons and Dragons
+
+I enjoy tabletop roleplaying games with Dungeons and Dragons 5th edition being the one I have the most familiarity. I am currently working on developing a Greek Mythology/Ancient Greece inspired campaign. Code that I have written for various purposes in D\&D 5e can be found [here.](https://github.com/alexiom/DND_Code) This includes simulations for determining when to use sharpshooter with various characters of mine and creating a hoard following the random tables in *Fizban's Treasury of Dragons*.
+
 
