@@ -9,7 +9,6 @@ header:
   overlay_image: /assets/images/unc_test.jpg
 redirect_from:
 ---
- 
 
 ## Blog
 
