@@ -17,12 +17,14 @@ redirect_from:
 
 ## Hobbies
 
-When I am not working, I enjoy running and lifting weights, playing guitar, tabletop roleplaying games, and reading. I am an avid Nashville Predators hockey fan even if it ultimately results in heartbreak.
+When I am not working, I enjoy running, lifting weights, playing guitar, tabletop roleplaying games, and reading.
 
 <div style="text-align: center;">
   <img src="/assets/images/tarheel10miler.jpeg" style="width: 50%; height: auto; max-width: 300;" alt="Alex Marsh is smiling in front of the University of North Carolina at Chapel Hill bell tower after completing the 2024 Tar Heel 10 miler. He is very sweat in a Carolina Economics t-shirt and holding a sign that reads &quot;YAY ALEX!!!.&quot; He is also wearing the medal for completing the race which is the shape of a bowtie along with his race bib indicating that he was runner 4813.">
   <p><em>Post Tar Heel 10 Miler (2024)</em></p>
 </div>
+
+I do enjoy following specific sports teams. At the professional level, I follow the Cincinnati Bengals, Cincinnati Reds, and Nashville Predators even if though it ultimately results in heartbreak. At the collegiate level, my loyalty for UNC and Duke athletics is complicated. I will root for both teams, and when they play one another, doctoral funding and time at UNC beats out my introduction to the rivalry from attending Duke first.
 
 ### Dungeons and Dragons
 
