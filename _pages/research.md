@@ -4,9 +4,9 @@ permalink: /research/
 title: "Research"
 author_profile: false
 header:
-  og_image: /images/headshot.png
-  teaser: /images/headshot.png
-  overlay_image: /images/unc_test.jpg
+  og_image: /assets/images/headshot.png
+  teaser: /assets/images/headshot.png
+  overlay_image: /assets/images/unc_test.jpg
 sidebar:
   title: "Research"
   nav: sidebar-research

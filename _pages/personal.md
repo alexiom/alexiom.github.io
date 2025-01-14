@@ -1,12 +1,30 @@
 ---
 layout: archive
-title: "About Me"
+title: "Personal"
 permalink: /personal/
 author_profile: true
+header:
+  og_image: /assets/images/images/headshot.png
+  teaser: /assets/images/headshot.png
+  overlay_image: /assets/images/unc_test.jpg
 redirect_from:
 ---
+ 
 
-When I am not working, I enjoy running and lifting weights, playing guitar, tabletop roleplaying games, and reading, particularly fantasy and horror. I am an avid Nashville Predators hockey fan even if it ultimately results in heartbreak. 
+Blog
+======
+
+[My personal blog can be found here.](https://alexmarsh.io/blog) This is still a work in progress, and I plan to post about anything I find interesting. I foresee its primary focus to revolve around economics and antitrust; however, it may brach off into other topics such as academia, philosophy of science, and discussion of my hobbies.
+
+Hobbies
+======
+
+When I am not working, I enjoy running and lifting weights, playing guitar, tabletop roleplaying games, and reading, particularly fantasy and horror. I am an avid Nashville Predators hockey fan even if it ultimately results in heartbreak.
+
+<div style="text-align: center;">
+  ![Alt text](assets/images/your-image.jpg)
+</div>
+
 
 Dungeons and Dragons
 ------
@@ -16,7 +34,3 @@ Goodreads
 ------
 My Goodreads account can be found [here.](https://www.goodreads.com/user/show/164916455-alex-marsh)
 
-Blog
-======
-
-[My personal blog can be found here.](https://alexiom.github.io/year-archive/)
