@@ -20,7 +20,7 @@ redirect_from:
 When I am not working, I enjoy running and lifting weights, playing guitar, tabletop roleplaying games, and reading. I am an avid Nashville Predators hockey fan even if it ultimately results in heartbreak.
 
 <div style="text-align: center;">
-  <img src="/assets/images/tarheel10miler.jpeg" alt="Alt text" width="600">
+  <img src="/assets/images/tarheel10miler.jpeg" alt="Alex Marsh is smiling in front of the University of North Carolina at Chapel Hill bell tower after completing the 2024 Tar Heel 10 miler. He is very sweat in a Carolina Economics tshirt and holding a sign that reads YAY ALEX!!! He is also wearing the medal for completing the race which is the shape of a bowtie along with his race bib indicating that he was runner 4813." width="300">
   <p><em>Post Tar Heel 10 Miler, 2024</em></p>
 </div>
 
