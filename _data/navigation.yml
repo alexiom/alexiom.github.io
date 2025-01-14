@@ -1,17 +1,17 @@
 ## --- Main navagation links at top of pages
 main:
+  - title: "CV"
+    url: /cv/
+    external: true
+
   - title: "Research"
     url: /research/
 
   - title: "Teaching"
     url: /teaching/
-
-  - title: "CV"
-    url: /cv/
-    external: true
     
-#  - title: "Personal"
-#    url: /personal/
+  - title: "Personal"
+    url: /personal/
 
 
 ## --- Side bar navagation
