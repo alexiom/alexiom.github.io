@@ -16,7 +16,7 @@ redirect_from:
 
 ## Hobbies
 
-When I am not working, I enjoy running, lifting weights, playing guitar, tabletop roleplaying games, and reading.
+Outside of work, I enjoy running, lifting weights, playing guitar, tabletop roleplaying games, and reading.
 
 <div style="text-align: center;">
   <img src="/assets/images/tarheel10miler.jpeg" style="width: 50%; height: auto; max-width: 300;" alt="Alex Marsh is smiling in front of the University of North Carolina at Chapel Hill bell tower after completing the 2024 Tar Heel 10 miler. He is very sweat in a Carolina Economics t-shirt and holding a sign that reads &quot;YAY ALEX!!!.&quot; He is also wearing the medal for completing the race which is the shape of a bowtie along with his race bib indicating that he was runner 4813.">
