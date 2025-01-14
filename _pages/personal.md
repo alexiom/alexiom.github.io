@@ -10,6 +10,8 @@ header:
 redirect_from:
 ---
 
+<div style="margin-top: -1em;"> </div>
+
 ## Blog
 
 [My personal blog can be found here.](https://alexmarsh.io/blog) This is a work in progress, and I plan to post about anything I find interesting. I foresee its primary focus to revolve around economics and antitrust; however, it may brach off into other topics such as academia, philosophy of science, and discussion of my hobbies.
