@@ -32,7 +32,7 @@ redirect_from: /publications/
 	
 	
 
-	<li><a href="https://alexmarsh.io/files/MarshScottVanKuikenWilliams2024.pdf"><strong>"Should I Stay or Should I Go? An Empirical Analysis of Consumer Behavior Using Airline Web-Traffic Data"</strong></a> with Garrett Scott, Drew Van Kuiken, and Jonathan W. Williams. <i> Revise & Resubmit at Economics of Transportation, <strong>Resubmitted.</strong></i>
+	<li><a href="https://alexmarsh.io/files/MarshScottVanKuikenWilliams2024.pdf"><strong>"Should I Stay or Should I Go? An Empirical Analysis of Consumer Behavior Using Airline Web-Traffic Data"</strong></a> with Garrett Scott, Drew Van Kuiken, and Jonathan W. Williams. <i> Accepted at Economics of Transportation, <strong>Resubmitted.</strong></i>
 		<ul style="list-style-type: none"> 
 			<li>
 				<details>
