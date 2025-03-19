@@ -15,6 +15,23 @@ redirect_from: /publications/
 
 <p style="font-size: 0.9em"> My research combines economic theory and frontier computational econometric methods to study price discrimination strategies and how they affect consumers. I focus on how firms can price discriminate effectively when facing dynamic and strategic consumers. Through a partnership with a North American airline, I examine various pricing mechanisms including dynamic pricing, upgrade auctions, and personalized discounting. I am currently exploring how consumers' flexibility across departure dates affects their price sensitivity and the impact of this flexibility on market definitions in air travel. In the future, I aim to apply these approaches to broader questions in industrial organization and other market settings. </p>
 
+## Publications
+
+<ul>
+	<li><a href="https://alexmarsh.io/files/MarshScottVanKuikenWilliams2024.pdf"><strong>"Should I Stay or Should I Go? An Empirical Analysis of Consumer Behavior Using Airline Web-Traffic Data"</strong></a> with Garrett Scott, Drew Van Kuiken, and Jonathan W. Williams. <i> Accepted at Economics of Transportation.</i>
+		<ul style="list-style-type: none"> 
+			<li>
+				<details>
+				<summary><strong>Abstract</strong></summary>
+				<p> We analyze consumer search and purchase behavior in response to airline revenue-management practices using data from a major carrier's website and Google Flights. We first describe patterns in search timing, purchase decisions, and paid fares. Then we estimate a multinomial logistic regression to identify factors driving search timing, finding that single adults with loyalty status, especially booking one-way nonstop itineraries, tend to search closer to departure. Next, we use a binary logistic model of conversions of searches to sales, showing that competitors' prices and changing customer composition explain rising conversion probabilities as departure nears. Finally, using a fixed-effects regression, we reveal how search and booking patterns affect prices paid. Late-arriving travelers, particularly single adults with loyalty status, pay substantially more, consistent with the airline's pricing strategies that segment more inelastic customers. Overall, our findings underscore how revenue-management, competitor fares, and consumer characteristics jointly shape online search and purchase behavior.
+				</p>
+				</details>
+			</li>
+		</ul>
+	</li>
+</ul>
+
+
 ## Working Papers
 
 <ul>
@@ -32,17 +49,7 @@ redirect_from: /publications/
 	
 	
 
-	<li><a href="https://alexmarsh.io/files/MarshScottVanKuikenWilliams2024.pdf"><strong>"Should I Stay or Should I Go? An Empirical Analysis of Consumer Behavior Using Airline Web-Traffic Data"</strong></a> with Garrett Scott, Drew Van Kuiken, and Jonathan W. Williams. <i> Accepted at Economics of Transportation.</i>
-		<ul style="list-style-type: none"> 
-			<li>
-				<details>
-				<summary><strong>Abstract</strong></summary>
-				<p> We analyze consumer search and purchase behavior in response to airline revenue-management practices using data from a major carrier's website and Google Flights. We first describe patterns in search timing, purchase decisions, and paid fares. Then we estimate a multinomial logistic regression to identify factors driving search timing, finding that single adults with loyalty status, especially booking one-way nonstop itineraries, tend to search closer to departure. Next, we use a binary logistic model of conversions of searches to sales, showing that competitors' prices and changing customer composition explain rising conversion probabilities as departure nears. Finally, using a fixed-effects regression, we reveal how search and booking patterns affect prices paid. Late-arriving travelers, particularly single adults with loyalty status, pay substantially more, consistent with the airline's pricing strategies that segment more inelastic customers. Overall, our findings underscore how revenue-management, competitor fares, and consumer characteristics jointly shape online search and purchase behavior.
-				</p>
-				</details>
-			</li>
-		</ul>
-	</li>
+
 	<li><strong> "Allocating Upgrades: Challenges and Opportunities in the Airline Industry" </strong> with Garrett Scott and Jonathan W. Williams. <i> Draft available upon request. </i>
 		<ul style="list-style-type: none"> 
 			<li>
