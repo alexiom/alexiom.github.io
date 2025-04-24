@@ -36,3 +36,13 @@ $footer-background-color: $primary-color !default;
 .page__footer-follow .social-icons .svg-inline--fa {
   color: inherit;
 }
+
+
+
+details {
+
+  // when open, draw a colored vertical bar
+  &[open] {
+    border-left: 3px solid $secondary-color;  /* ← your desired color */
+  }
+}
