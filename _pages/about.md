@@ -11,7 +11,7 @@ header:
 
 My name is Alex Marsh, and I am a doctoral candidate in economics at the University of North Carolina - Chapel Hill. I was on the 2024-2025 economics job market and will be joining Bates White Economic Consulting in the Antitrust and Competition Practice.  
 
-<center> <a href="https://alexmarsh.io/files/AlexMarshJMP.pdf" class="btn btn--primary-secondary btn--large">Job Market Paper</a> &nbsp; &nbsp; &nbsp; <a href="https://alexmarsh.io/cv/" class="btn btn--primary btn--large">CV</a></center>
+<center> <a href="https://alexmarsh.io/files/AlexMarshJMP.pdf" class="btn btn--primary btn--large">Job Market Paper</a> &nbsp; &nbsp; &nbsp; <a href="https://alexmarsh.io/cv/" class="btn btn--primary btn--large">CV</a></center>
 
 ## Research Interests
 - Empirical Industrial Organization
