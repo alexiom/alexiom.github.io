@@ -38,23 +38,11 @@ $footer-background-color: $primary-color !default;
 }
 
 
-summary {
-  // standard ::marker for Firefox/Chrome
-  &::marker {
-    color: $secondary-color;         
-    font-size: $type-size-4;
-  }
-  // WebKit-only pseudo for Safari/older Chrome builds
-  &::-webkit-details-marker {
-    color: $secondary-color;
-    font-size: $type-size-4;
-  }
-}
-
-
 details {
   // when open, draw a colored vertical bar
   &[open] {
     border-left: 3px solid $secondary-color;  /* ← your desired color */
+    padding-left: 0.5rem;
+    margin-left: 1rem;
   }
 }
