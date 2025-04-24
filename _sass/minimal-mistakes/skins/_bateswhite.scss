@@ -27,3 +27,8 @@ $navicon-link-color-hover: mix($link-color, $text-color, 80%) !default;
 .page__footer-follow .social-icons .svg-inline--fa {
   color: inherit;
 }
+
+summary::-webkit-details-marker {
+  color: $secondary-color;
+  font-size: $type-size-4;
+}
