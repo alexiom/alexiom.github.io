@@ -12,6 +12,8 @@ $secondary-color: #7B9FCE !default;
 $border-color: mix(#fff, #393e46, 75%) !default;
 $footer-background-color: $primary-color !default;
 $link-color: $secondary-color !default;
+$link-color-hover: mix($secondary-color, $link-color, 25%) !default;
+$link-color-visited: mix($secondary-color, $link-color, 50%) !default;
 /* i liked this color #0EB28D */
 $masthead-background-color: $primary-color !default;
 $masthead-link-color: #fff !default;
