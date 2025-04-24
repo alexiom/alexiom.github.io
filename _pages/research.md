@@ -60,8 +60,14 @@ redirect_from: /publications/
 				</details>
 			</li>
 		</ul>
-	
 	</li>
+</ul>
+
+
+
+
+## Works in Progress
+<ul>
 	<li><strong>"Personalized Pricing in the Airline Industry"</strong> with Andrii Babii, Garrett Scott, and Jonathan W. Williams.
 	<!--
 			<ul style="list-style-type: none"> 
@@ -76,13 +82,6 @@ redirect_from: /publications/
 		</ul>
 	-->
 	</li>
-</ul>
-
-
-
-
-## Works in Progress
-<ul>
 	<li><strong> "Consideration Sets with Intertemporally Related Goods: Evidence from an Airline"</strong>
 	<!-- 
 		<ul style="list-style-type: none"> 
