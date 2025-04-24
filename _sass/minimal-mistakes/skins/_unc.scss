@@ -7,11 +7,14 @@ $background-color: #eeeeee !default;
 $text-color: #222831 !default;
 $muted-text-color: #393e46 !default;
 $primary-color: #7BAFD4 !default;
-$secondary-color: #7BAFD4 !default;
+$secondary-color: #13294B !default;
 $border-color: mix(#fff, #393e46, 75%) !default;
 $footer-background-color: $primary-color !default;
-$link-color: $secondary-color !default;
-/* i liked this color #0EB28D */
+
+$link-color: $primary-color !default;
+$link-color-hover: mix($secondary-color, $link-color, 50%) !default;
+$link-color-visited: mix($secondary-color, $link-color, 75%) !default;
+
 $masthead-background-color: $primary-color !default;
 $masthead-link-color: #fff !default;
 $masthead-link-color-hover: $text-color !default;
