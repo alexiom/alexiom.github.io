@@ -43,6 +43,10 @@ details {
 
   // when open, draw a colored vertical bar
   &[open] {
-    border-left: 3px solid $secondary-color;  /* ← your desired color */
+    summary + * {
+      border-left: 5px solid $secondary-color;
+      padding-left: 0.5rem;      /* so text doesn’t butt the border */
+      margin-left: 1rem;         /* align stripe under summary text */
+    }
   }
 }
