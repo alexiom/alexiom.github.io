@@ -58,7 +58,7 @@ details {
     summary + * {
       border-left: 5px solid $secondary-color;
       padding-left: 0.5rem;      /* so text doesn’t butt the border */
-      margin-left: 0.5rem;         /* align stripe under summary text */
+      margin-left: 1rem;         /* align stripe under summary text */
     }
   }
 }
