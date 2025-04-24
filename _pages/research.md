@@ -50,12 +50,12 @@ redirect_from: /publications/
 	
 
 
-	<li><strong> "Allocating Upgrades: Challenges and Opportunities in the Airline Industry" </strong> with Garrett Scott and Jonathan W. Williams. <i> Draft available upon request. </i>
+	<li><strong> "Consumer Awareness And Entry Into Upgrade Auctions" </strong> with Garrett Scott and Jonathan W. Williams. <i> Draft available upon request. </i>
 		<ul style="list-style-type: none"> 
 			<li>
 				<details>
 				<summary><strong>Abstract</strong></summary>
-				<p> We study the allocation of premium-cabin upgrades through auctions and fixed-price sales at check-in. Our data comes from a major airline and includes information on ticket sales, aircraft inventory, and upgrade purchases and bids, before and after the introduction of the upgrade mechanisms. We use a model to identify challenges and trade-offs associated with these practices and highlight factors that can impact their effectiveness. As implemented, we find that these practices lead to a minimal increase in revenue because upgrade opportunities largely cannibalize outright premium-cabin sales. We show that information dissemination and framing offer meaningful opportunities to improve performance, and discuss how to avoid cannibalization through improved integration with existing revenue-management systems.  
+				<p> We study the allocation of premium-cabin upgrades through auctions and fixed-price sales at check-in where not all consumers are aware of the upgrades using data from a major airline that include information on ticket sales, aircraft inventory, and upgrade bids and purchases. We exploit the exogenous introduction of new ways to bid to identify the effect of the upgrades on cabin demand and profits. As well, we use a model to simulate what happens as the share of aware consumers increases. As implemented, we find that these practices lead to a minimal increase in revenue because upgrade opportunities largely cannibalize outright premium-cabin sales.
 				</p>
 				</details>
 			</li>
