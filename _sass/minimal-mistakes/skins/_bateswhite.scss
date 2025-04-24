@@ -41,8 +41,10 @@ $footer-background-color: $primary-color !default;
 details {
   // when open, draw a colored vertical bar
   &[open] {
-    border-left: 3px solid $secondary-color;  /* ← your desired color */
-    padding-left: 0.5rem;
-    margin-left: 1rem;
+    summary + * {
+      border-left: 1rem solid $secondary-color;  /* ← your desired color */
+      padding-left: 0.5rem;
+      margin-left: 1rem;
+    }
   }
 }
