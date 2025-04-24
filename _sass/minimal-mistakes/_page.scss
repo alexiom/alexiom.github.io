@@ -256,12 +256,12 @@ summary {
 }
 
 summary::marker {
-    color: $secondary-color;
+    color: $marker-color;
     font-size: $type-size-4;
 }
 
 summary::-webkit-details-marker {
-    color: $secondary-color;
+    color: $marker-color;
     font-size: $type-size-4;
 }
 
