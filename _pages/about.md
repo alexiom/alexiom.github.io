@@ -6,7 +6,7 @@ author_profile: true
 header:
   og_image: /assets/images/images/headshot.png
   teaser: /assets/images/headshot.png
-  overlay_image: /assets/images/bateswhite_header.png
+  overlay_image: /assets/images/default_header.png
 ---
 
 My name is Alex Marsh, and I am a doctoral candidate in economics at the University of North Carolina - Chapel Hill. I was on the 2024-2025 economics job market and will be joining Bates White Economic Consulting in the Antitrust and Competition Practice.  
