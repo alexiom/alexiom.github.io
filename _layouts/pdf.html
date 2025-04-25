@@ -15,12 +15,12 @@ layout: default
     with the page redirection plugin: if that is defined
     it takes over.
   {% endcomment %}
-  <meta http-equiv="refresh" content="0;url={{ page.pdf | relative_url }}" />
+  <meta http-equiv="refresh" content="0; url={{ page.pdf | relative_url }}" />
   <link rel="canonical" href="{{ page.pdf | absolute_url }}"/>
 </head>
 <body>
   <h1>Redirecting...</h1>
-  <a href="{{ page.redir_to }}">Click here if you are not redirected.<a>
-  <script>location='{{ page.redir_to }}'</script>
+  <a href="{{ page.pdf }}">Click here if you are not redirected.<a>
+  <script>location='{{ page.pdf }}'</script>
 </body>
 </html>
