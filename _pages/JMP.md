@@ -1,5 +1,5 @@
 ---
 layout: default
 permalink: /jmp/
-redirect_to: /RevenueManagementWithReallocation/
+redirect_to: https://alexmarsh.io/RevenueManagementWithReallocation/
 ---

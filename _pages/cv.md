@@ -2,5 +2,5 @@
 layout: default
 seo_title: "Alex Marsh CV"
 permalink: /cv/
-redirect_to: /files/AlexMarshCV.pdf
+redirect_to: https://alexmarsh.io/files/AlexMarshCV.pdf
 ---
