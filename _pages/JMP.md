@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: redirect
 permalink: /RevenueManagementWithReallocation/
 redirect_from: 
   - /jmp/
