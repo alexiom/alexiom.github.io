@@ -11,6 +11,6 @@ title: Revenue Management With Reallocation
 seo_title: Revenue Management With Reallocation
 
 header:
-  og_image: /assets/images/images/ChangeInCSByChangeInProfits.png
+  og_image: /assets/images/ChangeInCSByChangeInProfits.png
   teaser: /assets/images/ChangeInCSByChangeInProfits.png
 ---
