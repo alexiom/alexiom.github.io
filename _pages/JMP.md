@@ -9,4 +9,8 @@ redirect_to: /files/RevenueManagementWithReallocation.pdf
 title: Revenue Management With Reallocation
 
 seo_title: Revenue Management With Reallocation
+
+header:
+  og_image: /assets/images/images/ChangeInCSByChangeInProfits.png
+  teaser: /assets/images/ChangeInCSByChangeInProfits.png
 ---
