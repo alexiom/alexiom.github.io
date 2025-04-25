@@ -5,4 +5,5 @@ pdf: /files/AlexMarshCV.pdf
 title: "Alex Marsh CV"
 seo_title: "Alex Marsh CV"
 author: "Alex Marsh"
+og_image: /assets/images/StateFlowDiagram.png
 ---
