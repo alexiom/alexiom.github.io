@@ -46,8 +46,10 @@ sidebar-research:
       - title: "Consumer Awareness And Entry Into Upgrade Auctions"
         url: "/ConsumerAwarenessAndEntryIntoUpgradeAuctions/"
   - title: "Works In Progress"
+    url: "/research/#works-in-progress"
+    children:
       - title: "Personalized Pricing in the Airline Industry"
-        url: "/research/#works-in-progress/"
+        url: "/research/#works-in-progress"
       - title: "Consideration Sets with Intertemporally Related Goods: Evidence from an Airline"
-        url: "/research/#works-in-progress/"
+        url: "/research/#works-in-progress"
 
