@@ -1,5 +1,4 @@
 ---
-layout: redirect
 permalink: /MarshScottVanKuikenWilliams2024/
 redirect_from:
     - /EOT/
