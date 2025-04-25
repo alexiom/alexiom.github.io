@@ -4,7 +4,7 @@ permalink: /
 title: "Welcome To My Website"
 author_profile: true
 header:
-  og_image: /assets/images/images/headshot.png
+  og_image: /assets/images/headshot.png
   teaser: /assets/images/headshot.png
   overlay_image: /assets/images/default_header.png
 ---
