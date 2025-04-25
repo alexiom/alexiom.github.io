@@ -172,6 +172,7 @@ include:
   - _teaching
   - files
   - assets/images
+  - assets/papers
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -281,6 +282,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-redirect-from
   - jemoji
 
 

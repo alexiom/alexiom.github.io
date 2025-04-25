@@ -2,6 +2,7 @@
 layout: single
 permalink: /RevenueManagementWithReallocation/
 redirect_to: /assets/papers/RevenueManagementWithReallocation.pdf
+title: "Revenue Management With Reallocation"
 seo_title: "Revenue Management With Reallocation"
 header:
   og_image: /assets/images/ChangeInCSByChangeInProfits.png
