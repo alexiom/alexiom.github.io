@@ -22,7 +22,7 @@ layout: default
   {% else %}
     <meta property="og:image"   content="{{ page.pdf | absolute_url }}">
     <meta name="twitter:image"   content="{{ page.pdf | absolute_url }}">
-{% endif %}
+  {% endif %}
 
   <meta http-equiv="refresh" content="0; url={{ page.pdf | relative_url }}" />
   <link rel="canonical" href="{{ page.pdf | absolute_url }}"/>
