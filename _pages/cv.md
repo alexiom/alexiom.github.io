@@ -1,8 +1,6 @@
 ---
-layout: single
-title: "CV"
+layout: redirect
+seo_title: "Alex Marsh CV"
 permalink: /cv/
-redirect_from: 
-  - /CV/
 redirect_to: /files/AlexMarshCV.pdf
 ---

@@ -6,11 +6,10 @@ author_profile: false
 header:
   og_image: /assets/images/headshot.png
   teaser: /assets/images/headshot.png
-  overlay_image: /assets/images/bateswhite_header.png
+  overlay_image: /assets/images/default_header.png
 sidebar:
   title: "Research"
   nav: sidebar-research
-redirect_from: /publications/
 ---
 
 <p style="font-size: 0.9em"> My research combines economic theory and frontier computational econometric methods to study price discrimination strategies and how they affect consumers. I focus on how firms can price discriminate effectively when facing dynamic and strategic consumers. Through a partnership with a North American airline, I examine various pricing mechanisms including dynamic pricing, upgrade auctions, and personalized discounting. I am currently exploring how consumers' flexibility across departure dates affects their price sensitivity and the impact of this flexibility on market definitions in air travel. In the future, I aim to apply these approaches to broader questions in industrial organization and other market settings. </p>

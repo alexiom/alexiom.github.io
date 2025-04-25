@@ -1,7 +1,6 @@
 ---
-layout: single
-title: Consumer Awareness And Entry Into Upgrade Auctions
+layout: redirect
+permalink: /ConsumerAwarenessAndEntryIntoUpgradeAuctions/
 seo_title: Consumer Awareness And Entry Into Upgrade Auctions
-permalink: /ConsumerAwarenessAndEntryUpgradeAuctions/
-redirect_to: /files/ConsumerAwarenessAndEntryUpgradeAuctions.pdf
+redirect_to: /papers/ConsumerAwarenessAndEntryUpgradeAuctions.pdf
 ---
