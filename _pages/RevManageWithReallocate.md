@@ -1,5 +1,5 @@
 ---
-layout: redirect
+layout: default
 permalink: /RevenueManagementWithReallocation/
 redirect_to: https://alexmarsh.io/assets/papers/RevenueManagementWithReallocation.pdf
 seo_title: "Revenue Management With Reallocation"
