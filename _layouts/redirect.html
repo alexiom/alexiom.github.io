@@ -1,0 +1,22 @@
+---
+# A custom redirect layout that plays nicely with Minimal Mistakes SEO/OG setup
+layout: null
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.seo_title | default: page.title }}</title>
+    {%- seo -%} <!-- this injects all your meta tags: og:title, twitter:title, etc. -->
+
+    <!-- the actual redirect -->
+    <meta http-equiv="refresh" content="0; url={{ page.redirect_to | relative_url }}">
+    <link rel="canonical" href="{{ page.redirect_to | absolute_url }}">
+  </head>
+  <body>
+    <!-- fallback for non-HTML clients -->
+    <p>
+      <a href="{{ page.redirect_to }}">Click here if you are not redirected automatically.</a>
+    </p>
+  </body>
+</html>
