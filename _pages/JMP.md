@@ -1,10 +1,10 @@
 ---
-layout: redirect
+layout: pdf
+pdf: /files/RevenueManagementWithReallocation.pdf
 permalink: /RevenueManagementWithReallocation/
 redirect_from: 
   - /jmp/
   - /JMP/
-redirect_to: /files/RevenueManagementWithReallocation.pdf
 
 title: Revenue Management With Reallocation
 
