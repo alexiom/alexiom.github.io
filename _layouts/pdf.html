@@ -10,17 +10,12 @@ layout: default
 
   {%- seo -%} <!-- this injects all your meta tags: og:title, twitter:title, etc. -->
 
-  {% comment %}
-    Don't use 'redirect_to' to avoid conflict
-    with the page redirection plugin: if that is defined
-    it takes over.
-  {% endcomment %}
   <meta http-equiv="refresh" content="0; url={{ page.pdf | relative_url }}" />
   <link rel="canonical" href="{{ page.pdf | absolute_url }}"/>
 </head>
 <body>
-  <h1>Redirecting...</h1>
-  <a href="{{ page.pdf }}">Click here if you are not redirected.<a>
-  <script>location='{{ page.pdf }}'</script>
+    <p>
+        <a href="{{ page.pdf }}">Click here if you are not redirected automatically.</a>
+    </p>
 </body>
 </html>
