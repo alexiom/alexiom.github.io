@@ -35,7 +35,7 @@ redirect_from: /publications/
 ## Working Papers
 
 <ul>
-	<li><a href="https://alexmarsh.io/files/AlexMarshJMP.pdf"><strong>"Revenue Management with Reallocation"</strong></a> with Garrett Scott and Jonathan W. Williams. 
+	<li><a href="https://alexmarsh.io/JMP/"><strong>"Revenue Management with Reallocation"</strong></a> with Garrett Scott and Jonathan W. Williams. 
 	<ul style="list-style-type: none"> 
 			<li>
 				<details>

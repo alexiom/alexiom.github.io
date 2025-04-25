@@ -1,7 +1,10 @@
 ---
 layout: single
-permalink: /JMP/
+title: Revenue Management With Reallocation
+seo_title: Revenue Management With Reallocation
+permalink: /RevenueManagementWithReallocation/
 redirect_from: 
   - /jmp/
-redirect_to: /files/AlexMarshJMP.pdf
+  - /JMP/
+redirect_to: /files/RevenueManagementWithReallocation.pdf
 ---
