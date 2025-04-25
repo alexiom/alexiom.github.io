@@ -8,6 +8,11 @@ layout: null
     <meta charset="utf-8">
     <title>{{ page.seo_title | default: page.title }}</title>
     {%- seo -%} <!-- this injects all your meta tags: og:title, twitter:title, etc. -->
+    
+    {%- if page.header.og_image -%}
+    <meta property="og:image"   content="{{ page.header.og_image | absolute_url }}">
+    <meta name="twitter:image" content="{{ page.header.og_image | absolute_url }}">
+    {%- endif -%}
 
     <!-- the actual redirect -->
     <meta http-equiv="refresh" content="0; url={{ page.redirect_to | relative_url }}">
