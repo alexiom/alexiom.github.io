@@ -37,14 +37,17 @@ sidebar-research:
     url: "/research/#publications"
     children:
       - title: "Should I Stay or Should I Go? An Empirical Analysis of Consumer Behavior Using Airline Web-Traffic Data"
-        url: "/files/MarshScottVanKuikenWilliams2024.pdf"
+        url: "/EOT2025/"
   - title: "Working Papers"
     url: "/research/#working-papers"
     children:
       - title: "Revenue Management with Reallocation"
-        url: "/files/AlexMarshJMP.pdf"
-      - title: "Allocating Upgrades: Challenges and Opportunities in the Airline Industry"
-        url: "/research/#working-papers"
+        url: "/RevenueManagementWithReallocation/"
+      - title: "Consumer Awareness And Entry Into Upgrade Auctions"
+        url: "/ConsumerAwarenessAndEntryIntoUpgradeAuctions/"
+  - title: "Works In Progress"
       - title: "Personalized Pricing in the Airline Industry"
-        url: "/research/#working-papers"
+        url: "/research/#works-in-progress/"
+      - title: "Consideration Sets with Intertemporally Related Goods: Evidence from an Airline"
+        url: "/research/#works-in-progress/"
 
