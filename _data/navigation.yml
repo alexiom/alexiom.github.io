@@ -13,10 +13,11 @@ main:
   #- title: "Personal"
   #  url: /personal/
 
+# ============================================================================ #
+#                           SIDE BAR NAVIGATION                                #
+# ============================================================================ #
 
-## --- Side bar navagation
-
-# side bar for teaching page
+# --- Teaching Page
 sidebar-teaching:
   - title: "Instructor"
     url: "/teaching/#instructor"
@@ -31,7 +32,7 @@ sidebar-teaching:
       - title: "ECON 470: Econometrics"
         url: "/teaching/#econ-470-econometrics"
         
-# side bar for research page
+# --- Reserach Page
 sidebar-research:
   - title: "Publications"
     url: "/research/#publications"
