@@ -10,6 +10,20 @@ layout: default
 
   {%- seo -%} <!-- this injects all your meta tags: og:title, twitter:title, etc. -->
 
+  {% if page.teaser %}
+    <meta property="og:image"   content="{{ page.header.og_image | absolute_url }}">
+    <meta name="twitter:image"   content="{{ page.header.og_image | absolute_url }}">
+  {% elsif page.og_image %}
+    <meta property="og:image"   content="{{ page.header.og_image | absolute_url }}">
+    <meta name="twitter:image"   content="{{ page.header.og_image | absolute_url }}">
+  {% elsif page.image %}
+    <meta property="og:image"   content="{{ page.header.image | absolute_url }}">
+    <meta name="twitter:image"   content="{{ page.header.image | absolute_url }}">
+  {% else %}
+    <meta property="og:image"   content="{{ page.pdf | absolute_url }}">
+    <meta name="twitter:image"   content="{{ page.pdf | absolute_url }}">
+{% endif %}
+
   <meta http-equiv="refresh" content="0; url={{ page.pdf | relative_url }}" />
   <link rel="canonical" href="{{ page.pdf | absolute_url }}"/>
 </head>
