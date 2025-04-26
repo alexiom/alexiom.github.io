@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: pdf
 permalink: /RevenueManagementWithReallocation/
-redirect_to: /assets/papers/RevenueManagementWithReallocation.pdf
+pdf: /papers/RevenueManagementWithReallocation.pdf
 title: "Revenue Management With Reallocation"
 seo_title: "Revenue Management With Reallocation"
 author: "Alex Marsh, Garrett Scott, and Jonathan W. Williams"
