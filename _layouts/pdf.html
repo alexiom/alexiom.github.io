@@ -1,18 +1,20 @@
 <!doctype html>
 <html lang="{{ site.locale | replace: "_", "-" | default: "en" }}" class="no-js">
   <head>
-    <meta http-equiv="refresh" content="0; url={{ page.pdf | relative_url }}" />
-    <link rel="canonical" href="{{ page.pdf | absolute_url }}"/>
+
+    {% assign preview_image = page.header.og_image | default: page.pdf %}
+
 
     {% include head.html %}
     {% include head/custom.html %}
-
-    {% assign preview_image = page.header.og_image | default: page.pdf %}
 
     {% if preview_image %}
       <meta property="og:image"   content="{{ preview_image | absolute_url }}">
       <meta name="twitter:image"   content="{{ preview_image | absolute_url }}">
     {% endif %}
+
+    <meta http-equiv="refresh" content="0; url={{ page.pdf | relative_url }}" />
+    <link rel="canonical" href="{{ page.pdf | absolute_url }}"/>
 
   </head>
 <body>
