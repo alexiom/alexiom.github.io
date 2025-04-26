@@ -1,22 +1,25 @@
-<!doctype html>
-<html lang="{{ site.locale | replace: "_", "-" | default: "en" }}" class="no-js">
-  <head>
+---
+layout: default
+---
 
-    {% assign preview_image = page.header.og_image | default: page.pdf %}
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.seo_title | default: page.title }}</title>
 
+  {%- seo -%} <!-- this injects all your meta tags: og:title, twitter:title, etc. -->
 
-    {% include head.html %}
-    {% include head/custom.html %}
+  {% assign preview_image = page.header.og_image | default: page.pdf %}
 
-    {% if preview_image %}
-      <meta property="og:image"   content="{{ preview_image | absolute_url }}">
-      <meta name="twitter:image"   content="{{ preview_image | absolute_url }}">
-    {% endif %}
+  {% if preview_image %}
+    <meta property="og:image"   content="{{ preview_image | absolute_url }}">
+    <meta name="twitter:image"   content="{{ preview_image | absolute_url }}">
+  {% endif %}
 
-    <meta http-equiv="refresh" content="0; url={{ page.pdf | relative_url }}" />
-    <link rel="canonical" href="{{ page.pdf | absolute_url }}"/>
-
-  </head>
+  <meta http-equiv="refresh" content="0; url={{ page.pdf | relative_url }}" />
+  <link rel="canonical" href="{{ page.pdf | absolute_url }}"/>
+</head>
 <body>
     <p>
         <a href="{{ page.pdf }}">Click here if you are not redirected automatically.</a>
