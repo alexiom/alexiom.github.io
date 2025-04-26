@@ -1,7 +1,8 @@
 ---
-layout: single
+layout: pdf
 permalink: /jmp/
-redirect_from: 
-  - /JMP/
-redirect_to: /files/AlexMarshJMP.pdf
+pdf: /assets/papers/RevenueManagementWithReallocation.pdf
+title: "Revenue Management With Reallocation"
+seo_title: "Revenue Management With Reallocation"
+author: "Alex Marsh, Garrett Scott, and Jonathan W. Williams"
 ---
