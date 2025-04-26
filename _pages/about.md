@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/default_header.png
 ---
 
-My name is Alex Marsh, and I have received earn Ph.D. in Economics at the University of North Carolina - Chapel Hill. I was on the 2024-2025 economics job market and will be joining Bates White Economic Consulting in the Antitrust and Competition Practice.  
+My name is Alex Marsh, and I recently received a Ph.D. in Economics at the University of North Carolina - Chapel Hill. I was on the 2024-2025 economics job market and will be joining the Antitrust and Competition Practice at Bates White Economic Consulting in August.
 
 <center> <a href="/jmp/" class="btn btn--primary-secondary btn--large">Job Market Paper</a> &nbsp; &nbsp; &nbsp; <a href="/cv/" class="btn btn--primary-secondary btn--large">CV</a></center>
 
