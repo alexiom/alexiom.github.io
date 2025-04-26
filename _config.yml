@@ -172,7 +172,7 @@ include:
   - _teaching
   - files
   - assets/images
-  - assets/papers
+  - papers
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

@@ -1,6 +1,8 @@
 ---
-layout: default
+layout: pdf
 permalink: /ConsumerAwarenessAndEntryIntoUpgradeAuctions/
-seo_title: Consumer Awareness And Entry Into Upgrade Auctions
-redirect_to: https://alexmarsh.io/assets/papers/ConsumerAwarenessAndEntryUpgradeAuctions.pdf
+pdf: /papers/ShouldIStayOrShouldIGo.pdf
+title: "Consumer Awareness And Entry Into Upgrade Auctions"
+seo_title: "Consumer Awareness And Entry Into Upgrade Auctions"
+author: "Alex Marsh, Garrett Scott, and Jonathan W. Williams"
 ---
