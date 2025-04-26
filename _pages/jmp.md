@@ -1,11 +1,9 @@
 ---
-layout: pdf
-permalink: /jmp/
-pdf: /assets/papers/RevenueManagementWithReallocation.pdf
-title: "Revenue Management With Reallocation"
-seo_title: "Revenue Management With Reallocation"
-author: "Alex Marsh, Garrett Scott, and Jonathan W. Williams"
-header:
-  og_image: /assets/images/ChangeInCSByChangeInProfits.png
-  teaser: /assets/images/ChangeInCSByChangeInProfits.png
+layout: default
+permalink: /jmp/            # the “pretty” URL you’ll link to
+title: "Revenue Management with Reallocation"
+seo_title: "Revenue Management with Reallocation (Working Paper)"
+# jekyll-redirect-from will emit a meta-refresh to your PDF
+redirect_to: /assets/papers/RevenueManagementWithReallocation.pdf
+sitemap: true                          # include in your sitemap if you like
 ---
