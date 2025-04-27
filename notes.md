@@ -19,8 +19,8 @@ files/
 │   └── slides2.pdf
 ├── research
 │   ├── code
-│   |   ├── script1.R
-│   |   └── script2.py
+│   │   ├── script1.R
+│   │   └── script2.py
 │   └── papers
 │       ├── paper1.pdf
 │       └── paper2.pdf
