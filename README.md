@@ -137,9 +137,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* I would like to thank [Michael Rose](https://github.com/mmistakes), the author of the [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/minimal-mistakes), as Minimal Mistakes served as the starting point for my website theme.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,8 +178,10 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 ## Changes Made To Minimal Mistakes Theme
 
 
-### Structure Of /files/
-To better organize the files needed for my website, I added subdirectories in the files directory. Here is an example file tree for how I organized files. This can easily be added.
+### Adding a files directory to top of repository
+To better organize the files needed for my website, I added a /files/ to the very top of the repo. This should include any files that you might want to share with others by sending a link. Files that are needed for the theme/layout should be included somewhere in /assets/.  
+
+Here is an example file tree for how I organized the subdirectories in /files/ along with notes explaining the reasoning for this structure.
 
 ```
 files/
