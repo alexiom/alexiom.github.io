@@ -10,8 +10,8 @@ main:
   - title: "Teaching"
     url: /teaching/
     
-  #- title: "Personal"
-  #  url: /personal/
+  - title: "Personal"
+    url: /personal/
 
 # ============================================================================ #
 #                           SIDE BAR NAVIGATION                                #
