@@ -2,6 +2,7 @@
 layout: single
 permalink: /
 title: "Welcome To My Website"
+author_profile: true
 header:
   overlay_image: /assets/images/default_header.png
 redirect_from:
