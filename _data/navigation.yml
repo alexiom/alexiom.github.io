@@ -38,14 +38,14 @@ sidebar-research:
     url: "/research/#publications"
     children:
       - title: "Should I Stay or Should I Go? An Empirical Analysis of Consumer Behavior Using Airline Web-Traffic Data"
-        url: "/EOT2025/"
+        url: "/papers/EOT2025/"
   - title: "Working Papers"
     url: "/research/#working-papers"
     children:
       - title: "Revenue Management with Reallocation"
-        url: "/RevenueManagementWithReallocation/"
+        url: "/papers/RevenueManagementWithReallocation/"
       - title: "Consumer Awareness And Entry Into Upgrade Auctions"
-        url: "/ConsumerAwarenessAndEntryIntoUpgradeAuctions/"
+        url: "/papers/ConsumerAwarenessAndEntryIntoUpgradeAuctions/"
   - title: "Works In Progress"
     url: "/research/#works-in-progress"
     children:
