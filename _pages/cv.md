@@ -5,4 +5,5 @@ pdf: "https://alexmarsh.io/files/AlexMarshCV.pdf"
 author: "Alex Marsh"
 title: 'Alex Marsh''s Curriculum Vitae (CV)'
 description: 'Download Alex Marsh''s CV'
+image: "https://alexmarsh.io/assets/iamges/headshot.png"
 ---
