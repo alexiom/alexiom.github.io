@@ -12,7 +12,7 @@ sidebar:
 ## Publications
 
 <ul>
-	<li><a href="https://alexmarsh.io/research/EOT2025/"><strong>"Should I Stay or Should I Go? An Empirical Analysis of Consumer Behavior Using Airline Web-Traffic Data"</strong></a> with Garrett Scott, Drew Van Kuiken, and Jonathan W. Williams. <i> Conditionally accepted at Economics of Transportation.</i>
+	<li><a href="/papers/EOT2025/"><strong>"Should I Stay or Should I Go? An Empirical Analysis of Consumer Behavior Using Airline Web-Traffic Data"</strong></a> with Garrett Scott, Drew Van Kuiken, and Jonathan W. Williams. <i> Conditionally accepted at Economics of Transportation.</i>
 		<ul style="list-style-type: none"> 
 			<li>
 				<details>
@@ -29,7 +29,7 @@ sidebar:
 ## Working Papers
 
 <ul>
-	<li><a href="https://alexmarsh.io/research/RevenueManagementWithReallocation/"><strong>"Revenue Management with Reallocation"</strong></a> with Garrett Scott and Jonathan W. Williams. 
+	<li><a href="/papers/RevenueManagementWithReallocation/"><strong>"Revenue Management with Reallocation"</strong></a> with Garrett Scott and Jonathan W. Williams. 
 	<ul style="list-style-type: none"> 
 			<li>
 				<details>
