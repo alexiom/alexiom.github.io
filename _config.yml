@@ -327,7 +327,7 @@ compress_html:
 
 collections:
   papers:
-    output: true         # ensures Jekyll writes HTML for each item
+    output: false         # ensures Jekyll writes HTML for each item
     permalink: /research/:slug/
 
 # Defaults
