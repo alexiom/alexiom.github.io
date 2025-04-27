@@ -169,6 +169,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _papers
   - _teaching
   - files
   - assets/images
@@ -337,3 +338,8 @@ defaults:
         og_image: /assets/images/default_headshot.png
         teaser: /assets/images/default_headshot.png
         overlay_image: /assets/images/default_header.png
+  - scope:
+      path: ""
+      type: papers
+    values:
+      layout: pdf
