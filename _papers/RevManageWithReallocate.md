@@ -1,5 +1,5 @@
 ---
-paper_permalink: /RevenueManagementWithReallocation/
+permalink: /RevenueManagementWithReallocation/
 pdf: "https://alexmarsh.io/files/research/papers/RevenueManagementWithReallocation.pdf"
 title: "Revenue Management With Reallocation"
 description: 'Download "Revenue Management With Reallocation" by Alex Marsh, Garrett Scott, and Jonathan W. Williams'

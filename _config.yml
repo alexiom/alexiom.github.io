@@ -328,7 +328,7 @@ compress_html:
 collections:
   papers:
     output: true         # ensures Jekyll writes HTML for each item
-    permalink: /research/:paper_permalink  # optional “pretty” URLs
+    permalink: /research/:basename/  # optional “pretty” URLs
 
 # Defaults
 defaults:
