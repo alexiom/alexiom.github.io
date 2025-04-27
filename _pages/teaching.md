@@ -2,7 +2,6 @@
 layout: teaching
 title: "Teaching"
 permalink: /teaching/
-author_profile: false
 sidebar:
   title: "Teaching Experience"
   nav: sidebar-teaching

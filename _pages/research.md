@@ -2,7 +2,6 @@
 layout: research
 permalink: /research/
 title: "Research"
-author_profile: false
 sidebar:
   title: "Research"
   nav: sidebar-research
