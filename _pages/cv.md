@@ -1,9 +1,8 @@
 ---
 layout: pdf
 permalink: /cv/
-redirect_to: /files/AlexMarshCV.pdf
-title: "Alex Marsh CV"
-seo_title: "Alex Marsh CV"
+pdf: "https://alexmarsh.io/files/AlexMarshCV.pdf"
 author: "Alex Marsh"
+title: "Alex Marsh's Curriculum Vitae (CV)"
 description: "Download Alex Marsh's CV"
 ---
