@@ -4,8 +4,6 @@ title: "Personal"
 permalink: /personal/
 author_profile: true
 header:
-  og_image: /assets/images/images/headshot.png
-  teaser: /assets/images/headshot.png
   overlay_image: /assets/images/default_header.png
 redirect_from:
 ---
