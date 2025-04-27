@@ -329,11 +329,6 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "/research/"
-      type: papers
-    values:
-      layout: pdf
-  - scope:
       path: "/_pages/"
       type: pages
     values:
@@ -343,3 +338,8 @@ defaults:
         og_image: /assets/images/default_headshot.png
         teaser: /assets/images/default_headshot.png
         overlay_image: /assets/images/default_header.png
+  - scope:
+      path: "/research/"
+      type: papers
+    values:
+      layout: pdf
