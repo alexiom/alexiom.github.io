@@ -1,5 +1,4 @@
 ---
-layout: pdf
 permalink: /papers/ConsumerAwarenessAndEntryIntoUpgradeAuctions/
 pdf: "https://alexmarsh.io/files/research/papers/ConsumerAwarenessAndEntryIntoUpgradeAuctions.pdf"
 title: "Consumer Awareness And Entry Into Upgrade Auctions"

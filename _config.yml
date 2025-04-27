@@ -333,3 +333,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: "/papers/"
+      type: pages
+    values:
+      layout: pdf
+      
