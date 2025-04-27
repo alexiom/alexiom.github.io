@@ -8,17 +8,22 @@ added page.image to be set as og_image if page.header.og_image is not supplied
 ## Organization of files directory
 I added subdirectories in the files directory to better organize the "raw" files needed for my website.
 
+```
 files/
 ├── CV.pdf
 ├── images
 │   ├── image1.png
 │   └── image2.png
-├── papers
-│   ├── paper1.pdf
-│   └── paper2.pdf
 ├── presentations
 │   ├── slides1.pdf
-│   └── sliders2.pdf
+│   └── slides2.pdf
+├── research
+│   ├── code
+│   |   ├── script1.R
+│   |   └── script2.py
+│   └── papers
+│       ├── paper1.pdf
+│       └── paper2.pdf
 ├── statements
 │   ├── statement1.pdf
 │   └── statement2.pdf
@@ -29,7 +34,7 @@ files/
     └── syllabi
         ├── syllabus1.pdf
         └── syllabus2.pdf
-
+```
 
 ## Where to add images that are to be included as part of the page layout and how to name them
 
