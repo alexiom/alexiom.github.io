@@ -1,7 +1,6 @@
 ---
-layout: pdf
-permalink: /jmp/
-pdf: "https://alexmarsh.io/papers/RevenueManagementWithReallocation.pdf"
+layout: default
+permalink: /papers/RevenueManagementWithReallocation.pdf
 author: "Alex Marsh, Garrett Scott, and Jonathan W. Williams"
 title: "Revenue Management With Reallocation"
 description: "Revenue Management With Realloaction by Alex Marsh, Garrett Scott, and Jonathan Williams"
