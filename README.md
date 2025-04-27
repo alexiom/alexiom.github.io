@@ -177,6 +177,12 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 ## Changes Made To Minimal Mistakes Theme
 
+### Add pdf layout
+- file location: _layouts/pdf.html
+
+### Set og_image to be page.image if og_image or teaser is not supplied
+- file location: _includes/seo.html
+
 
 ### Adding a files directory to top of repository
 To better organize the files needed for my website, I added a /files/ to the very top of the repo. This should include any files that you might want to share with others by sending a link. Files that are needed for the theme/layout should be included somewhere in /assets/.  
