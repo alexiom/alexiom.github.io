@@ -6,7 +6,7 @@ added page.image to be set as og_image if page.header.og_image is not supplied
 - file location: _includes/seo.html
 
 
-## Where to add images that are to be included as part of the page layout and how to name them
+## Updating Default Images
 
 To help with the explanation, suppose we want to use myheadshot.png as the default headshot for the website. 
 
