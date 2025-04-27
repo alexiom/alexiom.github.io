@@ -12,7 +12,7 @@ redirect_from:
 
 <h2 id="blog" style="margin-top: 0;">Blog</h2>
 
-[My personal blog can be found here.](https://alexmarsh.io/blog) This is a work in progress, and I plan to post about anything I find interesting. I foresee its primary focus to revolve around economics and antitrust; however, it may brach off into other topics such as academia, philosophy of science, and discussion of my hobbies.
+[My personal blog can be found here.](https://alexmarsh.io/blog) This is a work in progress, and I plan to post about anything I find interesting. I foresee its primary focus to revolve around economics and antitrust; however, it may branch off into other topics such as academia, philosophy of science, and discussion of my hobbies.
 
 ## Hobbies
 
