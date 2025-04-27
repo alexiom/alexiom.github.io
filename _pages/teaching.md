@@ -16,7 +16,7 @@ sidebar:
 
 ## ECON 370: Economic Applications of Data Science 
 
-Designed and taught ECON 370, the first course in the [**DATA credential**](https://econ.unc.edu/undergraduate/data-science-credential/) for undergraduate UNC economics majors. The course is intended for students to learn the R programming language to work with real world data, *assuming no prior coding experience.* Economic applications were used as examples to help students improve their base R skills and highlight the importance of programming in economics. Applications included auction simulation and solving basic optimization problems (e.g. utility maximization, OLS) numerically using [**optim**](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/optim.html). After the introduction to base R, I taught students the most common packages for working with data in R such as [**dplyr**](https://dplyr.tidyverse.org) and [**tidyr**](https://tidyr.tidyverse.org) in the [**tidyverse**](https://www.tidyverse.org) and [**data.table**](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html). I concluded the course by teaching students how to communicate their data visually using [**ggplot2**](https://ggplot2.tidyverse.org) and how to produce write-ups of their findings using [**R Markdown**](https://rmarkdown.rstudio.com). Any remaining time was used to teach them basic machine learning models such as clustering with K-means and EM. &nbsp; <a href="http://alexmarsh.io/files/ECON370_Syllabus_Fall2023.pdf" class="btn btn--primary-secondary btn--small btn--half">Syllabus</a> 
+Designed and taught ECON 370, the first course in the [**DATA credential**](https://econ.unc.edu/undergraduate/data-science-credential/) for undergraduate UNC economics majors. The course is intended for students to learn the R programming language to work with real world data, *assuming no prior coding experience.* Economic applications were used as examples to help students improve their base R skills and highlight the importance of programming in economics. Applications included auction simulation and solving basic optimization problems (e.g. utility maximization, OLS) numerically using [**optim**](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/optim.html). After the introduction to base R, I taught students the most common packages for working with data in R such as [**dplyr**](https://dplyr.tidyverse.org) and [**tidyr**](https://tidyr.tidyverse.org) in the [**tidyverse**](https://www.tidyverse.org) and [**data.table**](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html). I concluded the course by teaching students how to communicate their data visually using [**ggplot2**](https://ggplot2.tidyverse.org) and how to produce write-ups of their findings using [**R Markdown**](https://rmarkdown.rstudio.com). Any remaining time was used to teach them basic machine learning models such as clustering with K-means and EM. &nbsp; <a href="/files/teaching/syllabi/ECON370_Syllabus_Fall2023.pdf" class="btn btn--primary-secondary btn--small btn--half">Syllabus</a> 
 
 **Semesters Taught**: Fall 2021, Fall 2022, Fall 2023
 
@@ -34,7 +34,7 @@ ECON 370 is intended to provide a broad-based introduction to numerical and data
   
   <!-- First Quote -->
   <div class="quote__minipage">
-    <center style="margin-bottom: 0.25em;"> <a href="http://alexmarsh.io/files/ECON390_Fall2021_Evals.pdf" class="btn btn--primary btn--half">Fall 2021</a></center>
+    <center style="margin-bottom: 0.25em;"> <a href="/files/teacbing/evaluations/ECON390_Fall2021_Evals.pdf" class="btn btn--primary btn--half">Fall 2021</a></center>
     <center><strong> Overall Mean: 4/5 </strong> </center>
     <blockquote>
     	"Alex did a great job of teaching coding and the assignments were manageable and informative."
@@ -50,7 +50,7 @@ ECON 370 is intended to provide a broad-based introduction to numerical and data
     
   </div>
   <div class="quote__minipage">
-    <center style="margin-bottom: 0.25em;"> <a href="http://alexmarsh.io/files/ECON370_Fall2022_Evals.pdf" class="btn btn--primary btn--half">Fall 2022</a> </center>
+    <center style="margin-bottom: 0.25em;"> <a href="/files/teaching/evaluations/ECON370_Fall2022_Evals.pdf" class="btn btn--primary btn--half">Fall 2022</a> </center>
         <center><strong> Overall Mean: 4.08/5 </strong>    </center>
     <blockquote>
     	"Super accessible and very kind! It was apparent that he cared a lot about the class material and went out of his way to be helpful to students."
@@ -59,7 +59,7 @@ ECON 370 is intended to provide a broad-based introduction to numerical and data
     </blockquote>
   </div>
   <div class="quote__minipage">
-  	<center style="margin-bottom: 0.25em;"><a href="http://alexmarsh.io/files/ECON370_Fall2023_Evals.pdf" class="btn btn--primary btn--half">Fall 2023</a></center>
+  	<center style="margin-bottom: 0.25em;"><a href="/files/teaching/evaluations/ECON370_Fall2023_Evals.pdf" class="btn btn--primary btn--half">Fall 2023</a></center>
   	    <center><strong> Overall Mean: 4.44/5 </strong></center>
     <blockquote>
     	"He provided plenty of time in class to answer questions and consistently held office hours that were very helpful. Showing us real time in R what he was doing was also very helpful."
