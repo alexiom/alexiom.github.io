@@ -214,7 +214,8 @@ files/
 ```
 
 **Notes**:
-1. I included the pdf of my CV in the top level rather than in /jobmarket/ because a CV is more than just a resume that you use when looking for a job. It is a summary of who you are as an academic. As such, it makes sense to include at the top and not include in /jobmarket/. 
+1. Creating a files directory rather than placing them in assets is so that urls are cleaner/shorter.
+2. I included the pdf of my CV in the top level rather than in /jobmarket/ because a CV is more than just a resume that you use when looking for a job. It is a summary of who you are as an academic. As such, it makes sense to include at the top and not include in /jobmarket/. 
 
 ### Add pdf layout
 - file location: _layouts/pdf.html
