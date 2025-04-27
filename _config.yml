@@ -325,11 +325,16 @@ compress_html:
     envs: development
 
 
+collections:
+  papers:
+    output: true         # ensures Jekyll writes HTML for each item
+    permalink: /research/:basename/  # optional “pretty” URLs
+
 # Defaults
 defaults:
   # _posts
   - scope:
-      path: "/_pages/"
+      path: ""
       type: pages
     values:
       layout: single
@@ -339,7 +344,7 @@ defaults:
         teaser: /assets/images/default_headshot.png
         overlay_image: /assets/images/default_header.png
   - scope:
-      path: "/research/"
+      path: ""
       type: papers
     values:
       layout: pdf
