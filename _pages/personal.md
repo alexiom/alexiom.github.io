@@ -3,8 +3,6 @@ layout: archive
 title: "Personal"
 permalink: /personal/
 author_profile: true
-header:
-  overlay_image: /assets/images/default_header.png
 redirect_from:
 ---
 

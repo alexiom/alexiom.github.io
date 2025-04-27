@@ -3,8 +3,4 @@ layout: single
 permalink: /blog/
 title: "Blog"
 author_profile: true
-header:
-  og_image: /assets/images/images/default_headshot.png
-  teaser: /assets/images/default_headshot.png
-  overlay_image: /assets/images/default_header.png
 ---

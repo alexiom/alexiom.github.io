@@ -3,10 +3,6 @@ layout: teaching
 title: "Teaching"
 permalink: /teaching/
 author_profile: false
-header:
-  og_image: /assets/images/headshot.png
-  teaser: /assets/images/headshot.png
-  overlay_image: /assets/images/default_header.png
 sidebar:
   title: "Teaching Experience"
   nav: sidebar-teaching
