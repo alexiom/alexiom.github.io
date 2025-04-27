@@ -194,16 +194,16 @@ files/
 │   └── statements
 │       ├── AlexMarsh_ResearchStatement.pdf
 │       └── AlexMarsh_TeachingStatement.pdf
-├── presentations
-│   ├── slides1.pdf
-│   └── slides2.pdf
 ├── research
 │   ├── code
 │   │   ├── script1.R
 │   │   └── script2.py
-│   └── papers
-│       ├── paper1.pdf
-│       └── paper2.pdf
+│   ├── papers
+│   │   ├── paper1.pdf
+│   │   └── paper2.pdf
+│   └── presenations
+│       ├── slides1.pdf
+│       └── slides2.pdf
 └── teaching
     ├── evaluations
     │   ├── evals1.pdf
