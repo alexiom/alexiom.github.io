@@ -1,5 +1,5 @@
 ---
-layout: pdf
+layout: redirect
 permalink: /jmp/
 redirect_to: "https://alexmarsh.io/papers/RevenueManagementWithReallocation.pdf"
 title: "Revenue Management With Reallocation"
