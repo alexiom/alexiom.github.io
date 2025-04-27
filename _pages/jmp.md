@@ -1,7 +1,7 @@
 ---
-layout: redirect
+layout: pdf
 permalink: /jmp/
-redirect_to: "https://alexmarsh.io/papers/RevenueManagementWithReallocation.pdf"
+pdf: "https://alexmarsh.io/papers/RevenueManagementWithReallocation.pdf"
 title: "Revenue Management With Reallocation"
 seo_title: "Revenue Management With Reallocation"
 author: "Alex Marsh, Garrett Scott, and Jonathan W. Williams"
