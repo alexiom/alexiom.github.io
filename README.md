@@ -184,7 +184,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 - file location: _includes/seo.html
 
 
-### Adding a files directory to top of repository
+### Adding the files directory to the root
 To better organize the files needed for my website, I added a /files/ to the very top of the repo. This should include any files that you might want to share with others by sending a link. Files that are needed for the theme/layout should be included somewhere in /assets/.  
 
 Here is an example file tree for how I organized the subdirectories in /files/ along with notes explaining the reasoning for this structure.
@@ -220,3 +220,15 @@ files/
 
 **Notes**:
 1. I included the pdf of my CV in the top level rather than in /jobmarket/ because a CV is more than just a resume that you use when looking for a job. It is a summary of who you are as an academic. As such, it makes sense to include at the top and not include in /jobmarket/. 
+
+## Tips When Customizing Website
+
+### Updating Default Images
+
+To help with the explanation, suppose we want to use myheadshot.png as the default headshot for the website. 
+
+1. Create a copy of myheadshot.png named default_headshot.png
+2. Add original image to /files/images/ directory
+3. Add the copy of the image to /assets/images/
+
+Doing this ensures updating the imaged used as the headshot in the future only requires changing the /assets/images/default_headshot.png file rather than having to update the name of the new headshot file in multiple locations/pages.
