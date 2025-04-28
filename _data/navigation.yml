@@ -44,8 +44,8 @@ sidebar-research:
     children:
       - title: "Revenue Management with Reallocation"
         url: "/papers/RevenueManagementWithReallocation/"
-      - title: "Consumer Awareness And Entry Into Upgrade Auctions"
-        url: "/papers/ConsumerAwarenessAndEntryIntoUpgradeAuctions/"
+      - title: "Consumer Awareness And Entry In Upgrade Auctions"
+        url: "/papers/ConsumerAwarenessAndEntryInUpgradeAuctions/"
   - title: "Works In Progress"
     url: "/research/#works-in-progress"
     children:
