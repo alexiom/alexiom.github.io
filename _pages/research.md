@@ -42,9 +42,7 @@ sidebar:
 	</li>
 	
 	
-
-
-	<li><strong> "Consumer Awareness And Entry In Upgrade Auctions" </strong> with Garrett Scott and Jonathan W. Williams. <i> Draft available upon request. </i>
+	<li><strong> "Downgrading Revenue Management with Upgrade Auctions: Evidence from the Airline Industry" </strong> with Garrett Scott and Jonathan W. Williams. <i> Draft available upon request. </i>
 		<ul style="list-style-type: none"> 
 			<li>
 				<details>
