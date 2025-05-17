@@ -70,7 +70,5 @@ sidebar-research:
 
 # --- pyNCbat Page
 sidebar-pyNCbat:
-  - title: "Description"
-    url: "/research/pyNCbat/#description"
   - title: "Documentation"
     url: "/research/pyNCbat/#documentation"
