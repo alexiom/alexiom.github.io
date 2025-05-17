@@ -1,4 +1,7 @@
-## --- Main navagation links at top of pages
+# ============================================================================ #
+#                    MAIN NAVIGATION AT TOP OF WEBSITE PAGES                   #
+# ============================================================================ #
+
 main:
   - title: "CV"
     url: /cv/
@@ -57,7 +60,10 @@ sidebar-research:
     url: "/research/#other-work/"
     children:
       - title: "NC Battery Report"
-        url: "/papers/NC-Battery-Report/"
+        url: "/papers/nc-battery-report/"
+        children:
+          - title: "pyNCbat"
+            url: "/research/pyNCbat/"
 
 
 # --- pyNCbat Page

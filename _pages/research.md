@@ -102,7 +102,7 @@ sidebar:
 		</ul>
 		<ul> 
 			<li> 
-				Python Package: <a href="/pyNCbat/"><strong>pyNCbat</strong></a>
+				Python Package: <a href="/research/pyNCbat/"><strong>pyNCbat</strong></a>
 			</li>
 		</ul>
 	</li>
