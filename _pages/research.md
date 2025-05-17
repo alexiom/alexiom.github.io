@@ -90,6 +90,27 @@ sidebar:
 	</li>
 </ul>
 
+## Other Work
+
+
+<ul>
+	<li><a href="/research/NC-Battery/"><strong>"North Carolina Battery Report, Economics Section"</strong></a> with Hannah Rubenstein, Drew Van Kuiken, Jonathan W. Williams, and Andy Yates.
+		<ul style="list-style-type: none"> 
+			<li href="research/pyNCbat/"> 
+				Python Package: pyNCbat
+			</li>
+			<li>
+				<details>
+				<summary><strong>Overview of Findings</strong></summary>
+				<p> Put overview of findings here.
+				</p>
+				</details>
+			</li>
+		</ul>
+	</li>
+</ul>
+
+
 <!-- 
 ## Direction of Future Work
 
