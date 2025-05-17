@@ -53,6 +53,11 @@ sidebar-research:
         url: "/research/#works-in-progress"
       - title: "Consideration Sets with Intertemporally Related Goods: Evidence from an Airline"
         url: "/research/#works-in-progress"
+  - title: "Other Work"
+    url: "/research/#other-work/"
+    children:
+      - title: "NC Battery Report"
+        url: "/papers/NC-Battery-Report/"
 
 
 # --- pyNCbat Page
