@@ -12,7 +12,7 @@ sidebar:
 ## Publications
 
 <ul>
-	<li><a href="/papers/EOT2025/"><strong>"Should I Stay or Should I Go? An Empirical Analysis of Consumer Behavior Using Airline Web-Traffic Data"</strong></a> with Garrett Scott, Drew Van Kuiken, and Jonathan W. Williams. <i> Forthcoming at Economics of Transportation.</i>
+	<li><a href="/papers/EOT-2025/"><strong>"Should I Stay or Should I Go? An Empirical Analysis of Consumer Behavior Using Airline Web-Traffic Data"</strong></a> with Garrett Scott, Drew Van Kuiken, and Jonathan W. Williams. <i> Forthcoming at Economics of Transportation.</i>
 		<ul style="list-style-type: none"> 
 			<li>
 				<details>
@@ -29,7 +29,7 @@ sidebar:
 ## Working Papers
 
 <ul>
-	<li><a href="/papers/RevenueManagementWithReallocation/"><strong>"Revenue Management with Reallocation"</strong></a> with Garrett Scott and Jonathan W. Williams. 
+	<li><a href="/papers/revenue-management-with-reallocation/"><strong>"Revenue Management with Reallocation"</strong></a> with Garrett Scott and Jonathan W. Williams. 
 	<ul style="list-style-type: none"> 
 			<li>
 				<details>
@@ -40,8 +40,6 @@ sidebar:
 			</li>
 		</ul>
 	</li>
-	
-	
 	<li><strong> "Downgrading Revenue Management with Upgrade Auctions: Evidence from the Airline Industry" </strong> with Garrett Scott and Jonathan W. Williams. <i> Draft available upon request. </i>
 		<ul style="list-style-type: none"> 
 			<li>
@@ -54,8 +52,6 @@ sidebar:
 		</ul>
 	</li>
 </ul>
-
-
 
 
 ## Works in Progress
@@ -94,7 +90,7 @@ sidebar:
 
 
 <ul>
-	<li><a href="/research/NC-Battery/"><strong>"North Carolina Battery Report, Economics Section"</strong></a> with Hannah Rubenstein, Drew Van Kuiken, Jonathan W. Williams, and Andy Yates.
+	<li><a href="/papers/nc-battery-report/"><strong>"North Carolina Battery Report, Economics Section"</strong></a> with Hannah Rubenstein, Drew Van Kuiken, Jonathan W. Williams, and Andy Yates.
 		<ul style="list-style-type: none"> 
 			<li>
 				<details>
