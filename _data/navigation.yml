@@ -57,13 +57,15 @@ sidebar-research:
       - title: "Consideration Sets with Intertemporally Related Goods"
         url: "/research/#works-in-progress"
   - title: "Other Work"
-    url: "/research/#other-work/"
+    url: "/research/#other-work"
     children:
       - title: "NC Battery Report"
         url: "/papers/nc-battery-report/"
-        children:
-          - title: "pyNCbat"
-            url: "/research/pyNCbat/"
+  - title: "Code"
+    url: "/research/#code"
+    children:
+      - title: "pyNCbat"
+        url: "/research/pyNCbat/"
 
 
 # --- pyNCbat Page
