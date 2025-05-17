@@ -57,8 +57,5 @@ sidebar-research:
 
 # --- pyNCbat Page
 sidebar-research:
-  - title: "pyNCbat"
-    url: "/research/pyNCbat/"
-    children:
-      - title: "Description"
-        url: "/research/pyNCbat/#description"
+  - title: "Description"
+    url: "/research/pyNCbat/#description"
