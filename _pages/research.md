@@ -101,7 +101,7 @@ sidebar:
 		</ul>
 		<ul>
 			<li>
-				For code and repliaction package, see <a href="/research/pyNCbat/"><strong>pyNCbat</strong></a> in section <a href="/research/#code"><strong>Code</strong></a> below.
+				For code and repliaction package, see <a href="/pyNCbat/"><strong>pyNCbat</strong></a> in section <a href="/research/#code"><strong>Code</strong></a> below.
 			</li>
 		</ul>
 	</li>
@@ -111,7 +111,7 @@ sidebar:
 ## Code
 <ul> 
 	<li> 
-		<a href="/research/pyNCbat/"><strong>pyNCbat</strong></a> Python Package
+		<a href="/pyNCbat/"><strong>pyNCbat</strong></a> Python Package
 	</li>
 </ul>
 
