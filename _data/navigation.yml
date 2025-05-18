@@ -65,12 +65,4 @@ sidebar-research:
     url: "/research/#code"
     children:
       - title: "pyNCbat"
-        url: "/research/pyNCbat/"
-
-
-# --- pyNCbat Page
-sidebar-pyNCbat:
-  - title: "Installation"
-    url: "/research/pyNCbat/#installation"
-  - title: "Documentation"
-    url: "/research/pyNCbat/#documentation"
+        url: "/pyNCbat/"
