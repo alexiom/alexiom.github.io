@@ -9,7 +9,9 @@ sidebar:
 
 <p style="font-size: 0.9em"> My research combines economic theory and frontier computational econometric methods to study price discrimination strategies and how they affect consumers. I focus on how firms can price discriminate effectively when facing dynamic and strategic consumers. Through a partnership with a North American airline, I examine various pricing mechanisms including dynamic pricing, upgrade auctions, and personalized discounting. I am currently exploring how consumers' flexibility across departure dates affects their price sensitivity and the impact of this flexibility on market definitions in air travel. In the future, I aim to apply these approaches to broader questions in industrial organization and other market settings. </p>
 
-## Publications
+## Papers
+
+### Publications
 
 <ul>
 	<li><a href="/papers/EOT-2025/"><strong>"Should I Stay or Should I Go? An Empirical Analysis of Consumer Behavior Using Airline Web-Traffic Data"</strong></a> with Garrett Scott, Drew Van Kuiken, and Jonathan W. Williams. <i> Forthcoming at Economics of Transportation.</i>
@@ -25,8 +27,7 @@ sidebar:
 	</li>
 </ul>
 
-
-## Working Papers
+### Working Papers
 
 <ul>
 	<li><a href="/papers/revenue-management-with-reallocation/"><strong>"Revenue Management with Reallocation"</strong></a> with Garrett Scott and Jonathan W. Williams. 
@@ -54,7 +55,7 @@ sidebar:
 </ul>
 
 
-## Works in Progress
+### Works in Progress
 <ul>
 	<li><strong>"Personalized Pricing in the Airline Industry"</strong> with Andrii Babii, Garrett Scott, and Jonathan W. Williams.
 	<!--
@@ -86,7 +87,7 @@ sidebar:
 	</li>
 </ul>
 
-## Other Work
+### Other Work
 
 <ul>
 	<li><a href="/papers/nc-battery-report/"><strong>"North Carolina Battery Report, Economics Section"</strong></a> with Hannah Rubenstein, Drew Van Kuiken, Jonathan W. Williams, and Andy Yates.
