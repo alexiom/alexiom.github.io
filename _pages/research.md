@@ -39,7 +39,7 @@ sidebar:
 			</li>
 		</ul>
 	</li>
-	<li><strong> "Downgrading Revenue Management with Upgrade Auctions: Evidence from the Airline Industry" </strong> with Garrett Scott and Jonathan W. Williams. <i> Draft available upon request. </i>
+	<li><strong> "Are Auctions an Upgrade for Revenue Management? Evidence from the Airline Industry" </strong> with Garrett Scott and Jonathan W. Williams. <i> Draft available upon request. </i>
 		<ul style="list-style-type: none"> 
 			<li>
 				<details>
