@@ -12,7 +12,7 @@ sidebar:
 ## Publications
 
 <ul>
-	<li><a href="/papers/EOT-2025/"><strong>"Should I Stay or Should I Go? An Empirical Analysis of Consumer Behavior Using Airline Web-Traffic Data"</strong></a> with Garrett Scott, Drew Van Kuiken, and Jonathan W. Williams. <i> Forthcoming at Economics of Transportation.</i>
+	<li><a href="/papers/EOT-2025/"><strong>"Should I Stay or Should I Go? An Empirical Analysis of Consumer Behavior Using Airline Web-Traffic Data"</strong></a> with Garrett Scott, Drew Van Kuiken, and Jonathan W. Williams. <i> Economics of Transportation.</i> doi: <a href="https://doi.org/10.1016/j.ecotra.2025.100425">10.1016/j.ecotra.2025.100425</a>
 		<ul style="list-style-type: none"> 
 			<li>
 				<details>
