@@ -7,7 +7,7 @@ redirect_from:
   - /about/
 ---
 
-My name is Alex Marsh, and I recently completed a Ph.D. in Economics at the University of North Carolina at Chapel Hill. I was on the 2024-2025 economics job market and will be joining the Antitrust and Competition Practice at Bates White Economic Consulting in August.
+My name is Alex Marsh, and I am an Economist in the Antitrust and Competition Practice at Bates White Economic Consulting in Washington, DC. I completed my Ph.D. in Economics at the University of North Carolina at Chapel Hill. My research interests are in empirical industrial organization, specifically in empirical auctions and market definitions.
 
 <center> <a href="/papers/jmp/" class="btn btn--primary-secondary btn--large">Job Market Paper</a> &nbsp; &nbsp; &nbsp; <a href="/cv/" class="btn btn--primary-secondary btn--large">CV</a></center>
 
