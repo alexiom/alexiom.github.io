@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "unc" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "bateswhite" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -116,7 +116,7 @@ author:
   name             : "Alex Marsh"
   avatar           : "/assets/images/default_headshot.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Empirical Economist"
-  location         : "Chapel Hill, NC"
+  location         : "Washington, DC"
   email            : "alex.marsh@unc.edu"
   orcid            : "https://orcid.org/0009-0004-9133-1813"
   links:
