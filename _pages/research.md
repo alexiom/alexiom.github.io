@@ -39,12 +39,12 @@ sidebar:
 			</li>
 		</ul>
 	</li>
-	<li><strong> "Are Auctions an Upgrade for Revenue Management? Evidence from the Airline Industry" </strong> with Garrett Scott and Jonathan W. Williams. <i> Draft available upon request. </i>
+	<li><strong> "Are Auctions an Upgrade to Revenue Management? Evidence from the Airline Industry" </strong> with Garrett Scott and Jonathan W. Williams. <i> Draft available upon request. </i>
 		<ul style="list-style-type: none"> 
 			<li>
 				<details>
 				<summary><strong>Abstract</strong></summary>
-				<p> We study the allocation of premium-cabin upgrades through auctions and fixed-price sales at check-in where not all consumers are aware of the upgrades using data from a major airline that include information on ticket sales, aircraft inventory, and upgrade bids and purchases. We exploit the exogenous introduction of new ways to bid to identify the effect of the upgrades on cabin demand and profits. As well, we use a model to simulate what happens as the share of aware consumers increases. As implemented, we find that these practices lead to a minimal increase in revenue because upgrade opportunities largely cannibalize outright premium-cabin sales.
+				<p> We develop a model to study the profitability of complementing traditional revenue-management practices for selling vertically-differentiated goods with auctions and fixed-price sales to allocate upgrades. The effect on profits is ambiguous because strategic consumers can exploit the airline's lack of commitment by opting for an economy fare and increasing the probability that upgrades are awarded in equilibrium. The magnitude depends on properties of the demand process and level of awareness among consumers regarding the upgrade opportunities. To measure this trade-off in practice, we use data from a major airline that includes information on ticket sales, aircraft inventory, and bids for and fixed-price sales of upgrades. For identification purposes, we exploit an experiment that introduced a pre-travel email to increase consumer awareness regarding the upgrade opportunities. We find that the notification effort doubled auction participation and bid revenue, but decreased overall revenue due to a reduction in outright premium seat purchases. However, consistent with the model's predictions, the effect varies in sign and magnitude across different types of markets. Generally, our work highlights the challenges with integrating silo'd algorithmic decision-making processes in settings with equilibrium effects.
 				</p>
 				</details>
 			</li>
