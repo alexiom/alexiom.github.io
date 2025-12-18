@@ -39,7 +39,7 @@ sidebar:
 			</li>
 		</ul>
 	</li>
-	<li><a href="/auctions-upgrade-to-revenue-management/"><strong> "Are Auctions an Upgrade to Revenue Management? Evidence from the Airline Industry" </strong> with Garrett Scott and Jonathan W. Williams. 
+	<li><a href="/auctions-upgrade-to-revenue-management/"><strong> "Are Auctions an Upgrade to Revenue Management? Evidence from the Airline Industry" </strong></a> with Garrett Scott and Jonathan W. Williams. 
 		<ul style="list-style-type: none"> 
 			<li>
 				<details>
