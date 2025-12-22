@@ -17,8 +17,8 @@ $muted-text-color: #393e46 !default;
 
 /* set link colors */
 $link-color: #DE4679 !default;
-$link-color-hover: mix(#AB71AB, $link-color, 75%) !default;
-$link-color-visited: #AB71AB !default;
+$link-color-hover: mix($primary-color, $link-color, 75%) !default;
+$link-color-visited: #DE4679 !default;
 
 /* set masthead/header colors */
 $masthead-background-color: $primary-color !default;
