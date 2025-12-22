@@ -23,8 +23,8 @@ $link-color-visited: #DE4679 !default;
 /* set masthead/header colors */
 $masthead-background-color: $primary-color !default;
 $masthead-link-color: #fff !default;
-$masthead-link-color-hover: $link-color !default;
-$navicon-link-color-hover: mix($link-color, $text-color, 80%) !default;
+$masthead-link-color-hover: $secondary-color !default;
+$navicon-link-color-hover: mix($secondary-color, $text-color, 80%) !default;
 
 /* set footer colors */
 $footer-background-color: $primary-color !default;
