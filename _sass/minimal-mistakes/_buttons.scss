@@ -30,8 +30,8 @@
 
   /* button colors */
   $buttoncolors:
-  (primary, $primary-color),
-  (primary-secondary, $primary-color),
+  (primary, $secondary-color),
+  (primary-secondary, $secondary-color),
   (inverse, #fff),
   (light-outline, transparent),
   (success, $success-color),
