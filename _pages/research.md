@@ -88,31 +88,10 @@ sidebar:
 ## Other Writing
 
 <ul>
-	<li><a href="/papers/nc-battery-report/"><strong>"North Carolina Battery Report, Economics Section"</strong></a> with Hannah Rubenstein, Drew Van Kuiken, Jonathan W. Williams, and Andy Yates.
-		<ul style="list-style-type: none"> 
-			<li>
-				<details>
-				<summary><strong>Overview of Findings</strong></summary>
-				<p> Put overview of findings here.
-				</p>
-				</details>
-			</li>
-		</ul>
-		<ul>
-			<li>
-				For code and repliaction package, see <a href="/pyNCbat/"><strong>pyNCbat</strong></a> in section <a href="/research/#code"><strong>Code</strong></a> below.
-			</li>
-		</ul>
+	<li><a href="/papers/nc-battery-report/"><strong>"Supercharing Energy Storage Innovations in North Carolina"</strong></a> 
 	</li>
 </ul>
 
-
-## Code
-<ul> 
-	<li> 
-		<a href="/pyNCbat/"><strong>pyNCbat</strong></a> Python Package
-	</li>
-</ul>
 
 
 <!-- 
