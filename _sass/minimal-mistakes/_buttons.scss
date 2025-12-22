@@ -58,7 +58,7 @@
 
       @if ($buttoncolor == primary-secondary) {
         &:hover {
-          @include yiq-contrasted(mix($secondary-color, $color, 50%));
+          @include yiq-contrasted(mix($link-color, $color, 50%));
         }
       } @else {
         &:hover {
